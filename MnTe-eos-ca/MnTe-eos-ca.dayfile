@@ -1,0 +1,1329 @@
+
+Calculating MnTe-eos-ca in /home/n1/WIEN2k/MnTe-eos-ca
+on n1 with PID 9482
+using WIEN2k_18.2 (Release 17/7/2018) in /home/n1/WIEN2k18
+
+
+    start 	(Sat Oct 12 18:56:07 +0330 2019) with lapw0 (200/99 to go)
+
+    cycle 1 	(Sat Oct 12 18:56:07 +0330 2019) 	(200/99 to go)
+
+>   lapw0  -p	(18:56:07) starting parallel lapw0 at Sat Oct 12 18:56:07 +0330 2019
+-------- .machine0 : processors
+running lapw0 in single mode
+1.188u 0.009s 0:01.19 99.1%	0+0k 0+1232io 0pf+0w
+>   lapw1  -up -p     	(18:56:08) starting parallel lapw1 at Sat Oct 12 18:56:08 +0330 2019
+->  starting parallel LAPW1 jobs at Sat Oct 12 18:56:08 +0330 2019
+running LAPW1 in parallel mode (using .machines)
+8 number_of_parallel_jobs
+     localhost(15) 6.686u 0.210s 0:08.15 84.5%	0+0k 0+13832io 0pf+0w
+     localhost(15) 6.827u 0.293s 0:08.47 83.9%	0+0k 0+13440io 0pf+0w
+     localhost(15) 7.490u 0.267s 0:08.91 86.9%	0+0k 0+13512io 0pf+0w
+     localhost(15) 7.701u 0.198s 0:08.38 94.1%	0+0k 0+13408io 0pf+0w
+     localhost(15) 7.380u 0.251s 0:08.34 91.4%	0+0k 0+13520io 0pf+0w
+     localhost(15) 6.883u 0.228s 0:08.69 81.7%	0+0k 0+13520io 0pf+0w
+     localhost(15) 6.991u 0.266s 0:08.31 87.2%	0+0k 0+13568io 0pf+0w
+     localhost(15) 7.298u 0.233s 0:08.00 94.0%	0+0k 0+13576io 0pf+0w
+   Summary of lapw1para:
+   localhost	 k=120	 user=57.256	 wallclock=67.25
+57.628u 2.128s 0:10.45 571.6%	0+0k 0+109552io 0pf+0w
+>   lapw1  -dn -p     	(18:56:18) starting parallel lapw1 at Sat Oct 12 18:56:18 +0330 2019
+->  starting parallel LAPW1 jobs at Sat Oct 12 18:56:18 +0330 2019
+running LAPW1 in parallel mode (using .machines.help)
+8 number_of_parallel_jobs
+     localhost(15) 6.475u 0.219s 0:08.53 78.3%	0+0k 0+13688io 0pf+0w
+     localhost(15) 7.050u 0.187s 0:08.03 90.0%	0+0k 0+13304io 0pf+0w
+     localhost(15) 7.084u 0.255s 0:08.52 86.0%	0+0k 0+13344io 0pf+0w
+     localhost(15) 7.201u 0.228s 0:08.78 84.5%	0+0k 0+13280io 0pf+0w
+     localhost(15) 7.141u 0.234s 0:08.51 86.6%	0+0k 0+13352io 0pf+0w
+     localhost(15) 7.005u 0.296s 0:08.72 83.6%	0+0k 0+13336io 0pf+0w
+     localhost(15) 7.063u 0.258s 0:08.26 88.4%	0+0k 0+13448io 0pf+0w
+     localhost(15) 6.843u 0.257s 0:08.12 87.3%	0+0k 0+13512io 0pf+0w
+   Summary of lapw1para:
+   localhost	 k=120	 user=55.862	 wallclock=67.47
+56.216u 2.067s 0:10.45 557.6%	0+0k 0+108424io 0pf+0w
+>   lapw2 -up -p       	(18:56:29) running LAPW2 in parallel mode
+      localhost 0.817u 0.029s 0:00.89 93.2% 0+0k 0+704io 0pf+0w
+      localhost 1.046u 0.020s 0:01.09 97.2% 0+0k 0+592io 0pf+0w
+      localhost 0.951u 0.032s 0:01.03 95.1% 0+0k 0+592io 0pf+0w
+      localhost 1.125u 0.027s 0:01.22 93.4% 0+0k 0+592io 0pf+0w
+      localhost 0.942u 0.036s 0:01.01 96.0% 0+0k 0+592io 0pf+0w
+      localhost 0.962u 0.024s 0:01.06 92.4% 0+0k 0+592io 0pf+0w
+      localhost 0.917u 0.043s 0:01.03 92.2% 0+0k 0+592io 0pf+0w
+      localhost 0.927u 0.040s 0:01.05 91.4% 0+0k 0+592io 0pf+0w
+   Summary of lapw2para:
+   localhost	 user=7.687	 wallclock=8.38
+8.058u 0.418s 0:03.14 269.4%	0+0k 0+8384io 0pf+0w
+>   lapw2 -dn -p       	(18:56:32) running LAPW2 in parallel mode
+      localhost 0.772u 0.024s 0:00.81 97.5% 0+0k 0+704io 0pf+0w
+      localhost 0.788u 0.036s 0:00.83 97.5% 0+0k 0+592io 0pf+0w
+      localhost 0.783u 0.009s 0:00.82 95.1% 0+0k 0+592io 0pf+0w
+      localhost 0.882u 0.032s 0:00.96 94.7% 0+0k 0+592io 0pf+0w
+      localhost 0.767u 0.020s 0:00.82 95.1% 0+0k 0+592io 0pf+0w
+      localhost 0.869u 0.024s 0:00.94 93.6% 0+0k 0+608io 0pf+0w
+      localhost 0.790u 0.052s 0:00.93 90.3% 0+0k 0+592io 0pf+0w
+      localhost 0.736u 0.029s 0:00.82 91.4% 0+0k 0+592io 0pf+0w
+   Summary of lapw2para:
+   localhost	 user=6.387	 wallclock=6.93
+6.678u 0.276s 0:02.89 240.1%	0+0k 0+8416io 0pf+0w
+>   lcore -up 	(18:56:35) 0.012u 0.000s 0:00.01 100.0%	0+0k 0+432io 0pf+0w
+>   lcore -dn 	(18:56:35) 0.012u 0.000s 0:00.01 100.0%	0+0k 0+432io 0pf+0w
+>   mixer  	(18:56:35) 0.019u 0.007s 0:00.04 25.0%	0+0k 0+3152io 0pf+0w
+:ENERGY convergence:  0 0 0
+:CHARGE convergence:  0 0.0001 0
+
+    cycle 2 	(Sat Oct 12 18:56:35 +0330 2019) 	(199/98 to go)
+
+>   lapw0  -p	(18:56:35) starting parallel lapw0 at Sat Oct 12 18:56:35 +0330 2019
+-------- .machine0 : processors
+running lapw0 in single mode
+1.190u 0.025s 0:01.21 100.0%	0+0k 0+1248io 0pf+0w
+>   lapw1  -up -p     	(18:56:36) starting parallel lapw1 at Sat Oct 12 18:56:36 +0330 2019
+->  starting parallel LAPW1 jobs at Sat Oct 12 18:56:36 +0330 2019
+running LAPW1 in parallel mode (using .machines)
+8 number_of_parallel_jobs
+     localhost(15) 6.823u 0.228s 0:07.61 92.5%	0+0k 0+13848io 0pf+0w
+     localhost(15) 7.262u 0.231s 0:08.60 87.0%	0+0k 0+13448io 0pf+0w
+     localhost(15) 7.098u 0.212s 0:08.33 87.6%	0+0k 0+13512io 0pf+0w
+     localhost(15) 7.468u 0.243s 0:08.57 89.8%	0+0k 0+13424io 0pf+0w
+     localhost(15) 7.615u 0.220s 0:08.55 91.5%	0+0k 0+13528io 0pf+0w
+     localhost(15) 6.989u 0.252s 0:08.74 82.7%	0+0k 0+13512io 0pf+0w
+     localhost(15) 7.293u 0.242s 0:08.66 86.9%	0+0k 0+13576io 0pf+0w
+     localhost(15) 7.067u 0.278s 0:08.27 88.6%	0+0k 0+13616io 0pf+0w
+   Summary of lapw1para:
+   localhost	 k=120	 user=57.615	 wallclock=67.33
+58.017u 2.048s 0:10.59 567.0%	0+0k 0+109632io 0pf+0w
+>   lapw1  -dn -p     	(18:56:47) starting parallel lapw1 at Sat Oct 12 18:56:47 +0330 2019
+->  starting parallel LAPW1 jobs at Sat Oct 12 18:56:47 +0330 2019
+running LAPW1 in parallel mode (using .machines.help)
+8 number_of_parallel_jobs
+     localhost(15) 6.729u 0.246s 0:07.78 89.4%	0+0k 0+13688io 0pf+0w
+     localhost(15) 7.249u 0.190s 0:08.18 90.8%	0+0k 0+13312io 0pf+0w
+     localhost(15) 7.123u 0.242s 0:08.76 84.0%	0+0k 0+13360io 0pf+0w
+     localhost(15) 7.190u 0.233s 0:08.51 87.1%	0+0k 0+13264io 0pf+0w
+     localhost(15) 7.120u 0.215s 0:08.68 84.4%	0+0k 0+13352io 0pf+0w
+     localhost(15) 7.197u 0.214s 0:08.76 84.4%	0+0k 0+13336io 0pf+0w
+     localhost(15) 7.257u 0.267s 0:08.59 87.4%	0+0k 0+13448io 0pf+0w
+     localhost(15) 6.820u 0.249s 0:08.21 85.9%	0+0k 0+13520io 0pf+0w
+   Summary of lapw1para:
+   localhost	 k=120	 user=56.685	 wallclock=67.47
+57.054u 2.070s 0:10.53 561.4%	0+0k 0+108448io 0pf+0w
+>   lapw2 -up -p       	(18:56:57) running LAPW2 in parallel mode
+      localhost 0.877u 0.024s 0:00.92 96.7% 0+0k 0+704io 0pf+0w
+      localhost 0.942u 0.028s 0:01.01 95.0% 0+0k 0+592io 0pf+0w
+      localhost 1.115u 0.031s 0:01.19 95.7% 0+0k 0+592io 0pf+0w
+      localhost 1.058u 0.043s 0:01.17 93.1% 0+0k 0+592io 0pf+0w
+      localhost 0.966u 0.019s 0:01.03 94.1% 0+0k 0+592io 0pf+0w
+      localhost 1.009u 0.051s 0:01.15 91.3% 0+0k 0+592io 0pf+0w
+      localhost 0.825u 0.036s 0:00.95 89.4% 0+0k 0+592io 0pf+0w
+      localhost 0.920u 0.029s 0:01.03 91.2% 0+0k 0+592io 0pf+0w
+   Summary of lapw2para:
+   localhost	 user=7.712	 wallclock=8.45
+8.002u 0.310s 0:03.08 269.8%	0+0k 0+8392io 0pf+0w
+>   lapw2 -dn -p       	(18:57:01) running LAPW2 in parallel mode
+      localhost 0.736u 0.056s 0:00.81 96.2% 0+0k 0+704io 0pf+0w
+      localhost 0.793u 0.011s 0:00.85 94.1% 0+0k 0+592io 0pf+0w
+      localhost 0.846u 0.053s 0:00.96 92.7% 0+0k 0+592io 0pf+0w
+      localhost 0.848u 0.040s 0:00.96 91.6% 0+0k 0+592io 0pf+0w
+      localhost 0.844u 0.035s 0:00.94 92.5% 0+0k 0+592io 0pf+0w
+      localhost 0.741u 0.023s 0:00.81 93.8% 0+0k 0+592io 0pf+0w
+      localhost 0.801u 0.037s 0:00.89 93.2% 0+0k 0+592io 0pf+0w
+      localhost 0.648u 0.032s 0:00.76 88.1% 0+0k 0+592io 0pf+0w
+   Summary of lapw2para:
+   localhost	 user=6.257	 wallclock=6.98
+6.581u 0.399s 0:02.87 242.8%	0+0k 0+8376io 0pf+0w
+>   lcore -up 	(18:57:03) 0.006u 0.003s 0:00.00 0.0%	0+0k 0+432io 0pf+0w
+>   lcore -dn 	(18:57:03) 0.004u 0.004s 0:00.00 0.0%	0+0k 0+432io 0pf+0w
+>   mixer  	(18:57:04) 0.027u 0.000s 0:00.04 50.0%	0+0k 0+3152io 0pf+0w
+:ENERGY convergence:  0 0 0
+:CHARGE convergence:  0 0.0001 0
+
+    cycle 3 	(Sat Oct 12 18:57:04 +0330 2019) 	(198/97 to go)
+
+>   lapw0  -p	(18:57:04) starting parallel lapw0 at Sat Oct 12 18:57:04 +0330 2019
+-------- .machine0 : processors
+running lapw0 in single mode
+1.189u 0.012s 0:01.20 99.1%	0+0k 0+1240io 0pf+0w
+>   lapw1  -up -p     	(18:57:05) starting parallel lapw1 at Sat Oct 12 18:57:05 +0330 2019
+->  starting parallel LAPW1 jobs at Sat Oct 12 18:57:05 +0330 2019
+running LAPW1 in parallel mode (using .machines)
+8 number_of_parallel_jobs
+     localhost(15) 6.971u 0.180s 0:08.14 87.8%	0+0k 0+13856io 0pf+0w
+     localhost(15) 7.561u 0.190s 0:08.80 88.0%	0+0k 0+13456io 0pf+0w
+     localhost(15) 7.440u 0.230s 0:08.58 89.3%	0+0k 0+13536io 0pf+0w
+     localhost(15) 7.760u 0.218s 0:09.22 86.4%	0+0k 0+13456io 0pf+0w
+     localhost(15) 7.249u 0.309s 0:08.88 84.9%	0+0k 0+13544io 0pf+0w
+     localhost(15) 7.712u 0.254s 0:08.98 88.6%	0+0k 0+13528io 0pf+0w
+     localhost(15) 7.053u 0.278s 0:08.76 83.5%	0+0k 0+13576io 0pf+0w
+     localhost(15) 7.256u 0.271s 0:08.56 87.8%	0+0k 0+13608io 0pf+0w
+   Summary of lapw1para:
+   localhost	 k=120	 user=59.002	 wallclock=69.92
+59.428u 2.123s 0:11.21 548.9%	0+0k 0+109744io 0pf+0w
+>   lapw1  -dn -p     	(18:57:16) starting parallel lapw1 at Sat Oct 12 18:57:16 +0330 2019
+->  starting parallel LAPW1 jobs at Sat Oct 12 18:57:16 +0330 2019
+running LAPW1 in parallel mode (using .machines.help)
+8 number_of_parallel_jobs
+     localhost(15) 6.931u 0.230s 0:07.72 92.7%	0+0k 0+13680io 0pf+0w
+     localhost(15) 7.040u 0.245s 0:08.44 86.2%	0+0k 0+13312io 0pf+0w
+     localhost(15) 7.270u 0.264s 0:08.74 86.1%	0+0k 0+13352io 0pf+0w
+     localhost(15) 7.573u 0.225s 0:08.56 91.0%	0+0k 0+13272io 0pf+0w
+     localhost(15) 7.357u 0.203s 0:08.59 87.8%	0+0k 0+13376io 0pf+0w
+     localhost(15) 7.141u 0.202s 0:08.42 87.1%	0+0k 0+13352io 0pf+0w
+     localhost(15) 6.872u 0.273s 0:08.54 83.6%	0+0k 0+13472io 0pf+0w
+     localhost(15) 7.299u 0.241s 0:08.17 92.1%	0+0k 0+13528io 0pf+0w
+   Summary of lapw1para:
+   localhost	 k=120	 user=57.483	 wallclock=67.18
+57.822u 2.008s 0:10.38 576.3%	0+0k 0+108504io 0pf+0w
+>   lapw2 -up -p       	(18:57:26) running LAPW2 in parallel mode
+      localhost 0.919u 0.016s 0:00.97 94.8% 0+0k 0+704io 0pf+0w
+      localhost 0.916u 0.040s 0:01.02 93.1% 0+0k 0+592io 0pf+0w
+      localhost 1.044u 0.020s 0:01.10 96.3% 0+0k 0+592io 0pf+0w
+      localhost 1.058u 0.024s 0:01.11 96.3% 0+0k 0+592io 0pf+0w
+      localhost 1.118u 0.019s 0:01.19 94.1% 0+0k 0+592io 0pf+0w
+      localhost 0.939u 0.055s 0:01.07 91.5% 0+0k 0+592io 0pf+0w
+      localhost 0.913u 0.036s 0:01.08 87.0% 0+0k 0+592io 0pf+0w
+      localhost 0.838u 0.016s 0:00.96 87.5% 0+0k 0+592io 0pf+0w
+   Summary of lapw2para:
+   localhost	 user=7.745	 wallclock=8.5
+8.061u 0.331s 0:03.05 275.0%	0+0k 0+8384io 0pf+0w
+>   lapw2 -dn -p       	(18:57:30) running LAPW2 in parallel mode
+      localhost 0.877u 0.032s 0:00.96 93.7% 0+0k 0+704io 0pf+0w
+      localhost 0.695u 0.036s 0:00.74 97.2% 0+0k 0+592io 0pf+0w
+      localhost 0.913u 0.023s 0:00.95 97.8% 0+0k 0+592io 0pf+0w
+      localhost 0.931u 0.028s 0:01.01 94.0% 0+0k 0+592io 0pf+0w
+      localhost 0.966u 0.040s 0:01.08 92.5% 0+0k 0+592io 0pf+0w
+      localhost 0.797u 0.035s 0:00.90 91.1% 0+0k 0+592io 0pf+0w
+      localhost 0.883u 0.040s 0:01.03 89.3% 0+0k 0+592io 0pf+0w
+      localhost 0.753u 0.028s 0:00.90 85.5% 0+0k 0+592io 0pf+0w
+   Summary of lapw2para:
+   localhost	 user=6.815	 wallclock=7.57
+7.163u 0.360s 0:02.98 252.3%	0+0k 0+8392io 0pf+0w
+>   lcore -up 	(18:57:33) 0.009u 0.000s 0:00.00 0.0%	0+0k 0+432io 0pf+0w
+>   lcore -dn 	(18:57:33) 0.006u 0.003s 0:00.00 0.0%	0+0k 0+432io 0pf+0w
+>   mixer  	(18:57:33) 0.019u 0.010s 0:00.04 50.0%	0+0k 0+3152io 0pf+0w
+:ENERGY convergence:  0 0 .0083441650000000
+:CHARGE convergence:  0 0.0001 .0424186
+
+    cycle 4 	(Sat Oct 12 18:57:33 +0330 2019) 	(197/96 to go)
+
+>   lapw0  -p	(18:57:33) starting parallel lapw0 at Sat Oct 12 18:57:33 +0330 2019
+-------- .machine0 : processors
+running lapw0 in single mode
+1.149u 0.029s 0:01.17 99.1%	0+0k 0+1240io 0pf+0w
+>   lapw1  -up -p     	(18:57:34) starting parallel lapw1 at Sat Oct 12 18:57:34 +0330 2019
+->  starting parallel LAPW1 jobs at Sat Oct 12 18:57:34 +0330 2019
+running LAPW1 in parallel mode (using .machines)
+8 number_of_parallel_jobs
+     localhost(15) 7.013u 0.222s 0:08.12 89.0%	0+0k 0+13856io 0pf+0w
+     localhost(15) 7.252u 0.218s 0:08.57 87.0%	0+0k 0+13448io 0pf+0w
+     localhost(15) 7.322u 0.268s 0:08.53 88.8%	0+0k 0+13520io 0pf+0w
+     localhost(15) 7.489u 0.198s 0:08.85 86.6%	0+0k 0+13440io 0pf+0w
+     localhost(15) 7.605u 0.231s 0:08.74 89.5%	0+0k 0+13544io 0pf+0w
+     localhost(15) 7.249u 0.237s 0:08.44 88.5%	0+0k 0+13552io 0pf+0w
+     localhost(15) 7.255u 0.273s 0:08.37 89.8%	0+0k 0+13584io 0pf+0w
+     localhost(15) 6.644u 0.251s 0:08.44 81.6%	0+0k 0+13592io 0pf+0w
+   Summary of lapw1para:
+   localhost	 k=120	 user=57.829	 wallclock=68.06
+58.222u 2.073s 0:10.77 559.7%	0+0k 0+109712io 0pf+0w
+>   lapw1  -dn -p     	(18:57:45) starting parallel lapw1 at Sat Oct 12 18:57:45 +0330 2019
+->  starting parallel LAPW1 jobs at Sat Oct 12 18:57:45 +0330 2019
+running LAPW1 in parallel mode (using .machines.help)
+8 number_of_parallel_jobs
+     localhost(15) 6.940u 0.253s 0:08.17 88.0%	0+0k 0+13728io 0pf+0w
+     localhost(15) 7.279u 0.270s 0:08.80 85.6%	0+0k 0+13312io 0pf+0w
+     localhost(15) 7.602u 0.241s 0:08.82 88.8%	0+0k 0+13344io 0pf+0w
+     localhost(15) 7.855u 0.214s 0:08.67 92.9%	0+0k 0+13280io 0pf+0w
+     localhost(15) 7.484u 0.280s 0:08.56 90.6%	0+0k 0+13376io 0pf+0w
+     localhost(15) 7.484u 0.186s 0:08.68 88.2%	0+0k 0+13360io 0pf+0w
+     localhost(15) 7.024u 0.250s 0:08.42 86.3%	0+0k 0+13488io 0pf+0w
+     localhost(15) 6.818u 0.233s 0:08.39 83.9%	0+0k 0+13552io 0pf+0w
+   Summary of lapw1para:
+   localhost	 k=120	 user=58.486	 wallclock=68.51
+58.888u 2.120s 0:11.16 546.5%	0+0k 0+108608io 0pf+0w
+>   lapw2 -up -p       	(18:57:56) running LAPW2 in parallel mode
+      localhost 0.929u 0.033s 0:00.98 96.9% 0+0k 0+704io 0pf+0w
+      localhost 0.990u 0.024s 0:01.02 99.0% 0+0k 0+592io 0pf+0w
+      localhost 0.979u 0.022s 0:01.06 93.3% 0+0k 0+592io 0pf+0w
+      localhost 0.964u 0.034s 0:01.07 92.5% 0+0k 0+592io 0pf+0w
+      localhost 1.106u 0.051s 0:01.26 91.2% 0+0k 0+592io 0pf+0w
+      localhost 1.040u 0.031s 0:01.23 86.9% 0+0k 0+592io 0pf+0w
+      localhost 0.982u 0.028s 0:01.05 95.2% 0+0k 0+592io 0pf+0w
+      localhost 0.871u 0.027s 0:01.02 87.2% 0+0k 0+592io 0pf+0w
+   Summary of lapw2para:
+   localhost	 user=7.861	 wallclock=8.69
+8.207u 0.359s 0:03.15 271.4%	0+0k 0+8392io 0pf+0w
+>   lapw2 -dn -p       	(18:57:59) running LAPW2 in parallel mode
+      localhost 0.793u 0.008s 0:00.85 92.9% 0+0k 0+712io 0pf+0w
+      localhost 0.808u 0.025s 0:00.86 95.3% 0+0k 0+592io 0pf+0w
+      localhost 0.792u 0.036s 0:00.86 95.3% 0+0k 0+592io 0pf+0w
+      localhost 0.824u 0.032s 0:00.89 95.5% 0+0k 0+592io 0pf+0w
+      localhost 0.786u 0.041s 0:00.88 93.1% 0+0k 0+592io 0pf+0w
+      localhost 0.866u 0.028s 0:00.94 93.6% 0+0k 0+600io 0pf+0w
+      localhost 0.804u 0.024s 0:00.92 89.1% 0+0k 0+600io 0pf+0w
+      localhost 0.631u 0.049s 0:00.74 90.5% 0+0k 0+592io 0pf+0w
+   Summary of lapw2para:
+   localhost	 user=6.304	 wallclock=6.94
+6.656u 0.386s 0:02.91 241.5%	0+0k 0+8400io 0pf+0w
+>   lcore -up 	(18:58:02) 0.009u 0.000s 0:00.00 0.0%	0+0k 0+432io 0pf+0w
+>   lcore -dn 	(18:58:02) 0.011u 0.000s 0:00.01 100.0%	0+0k 0+432io 0pf+0w
+>   mixer  	(18:58:02) 0.047u 0.006s 0:00.07 57.1%	0+0k 0+3152io 0pf+0w
+:ENERGY convergence:  0 0 .0026611800000000
+:CHARGE convergence:  0 0.0001 .0318132
+
+    cycle 5 	(Sat Oct 12 18:58:02 +0330 2019) 	(196/95 to go)
+
+>   lapw0  -p	(18:58:02) starting parallel lapw0 at Sat Oct 12 18:58:02 +0330 2019
+-------- .machine0 : processors
+running lapw0 in single mode
+1.170u 0.016s 0:01.18 100.0%	0+0k 0+1232io 0pf+0w
+>   lapw1  -up -p     	(18:58:04) starting parallel lapw1 at Sat Oct 12 18:58:04 +0330 2019
+->  starting parallel LAPW1 jobs at Sat Oct 12 18:58:04 +0330 2019
+running LAPW1 in parallel mode (using .machines)
+8 number_of_parallel_jobs
+     localhost(15) 6.454u 0.189s 0:07.47 88.7%	0+0k 0+13848io 0pf+0w
+     localhost(15) 7.137u 0.250s 0:08.53 86.5%	0+0k 0+13456io 0pf+0w
+     localhost(15) 7.291u 0.282s 0:08.85 85.5%	0+0k 0+13528io 0pf+0w
+     localhost(15) 7.474u 0.228s 0:08.88 86.5%	0+0k 0+13440io 0pf+0w
+     localhost(15) 7.447u 0.274s 0:08.71 88.5%	0+0k 0+13544io 0pf+0w
+     localhost(15) 7.372u 0.237s 0:08.68 87.5%	0+0k 0+13584io 0pf+0w
+     localhost(15) 7.205u 0.238s 0:08.65 85.8%	0+0k 0+13616io 0pf+0w
+     localhost(15) 6.877u 0.244s 0:08.28 85.8%	0+0k 0+13584io 0pf+0w
+   Summary of lapw1para:
+   localhost	 k=120	 user=57.257	 wallclock=68.05
+57.641u 2.110s 0:10.57 565.2%	0+0k 0+109776io 0pf+0w
+>   lapw1  -dn -p     	(18:58:14) starting parallel lapw1 at Sat Oct 12 18:58:14 +0330 2019
+->  starting parallel LAPW1 jobs at Sat Oct 12 18:58:14 +0330 2019
+running LAPW1 in parallel mode (using .machines.help)
+8 number_of_parallel_jobs
+     localhost(15) 6.881u 0.191s 0:08.05 87.8%	0+0k 0+13712io 0pf+0w
+     localhost(15) 7.377u 0.209s 0:08.62 87.8%	0+0k 0+13312io 0pf+0w
+     localhost(15) 7.631u 0.235s 0:08.81 89.2%	0+0k 0+13360io 0pf+0w
+     localhost(15) 7.502u 0.229s 0:08.98 85.9%	0+0k 0+13280io 0pf+0w
+     localhost(15) 7.293u 0.289s 0:08.83 85.7%	0+0k 0+13400io 0pf+0w
+     localhost(15) 7.529u 0.264s 0:08.58 90.6%	0+0k 0+13360io 0pf+0w
+     localhost(15) 7.399u 0.323s 0:08.46 91.1%	0+0k 0+13472io 0pf+0w
+     localhost(15) 6.883u 0.230s 0:08.41 84.5%	0+0k 0+13552io 0pf+0w
+   Summary of lapw1para:
+   localhost	 k=120	 user=58.495	 wallclock=68.74
+58.883u 2.123s 0:10.67 571.6%	0+0k 0+108608io 0pf+0w
+>   lapw2 -up -p       	(18:58:25) running LAPW2 in parallel mode
+      localhost 0.911u 0.040s 0:01.01 94.0% 0+0k 0+704io 0pf+0w
+      localhost 0.980u 0.033s 0:01.02 99.0% 0+0k 0+592io 0pf+0w
+      localhost 1.084u 0.024s 0:01.16 94.8% 0+0k 0+592io 0pf+0w
+      localhost 1.075u 0.040s 0:01.16 95.6% 0+0k 0+592io 0pf+0w
+      localhost 0.979u 0.028s 0:01.05 94.2% 0+0k 0+592io 0pf+0w
+      localhost 1.042u 0.017s 0:01.13 92.9% 0+0k 0+592io 0pf+0w
+      localhost 0.905u 0.028s 0:01.04 88.4% 0+0k 0+592io 0pf+0w
+      localhost 0.870u 0.035s 0:00.98 91.8% 0+0k 0+592io 0pf+0w
+   Summary of lapw2para:
+   localhost	 user=7.846	 wallclock=8.55
+8.221u 0.384s 0:03.11 276.5%	0+0k 0+8400io 0pf+0w
+>   lapw2 -dn -p       	(18:58:28) running LAPW2 in parallel mode
+      localhost 0.668u 0.028s 0:00.71 95.7% 0+0k 0+704io 0pf+0w
+      localhost 0.773u 0.032s 0:00.83 96.3% 0+0k 0+592io 0pf+0w
+      localhost 0.827u 0.031s 0:00.89 95.5% 0+0k 0+592io 0pf+0w
+      localhost 0.760u 0.036s 0:00.84 94.0% 0+0k 0+592io 0pf+0w
+      localhost 0.766u 0.036s 0:00.85 92.9% 0+0k 0+592io 0pf+0w
+      localhost 0.790u 0.040s 0:00.89 93.2% 0+0k 0+592io 0pf+0w
+      localhost 0.774u 0.016s 0:00.85 91.7% 0+0k 0+592io 0pf+0w
+      localhost 0.706u 0.043s 0:00.81 91.3% 0+0k 0+592io 0pf+0w
+   Summary of lapw2para:
+   localhost	 user=6.064	 wallclock=6.67
+6.380u 0.359s 0:02.85 236.1%	0+0k 0+8384io 0pf+0w
+>   lcore -up 	(18:58:31) 0.009u 0.000s 0:00.00 0.0%	0+0k 0+432io 0pf+0w
+>   lcore -dn 	(18:58:31) 0.009u 0.000s 0:00.00 0.0%	0+0k 0+432io 0pf+0w
+>   mixer  	(18:58:31) 0.045u 0.009s 0:00.07 57.1%	0+0k 0+3152io 0pf+0w
+:ENERGY convergence:  0 0 .0396668250000000
+:CHARGE convergence:  0 0.0001 .1038217
+
+    cycle 6 	(Sat Oct 12 18:58:31 +0330 2019) 	(195/94 to go)
+
+>   lapw0  -p	(18:58:31) starting parallel lapw0 at Sat Oct 12 18:58:31 +0330 2019
+-------- .machine0 : processors
+running lapw0 in single mode
+1.177u 0.006s 0:01.18 99.1%	0+0k 0+1240io 0pf+0w
+>   lapw1  -up -p     	(18:58:33) starting parallel lapw1 at Sat Oct 12 18:58:33 +0330 2019
+->  starting parallel LAPW1 jobs at Sat Oct 12 18:58:33 +0330 2019
+running LAPW1 in parallel mode (using .machines)
+8 number_of_parallel_jobs
+     localhost(15) 7.053u 0.179s 0:08.75 82.5%	0+0k 0+13864io 0pf+0w
+     localhost(15) 7.291u 0.254s 0:09.34 80.7%	0+0k 0+13472io 0pf+0w
+     localhost(15) 7.818u 0.238s 0:09.27 86.7%	0+0k 0+13544io 0pf+0w
+     localhost(15) 7.855u 0.214s 0:08.99 89.6%	0+0k 0+13456io 0pf+0w
+     localhost(15) 7.423u 0.238s 0:08.95 85.4%	0+0k 0+13560io 0pf+0w
+     localhost(15) 7.586u 0.262s 0:09.13 85.8%	0+0k 0+13536io 0pf+0w
+     localhost(15) 7.320u 0.277s 0:08.86 85.6%	0+0k 0+13592io 0pf+0w
+     localhost(15) 7.218u 0.300s 0:08.46 88.7%	0+0k 0+13592io 0pf+0w
+   Summary of lapw1para:
+   localhost	 k=120	 user=59.564	 wallclock=71.75
+59.996u 2.175s 0:11.25 552.5%	0+0k 0+109800io 0pf+0w
+>   lapw1  -dn -p     	(18:58:44) starting parallel lapw1 at Sat Oct 12 18:58:44 +0330 2019
+->  starting parallel LAPW1 jobs at Sat Oct 12 18:58:44 +0330 2019
+running LAPW1 in parallel mode (using .machines.help)
+8 number_of_parallel_jobs
+     localhost(15) 7.064u 0.227s 0:07.75 93.9%	0+0k 0+13712io 0pf+0w
+     localhost(15) 7.696u 0.244s 0:08.99 88.2%	0+0k 0+13328io 0pf+0w
+     localhost(15) 7.379u 0.257s 0:09.06 84.1%	0+0k 0+13352io 0pf+0w
+     localhost(15) 7.400u 0.243s 0:08.17 93.5%	0+0k 0+13264io 0pf+0w
+     localhost(15) 7.621u 0.249s 0:08.66 90.7%	0+0k 0+13384io 0pf+0w
+     localhost(15) 7.217u 0.243s 0:08.74 85.2%	0+0k 0+13360io 0pf+0w
+     localhost(15) 7.390u 0.177s 0:08.48 89.1%	0+0k 0+13472io 0pf+0w
+     localhost(15) 6.790u 0.222s 0:08.37 83.7%	0+0k 0+13528io 0pf+0w
+   Summary of lapw1para:
+   localhost	 k=120	 user=58.557	 wallclock=68.22
+59.003u 2.059s 0:10.67 572.1%	0+0k 0+108568io 0pf+0w
+>   lapw2 -up -p       	(18:58:55) running LAPW2 in parallel mode
+      localhost 0.887u 0.028s 0:00.93 96.7% 0+0k 0+704io 0pf+0w
+      localhost 1.033u 0.024s 0:01.07 98.1% 0+0k 0+592io 0pf+0w
+      localhost 1.127u 0.017s 0:01.19 94.9% 0+0k 0+600io 0pf+0w
+      localhost 1.214u 0.016s 0:01.30 93.8% 0+0k 0+592io 0pf+0w
+      localhost 1.075u 0.037s 0:01.18 93.2% 0+0k 0+592io 0pf+0w
+      localhost 0.962u 0.039s 0:01.10 90.0% 0+0k 0+592io 0pf+0w
+      localhost 0.949u 0.041s 0:01.10 89.0% 0+0k 0+592io 0pf+0w
+      localhost 0.942u 0.032s 0:01.16 83.6% 0+0k 0+600io 0pf+0w
+   Summary of lapw2para:
+   localhost	 user=8.189	 wallclock=9.03
+8.525u 0.323s 0:03.28 269.5%	0+0k 0+8392io 0pf+0w
+>   lapw2 -dn -p       	(18:58:58) running LAPW2 in parallel mode
+      localhost 0.722u 0.040s 0:00.83 91.5% 0+0k 0+704io 0pf+0w
+      localhost 0.808u 0.041s 0:00.87 96.5% 0+0k 0+592io 0pf+0w
+      localhost 0.815u 0.041s 0:00.88 96.5% 0+0k 0+592io 0pf+0w
+      localhost 0.851u 0.045s 0:00.95 93.6% 0+0k 0+592io 0pf+0w
+      localhost 0.882u 0.041s 0:00.99 92.9% 0+0k 0+592io 0pf+0w
+      localhost 0.911u 0.012s 0:00.95 96.8% 0+0k 0+592io 0pf+0w
+      localhost 0.789u 0.024s 0:00.90 88.8% 0+0k 0+592io 0pf+0w
+      localhost 0.740u 0.036s 0:00.87 88.5% 0+0k 0+592io 0pf+0w
+   Summary of lapw2para:
+   localhost	 user=6.518	 wallclock=7.24
+6.849u 0.373s 0:02.98 241.9%	0+0k 0+8384io 0pf+0w
+>   lcore -up 	(18:59:01) 0.009u 0.000s 0:00.00 0.0%	0+0k 0+432io 0pf+0w
+>   lcore -dn 	(18:59:01) 0.009u 0.000s 0:00.00 0.0%	0+0k 0+432io 0pf+0w
+>   mixer  	(18:59:01) 0.028u 0.009s 0:00.05 40.0%	0+0k 0+3160io 0pf+0w
+:ENERGY convergence:  0 0 .0198996700000000
+:CHARGE convergence:  0 0.0001 .0739927
+
+    cycle 7 	(Sat Oct 12 18:59:01 +0330 2019) 	(194/93 to go)
+
+>   lapw0  -p	(18:59:01) starting parallel lapw0 at Sat Oct 12 18:59:01 +0330 2019
+-------- .machine0 : processors
+running lapw0 in single mode
+1.163u 0.024s 0:01.18 100.0%	0+0k 0+1232io 0pf+0w
+>   lapw1  -up -p     	(18:59:02) starting parallel lapw1 at Sat Oct 12 18:59:02 +0330 2019
+->  starting parallel LAPW1 jobs at Sat Oct 12 18:59:02 +0330 2019
+running LAPW1 in parallel mode (using .machines)
+8 number_of_parallel_jobs
+     localhost(15) 6.914u 0.210s 0:08.25 86.3%	0+0k 0+13864io 0pf+0w
+     localhost(15) 7.418u 0.246s 0:08.57 89.2%	0+0k 0+13464io 0pf+0w
+     localhost(15) 7.550u 0.243s 0:08.97 86.8%	0+0k 0+13528io 0pf+0w
+     localhost(15) 7.114u 0.253s 0:08.84 83.2%	0+0k 0+13456io 0pf+0w
+     localhost(15) 7.722u 0.222s 0:08.86 89.6%	0+0k 0+13536io 0pf+0w
+     localhost(15) 7.467u 0.277s 0:08.74 88.4%	0+0k 0+13544io 0pf+0w
+     localhost(15) 7.747u 0.250s 0:08.61 92.7%	0+0k 0+13560io 0pf+0w
+     localhost(15) 6.897u 0.258s 0:08.40 85.0%	0+0k 0+13608io 0pf+0w
+   Summary of lapw1para:
+   localhost	 k=120	 user=58.829	 wallclock=69.24
+59.249u 2.100s 0:10.70 573.2%	0+0k 0+109736io 0pf+0w
+>   lapw1  -dn -p     	(18:59:13) starting parallel lapw1 at Sat Oct 12 18:59:13 +0330 2019
+->  starting parallel LAPW1 jobs at Sat Oct 12 18:59:13 +0330 2019
+running LAPW1 in parallel mode (using .machines.help)
+8 number_of_parallel_jobs
+     localhost(15) 6.681u 0.230s 0:07.57 91.2%	0+0k 0+13704io 0pf+0w
+     localhost(15) 7.299u 0.199s 0:08.62 86.7%	0+0k 0+13320io 0pf+0w
+     localhost(15) 7.386u 0.209s 0:08.76 86.5%	0+0k 0+13344io 0pf+0w
+     localhost(15) 7.445u 0.275s 0:08.66 89.0%	0+0k 0+13264io 0pf+0w
+     localhost(15) 7.258u 0.233s 0:08.66 86.3%	0+0k 0+13384io 0pf+0w
+     localhost(15) 6.983u 0.274s 0:08.30 87.3%	0+0k 0+13344io 0pf+0w
+     localhost(15) 7.318u 0.245s 0:08.34 90.5%	0+0k 0+13464io 0pf+0w
+     localhost(15) 6.826u 0.227s 0:08.51 82.7%	0+0k 0+13544io 0pf+0w
+   Summary of lapw1para:
+   localhost	 k=120	 user=57.196	 wallclock=67.42
+57.598u 2.096s 0:10.63 561.4%	0+0k 0+108544io 0pf+0w
+>   lapw2 -up -p       	(18:59:24) running LAPW2 in parallel mode
+      localhost 0.945u 0.059s 0:01.07 92.5% 0+0k 0+704io 0pf+0w
+      localhost 0.987u 0.019s 0:01.02 97.0% 0+0k 0+592io 0pf+0w
+      localhost 1.033u 0.024s 0:01.18 88.9% 0+0k 0+592io 0pf+0w
+      localhost 1.135u 0.040s 0:01.23 95.1% 0+0k 0+592io 0pf+0w
+      localhost 0.977u 0.040s 0:01.12 90.1% 0+0k 0+592io 0pf+0w
+      localhost 1.043u 0.051s 0:01.16 93.9% 0+0k 0+592io 0pf+0w
+      localhost 0.923u 0.028s 0:01.09 86.2% 0+0k 0+592io 0pf+0w
+      localhost 0.909u 0.036s 0:01.04 89.4% 0+0k 0+592io 0pf+0w
+   Summary of lapw2para:
+   localhost	 user=7.952	 wallclock=8.91
+8.295u 0.385s 0:03.14 276.1%	0+0k 0+8400io 0pf+0w
+>   lapw2 -dn -p       	(18:59:27) running LAPW2 in parallel mode
+      localhost 0.769u 0.036s 0:00.82 96.3% 0+0k 0+712io 0pf+0w
+      localhost 0.871u 0.052s 0:00.95 96.8% 0+0k 0+592io 0pf+0w
+      localhost 0.791u 0.040s 0:00.90 92.2% 0+0k 0+592io 0pf+0w
+      localhost 0.904u 0.032s 0:00.97 95.8% 0+0k 0+592io 0pf+0w
+      localhost 0.926u 0.016s 0:00.99 93.9% 0+0k 0+592io 0pf+0w
+      localhost 0.810u 0.039s 0:00.93 90.3% 0+0k 0+592io 0pf+0w
+      localhost 0.710u 0.016s 0:00.81 88.8% 0+0k 0+592io 0pf+0w
+      localhost 0.785u 0.036s 0:00.89 91.0% 0+0k 0+592io 0pf+0w
+   Summary of lapw2para:
+   localhost	 user=6.566	 wallclock=7.26
+6.936u 0.441s 0:02.98 247.3%	0+0k 0+8392io 0pf+0w
+>   lcore -up 	(18:59:30) 0.009u 0.000s 0:00.00 0.0%	0+0k 0+432io 0pf+0w
+>   lcore -dn 	(18:59:30) 0.011u 0.000s 0:00.01 100.0%	0+0k 0+432io 0pf+0w
+>   mixer  	(18:59:30) 0.024u 0.014s 0:00.05 60.0%	0+0k 0+3152io 0pf+0w
+:ENERGY convergence:  0 0 .0001907150000000
+:CHARGE convergence:  0 0.0001 .1156169
+
+    cycle 8 	(Sat Oct 12 18:59:30 +0330 2019) 	(193/92 to go)
+
+>   lapw0  -p	(18:59:30) starting parallel lapw0 at Sat Oct 12 18:59:30 +0330 2019
+-------- .machine0 : processors
+running lapw0 in single mode
+1.171u 0.014s 0:01.18 100.0%	0+0k 0+1240io 0pf+0w
+>   lapw1  -up -p     	(18:59:31) starting parallel lapw1 at Sat Oct 12 18:59:31 +0330 2019
+->  starting parallel LAPW1 jobs at Sat Oct 12 18:59:32 +0330 2019
+running LAPW1 in parallel mode (using .machines)
+8 number_of_parallel_jobs
+     localhost(15) 6.640u 0.229s 0:08.76 78.3%	0+0k 0+13856io 0pf+0w
+     localhost(15) 7.162u 0.205s 0:08.31 88.5%	0+0k 0+13456io 0pf+0w
+     localhost(15) 7.181u 0.249s 0:08.02 92.5%	0+0k 0+13520io 0pf+0w
+     localhost(15) 7.060u 0.199s 0:08.87 81.7%	0+0k 0+13448io 0pf+0w
+     localhost(15) 7.709u 0.256s 0:08.47 93.8%	0+0k 0+13536io 0pf+0w
+     localhost(15) 7.073u 0.259s 0:08.80 83.1%	0+0k 0+13544io 0pf+0w
+     localhost(15) 6.623u 0.259s 0:08.70 78.9%	0+0k 0+13584io 0pf+0w
+     localhost(15) 6.960u 0.248s 0:08.37 86.0%	0+0k 0+13600io 0pf+0w
+   Summary of lapw1para:
+   localhost	 k=120	 user=56.408	 wallclock=68.3
+56.793u 2.070s 0:10.68 551.1%	0+0k 0+109720io 0pf+0w
+>   lapw1  -dn -p     	(18:59:42) starting parallel lapw1 at Sat Oct 12 18:59:42 +0330 2019
+->  starting parallel LAPW1 jobs at Sat Oct 12 18:59:42 +0330 2019
+running LAPW1 in parallel mode (using .machines.help)
+8 number_of_parallel_jobs
+     localhost(15) 6.586u 0.234s 0:07.12 95.6%	0+0k 0+13712io 0pf+0w
+     localhost(15) 7.023u 0.277s 0:08.26 88.2%	0+0k 0+13304io 0pf+0w
+     localhost(15) 7.297u 0.283s 0:08.85 85.5%	0+0k 0+13352io 0pf+0w
+     localhost(15) 7.247u 0.206s 0:08.92 83.4%	0+0k 0+13272io 0pf+0w
+     localhost(15) 7.284u 0.249s 0:08.43 89.2%	0+0k 0+13376io 0pf+0w
+     localhost(15) 7.250u 0.220s 0:08.63 86.5%	0+0k 0+13352io 0pf+0w
+     localhost(15) 7.276u 0.293s 0:08.23 91.8%	0+0k 0+13456io 0pf+0w
+     localhost(15) 6.924u 0.244s 0:08.08 88.6%	0+0k 0+13520io 0pf+0w
+   Summary of lapw1para:
+   localhost	 k=120	 user=56.887	 wallclock=66.52
+57.312u 2.262s 0:10.45 570.0%	0+0k 0+108512io 0pf+0w
+>   lapw2 -up -p       	(18:59:53) running LAPW2 in parallel mode
+      localhost 0.943u 0.035s 0:01.05 92.3% 0+0k 0+704io 0pf+0w
+      localhost 0.965u 0.033s 0:01.01 98.0% 0+0k 0+592io 0pf+0w
+      localhost 0.898u 0.056s 0:01.03 91.2% 0+0k 0+592io 0pf+0w
+      localhost 1.043u 0.024s 0:01.10 96.3% 0+0k 0+592io 0pf+0w
+      localhost 1.070u 0.053s 0:01.16 96.5% 0+0k 0+592io 0pf+0w
+      localhost 0.994u 0.016s 0:01.07 93.4% 0+0k 0+592io 0pf+0w
+      localhost 0.829u 0.037s 0:00.99 85.8% 0+0k 0+592io 0pf+0w
+      localhost 0.892u 0.027s 0:01.12 81.2% 0+0k 0+592io 0pf+0w
+   Summary of lapw2para:
+   localhost	 user=7.634	 wallclock=8.53
+8.000u 0.422s 0:03.26 258.2%	0+0k 0+8392io 0pf+0w
+>   lapw2 -dn -p       	(18:59:56) running LAPW2 in parallel mode
+      localhost 0.817u 0.017s 0:00.86 95.3% 0+0k 0+704io 0pf+0w
+      localhost 0.725u 0.024s 0:00.78 94.8% 0+0k 0+592io 0pf+0w
+      localhost 0.841u 0.035s 0:00.92 94.5% 0+0k 0+592io 0pf+0w
+      localhost 0.910u 0.034s 0:00.98 95.9% 0+0k 0+592io 0pf+0w
+      localhost 0.779u 0.023s 0:00.83 95.1% 0+0k 0+592io 0pf+0w
+      localhost 0.802u 0.032s 0:00.87 95.4% 0+0k 0+592io 0pf+0w
+      localhost 0.782u 0.051s 0:00.91 91.2% 0+0k 0+600io 0pf+0w
+      localhost 0.659u 0.028s 0:00.75 89.3% 0+0k 0+592io 0pf+0w
+   Summary of lapw2para:
+   localhost	 user=6.315	 wallclock=6.9
+6.683u 0.353s 0:02.87 244.9%	0+0k 0+8392io 0pf+0w
+>   lcore -up 	(18:59:59) 0.006u 0.003s 0:00.00 0.0%	0+0k 0+432io 0pf+0w
+>   lcore -dn 	(18:59:59) 0.009u 0.000s 0:00.00 0.0%	0+0k 0+432io 0pf+0w
+>   mixer  	(18:59:59) 0.044u 0.000s 0:00.06 66.6%	0+0k 0+3152io 0pf+0w
+:ENERGY convergence:  0 0 .0001863750000000
+:CHARGE convergence:  0 0.0001 .0973184
+
+    cycle 9 	(Sat Oct 12 18:59:59 +0330 2019) 	(192/91 to go)
+
+>   lapw0  -p	(18:59:59) starting parallel lapw0 at Sat Oct 12 18:59:59 +0330 2019
+-------- .machine0 : processors
+running lapw0 in single mode
+1.177u 0.009s 0:01.18 99.1%	0+0k 0+1232io 0pf+0w
+>   lapw1  -up -p     	(19:00:00) starting parallel lapw1 at Sat Oct 12 19:00:00 +0330 2019
+->  starting parallel LAPW1 jobs at Sat Oct 12 19:00:00 +0330 2019
+running LAPW1 in parallel mode (using .machines)
+8 number_of_parallel_jobs
+     localhost(15) 6.854u 0.205s 0:08.10 87.0%	0+0k 0+13856io 0pf+0w
+     localhost(15) 7.406u 0.225s 0:08.66 87.9%	0+0k 0+13464io 0pf+0w
+     localhost(15) 7.628u 0.245s 0:08.35 94.1%	0+0k 0+13512io 0pf+0w
+     localhost(15) 7.211u 0.191s 0:08.80 84.0%	0+0k 0+13456io 0pf+0w
+     localhost(15) 7.077u 0.237s 0:08.34 87.5%	0+0k 0+13544io 0pf+0w
+     localhost(15) 7.284u 0.264s 0:08.65 87.1%	0+0k 0+13536io 0pf+0w
+     localhost(15) 6.859u 0.239s 0:08.67 81.6%	0+0k 0+13576io 0pf+0w
+     localhost(15) 6.661u 0.238s 0:08.19 84.1%	0+0k 0+13600io 0pf+0w
+   Summary of lapw1para:
+   localhost	 k=120	 user=56.98	 wallclock=67.76
+57.385u 1.997s 0:10.61 559.5%	0+0k 0+109720io 0pf+0w
+>   lapw1  -dn -p     	(19:00:11) starting parallel lapw1 at Sat Oct 12 19:00:11 +0330 2019
+->  starting parallel LAPW1 jobs at Sat Oct 12 19:00:11 +0330 2019
+running LAPW1 in parallel mode (using .machines.help)
+8 number_of_parallel_jobs
+     localhost(15) 6.988u 0.282s 0:08.67 83.7%	0+0k 0+13704io 0pf+0w
+     localhost(15) 7.033u 0.245s 0:08.20 88.6%	0+0k 0+13320io 0pf+0w
+     localhost(15) 7.831u 0.220s 0:08.71 92.4%	0+0k 0+13352io 0pf+0w
+     localhost(15) 7.407u 0.207s 0:08.90 85.3%	0+0k 0+13272io 0pf+0w
+     localhost(15) 7.253u 0.233s 0:08.62 86.7%	0+0k 0+13368io 0pf+0w
+     localhost(15) 7.335u 0.284s 0:08.27 92.0%	0+0k 0+13352io 0pf+0w
+     localhost(15) 7.191u 0.245s 0:08.51 87.3%	0+0k 0+13456io 0pf+0w
+     localhost(15) 6.880u 0.191s 0:08.44 83.7%	0+0k 0+13520io 0pf+0w
+   Summary of lapw1para:
+   localhost	 k=120	 user=57.918	 wallclock=68.32
+58.388u 2.103s 0:11.27 536.6%	0+0k 0+108512io 0pf+0w
+>   lapw2 -up -p       	(19:00:22) running LAPW2 in parallel mode
+      localhost 0.917u 0.029s 0:00.96 96.8% 0+0k 0+712io 0pf+0w
+      localhost 0.981u 0.032s 0:01.04 97.1% 0+0k 0+592io 0pf+0w
+      localhost 1.082u 0.044s 0:01.27 88.1% 0+0k 0+600io 0pf+0w
+      localhost 1.091u 0.039s 0:01.23 91.0% 0+0k 0+600io 0pf+0w
+      localhost 1.098u 0.033s 0:01.21 92.5% 0+0k 0+600io 0pf+0w
+      localhost 1.046u 0.032s 0:01.13 94.6% 0+0k 0+600io 0pf+0w
+      localhost 0.930u 0.036s 0:01.05 91.4% 0+0k 0+600io 0pf+0w
+      localhost 0.862u 0.027s 0:01.00 88.0% 0+0k 0+592io 0pf+0w
+   Summary of lapw2para:
+   localhost	 user=8.007	 wallclock=8.89
+8.329u 0.407s 0:03.08 283.1%	0+0k 0+8440io 0pf+0w
+>   lapw2 -dn -p       	(19:00:26) running LAPW2 in parallel mode
+      localhost 0.682u 0.032s 0:00.74 95.9% 0+0k 0+704io 0pf+0w
+      localhost 0.752u 0.047s 0:00.87 90.8% 0+0k 0+592io 0pf+0w
+      localhost 1.001u 0.044s 0:01.10 94.5% 0+0k 0+592io 0pf+0w
+      localhost 1.069u 0.020s 0:01.15 93.9% 0+0k 0+592io 0pf+0w
+      localhost 0.967u 0.051s 0:01.05 96.1% 0+0k 0+592io 0pf+0w
+      localhost 0.865u 0.039s 0:00.96 92.7% 0+0k 0+592io 0pf+0w
+      localhost 0.799u 0.032s 0:00.92 89.1% 0+0k 0+592io 0pf+0w
+      localhost 0.860u 0.032s 0:00.98 90.8% 0+0k 0+600io 0pf+0w
+   Summary of lapw2para:
+   localhost	 user=6.995	 wallclock=7.77
+7.300u 0.397s 0:03.03 253.7%	0+0k 0+8392io 0pf+0w
+>   lcore -up 	(19:00:29) 0.006u 0.003s 0:00.00 0.0%	0+0k 0+432io 0pf+0w
+>   lcore -dn 	(19:00:29) 0.009u 0.000s 0:00.00 0.0%	0+0k 0+432io 0pf+0w
+>   mixer  	(19:00:29) 0.040u 0.008s 0:00.06 66.6%	0+0k 0+3152io 0pf+0w
+:ENERGY convergence:  0 0 .0001515950000000
+:CHARGE convergence:  0 0.0001 .1391397
+
+    cycle 10 	(Sat Oct 12 19:00:29 +0330 2019) 	(191/90 to go)
+
+>   lapw0  -p	(19:00:29) starting parallel lapw0 at Sat Oct 12 19:00:29 +0330 2019
+-------- .machine0 : processors
+running lapw0 in single mode
+1.174u 0.012s 0:01.18 100.0%	0+0k 0+1240io 0pf+0w
+>   lapw1  -up -p     	(19:00:30) starting parallel lapw1 at Sat Oct 12 19:00:30 +0330 2019
+->  starting parallel LAPW1 jobs at Sat Oct 12 19:00:30 +0330 2019
+running LAPW1 in parallel mode (using .machines)
+8 number_of_parallel_jobs
+     localhost(15) 6.468u 0.239s 0:07.56 88.4%	0+0k 0+13856io 0pf+0w
+     localhost(15) 7.095u 0.234s 0:08.35 87.6%	0+0k 0+13464io 0pf+0w
+     localhost(15) 7.587u 0.217s 0:08.78 88.7%	0+0k 0+13536io 0pf+0w
+     localhost(15) 7.586u 0.179s 0:08.94 86.6%	0+0k 0+13456io 0pf+0w
+     localhost(15) 7.248u 0.240s 0:08.86 84.4%	0+0k 0+13552io 0pf+0w
+     localhost(15) 7.441u 0.251s 0:08.56 89.8%	0+0k 0+13552io 0pf+0w
+     localhost(15) 7.361u 0.252s 0:08.28 91.9%	0+0k 0+13584io 0pf+0w
+     localhost(15) 6.544u 0.299s 0:08.31 82.1%	0+0k 0+13600io 0pf+0w
+   Summary of lapw1para:
+   localhost	 k=120	 user=57.33	 wallclock=67.64
+57.744u 2.131s 0:10.59 565.3%	0+0k 0+109776io 0pf+0w
+>   lapw1  -dn -p     	(19:00:41) starting parallel lapw1 at Sat Oct 12 19:00:41 +0330 2019
+->  starting parallel LAPW1 jobs at Sat Oct 12 19:00:41 +0330 2019
+running LAPW1 in parallel mode (using .machines.help)
+8 number_of_parallel_jobs
+     localhost(15) 6.773u 0.226s 0:08.09 86.4%	0+0k 0+13688io 0pf+0w
+     localhost(15) 7.081u 0.231s 0:07.89 92.6%	0+0k 0+13304io 0pf+0w
+     localhost(15) 7.376u 0.274s 0:08.68 88.0%	0+0k 0+13352io 0pf+0w
+     localhost(15) 7.433u 0.240s 0:08.69 88.2%	0+0k 0+13280io 0pf+0w
+     localhost(15) 7.214u 0.273s 0:08.51 87.8%	0+0k 0+13376io 0pf+0w
+     localhost(15) 7.213u 0.250s 0:08.39 88.9%	0+0k 0+13360io 0pf+0w
+     localhost(15) 6.833u 0.237s 0:08.66 81.5%	0+0k 0+13480io 0pf+0w
+     localhost(15) 7.101u 0.216s 0:08.20 89.1%	0+0k 0+13512io 0pf+0w
+   Summary of lapw1para:
+   localhost	 k=120	 user=57.024	 wallclock=67.11
+57.447u 2.107s 0:10.58 562.7%	0+0k 0+108528io 0pf+0w
+>   lapw2 -up -p       	(19:00:51) running LAPW2 in parallel mode
+      localhost 0.950u 0.033s 0:01.02 96.0% 0+0k 0+704io 0pf+0w
+      localhost 0.947u 0.021s 0:01.04 92.3% 0+0k 0+592io 0pf+0w
+      localhost 0.992u 0.020s 0:01.06 95.2% 0+0k 0+592io 0pf+0w
+      localhost 0.975u 0.040s 0:01.07 94.3% 0+0k 0+592io 0pf+0w
+      localhost 1.054u 0.020s 0:01.12 95.5% 0+0k 0+592io 0pf+0w
+      localhost 0.920u 0.019s 0:01.10 84.5% 0+0k 0+592io 0pf+0w
+      localhost 0.982u 0.027s 0:01.14 87.7% 0+0k 0+592io 0pf+0w
+      localhost 0.858u 0.024s 0:01.00 87.0% 0+0k 0+592io 0pf+0w
+   Summary of lapw2para:
+   localhost	 user=7.678	 wallclock=8.55
+8.013u 0.295s 0:03.06 271.2%	0+0k 0+8392io 0pf+0w
+>   lapw2 -dn -p       	(19:00:54) running LAPW2 in parallel mode
+      localhost 0.718u 0.024s 0:00.76 96.0% 0+0k 0+704io 0pf+0w
+      localhost 0.855u 0.024s 0:00.89 97.7% 0+0k 0+592io 0pf+0w
+      localhost 0.793u 0.040s 0:00.85 97.6% 0+0k 0+592io 0pf+0w
+      localhost 0.824u 0.036s 0:00.91 93.4% 0+0k 0+592io 0pf+0w
+      localhost 0.857u 0.044s 0:00.95 93.6% 0+0k 0+592io 0pf+0w
+      localhost 0.831u 0.028s 0:00.92 92.3% 0+0k 0+592io 0pf+0w
+      localhost 0.716u 0.048s 0:00.86 87.2% 0+0k 0+592io 0pf+0w
+      localhost 0.667u 0.023s 0:00.77 88.3% 0+0k 0+592io 0pf+0w
+   Summary of lapw2para:
+   localhost	 user=6.261	 wallclock=6.91
+6.605u 0.349s 0:02.83 245.2%	0+0k 0+8368io 0pf+0w
+>   lcore -up 	(19:00:57) 0.006u 0.003s 0:00.00 0.0%	0+0k 0+432io 0pf+0w
+>   lcore -dn 	(19:00:57) 0.009u 0.000s 0:00.00 0.0%	0+0k 0+432io 0pf+0w
+>   mixer  	(19:00:57) 0.047u 0.000s 0:00.06 66.6%	0+0k 0+3152io 0pf+0w
+:ENERGY convergence:  0 0 .0001852100000000
+:CHARGE convergence:  0 0.0001 .0477171
+
+    cycle 11 	(Sat Oct 12 19:00:58 +0330 2019) 	(190/89 to go)
+
+>   lapw0  -p	(19:00:58) starting parallel lapw0 at Sat Oct 12 19:00:58 +0330 2019
+-------- .machine0 : processors
+running lapw0 in single mode
+1.163u 0.017s 0:01.17 100.0%	0+0k 0+1232io 0pf+0w
+>   lapw1  -up -p     	(19:00:59) starting parallel lapw1 at Sat Oct 12 19:00:59 +0330 2019
+->  starting parallel LAPW1 jobs at Sat Oct 12 19:00:59 +0330 2019
+running LAPW1 in parallel mode (using .machines)
+8 number_of_parallel_jobs
+     localhost(15) 6.658u 0.224s 0:07.28 94.3%	0+0k 0+13848io 0pf+0w
+     localhost(15) 7.142u 0.212s 0:08.18 89.8%	0+0k 0+13448io 0pf+0w
+     localhost(15) 7.302u 0.237s 0:08.58 87.7%	0+0k 0+13528io 0pf+0w
+     localhost(15) 7.179u 0.266s 0:08.32 89.3%	0+0k 0+13432io 0pf+0w
+     localhost(15) 7.285u 0.281s 0:08.13 92.9%	0+0k 0+13528io 0pf+0w
+     localhost(15) 7.068u 0.222s 0:08.55 85.1%	0+0k 0+13536io 0pf+0w
+     localhost(15) 6.862u 0.258s 0:08.42 84.4%	0+0k 0+13592io 0pf+0w
+     localhost(15) 6.952u 0.186s 0:08.10 88.0%	0+0k 0+13592io 0pf+0w
+   Summary of lapw1para:
+   localhost	 k=120	 user=56.448	 wallclock=65.56
+56.801u 2.030s 0:10.33 569.5%	0+0k 0+109680io 0pf+0w
+>   lapw1  -dn -p     	(19:01:09) starting parallel lapw1 at Sat Oct 12 19:01:09 +0330 2019
+->  starting parallel LAPW1 jobs at Sat Oct 12 19:01:09 +0330 2019
+running LAPW1 in parallel mode (using .machines.help)
+8 number_of_parallel_jobs
+     localhost(15) 6.330u 0.237s 0:07.51 87.3%	0+0k 0+13704io 0pf+0w
+     localhost(15) 7.356u 0.233s 0:08.55 88.6%	0+0k 0+13304io 0pf+0w
+     localhost(15) 7.271u 0.277s 0:08.20 91.9%	0+0k 0+13344io 0pf+0w
+     localhost(15) 7.507u 0.222s 0:08.65 89.2%	0+0k 0+13288io 0pf+0w
+     localhost(15) 7.405u 0.276s 0:08.65 88.6%	0+0k 0+13392io 0pf+0w
+     localhost(15) 6.935u 0.248s 0:08.81 81.3%	0+0k 0+13360io 0pf+0w
+     localhost(15) 7.218u 0.255s 0:08.49 87.8%	0+0k 0+13456io 0pf+0w
+     localhost(15) 7.232u 0.212s 0:08.12 91.6%	0+0k 0+13528io 0pf+0w
+   Summary of lapw1para:
+   localhost	 k=120	 user=57.254	 wallclock=66.98
+57.685u 2.178s 0:10.61 564.0%	0+0k 0+108544io 0pf+0w
+>   lapw2 -up -p       	(19:01:20) running LAPW2 in parallel mode
+      localhost 0.990u 0.024s 0:01.03 98.0% 0+0k 0+704io 0pf+0w
+      localhost 0.903u 0.033s 0:00.96 96.8% 0+0k 0+592io 0pf+0w
+      localhost 1.049u 0.036s 0:01.12 95.5% 0+0k 0+592io 0pf+0w
+      localhost 0.991u 0.042s 0:01.10 93.6% 0+0k 0+592io 0pf+0w
+      localhost 1.063u 0.023s 0:01.16 93.1% 0+0k 0+592io 0pf+0w
+      localhost 1.046u 0.016s 0:01.11 94.5% 0+0k 0+592io 0pf+0w
+      localhost 0.902u 0.031s 0:01.08 86.1% 0+0k 0+592io 0pf+0w
+      localhost 0.848u 0.020s 0:01.03 83.4% 0+0k 0+592io 0pf+0w
+   Summary of lapw2para:
+   localhost	 user=7.792	 wallclock=8.59
+8.071u 0.341s 0:03.08 273.0%	0+0k 0+8408io 0pf+0w
+>   lapw2 -dn -p       	(19:01:23) running LAPW2 in parallel mode
+      localhost 0.714u 0.036s 0:00.78 94.8% 0+0k 0+704io 0pf+0w
+      localhost 0.870u 0.028s 0:00.91 97.8% 0+0k 0+592io 0pf+0w
+      localhost 0.863u 0.021s 0:00.90 97.7% 0+0k 0+592io 0pf+0w
+      localhost 0.948u 0.043s 0:01.09 89.9% 0+0k 0+592io 0pf+0w
+      localhost 0.936u 0.036s 0:01.01 95.0% 0+0k 0+592io 0pf+0w
+      localhost 0.790u 0.024s 0:00.87 93.1% 0+0k 0+592io 0pf+0w
+      localhost 0.781u 0.047s 0:00.87 94.2% 0+0k 0+592io 0pf+0w
+      localhost 0.678u 0.043s 0:00.82 86.5% 0+0k 0+600io 0pf+0w
+   Summary of lapw2para:
+   localhost	 user=6.58	 wallclock=7.25
+6.953u 0.408s 0:02.92 251.7%	0+0k 0+8400io 0pf+0w
+>   lcore -up 	(19:01:26) 0.004u 0.004s 0:00.00 0.0%	0+0k 0+432io 0pf+0w
+>   lcore -dn 	(19:01:26) 0.007u 0.003s 0:00.01 0.0%	0+0k 0+432io 0pf+0w
+>   mixer  	(19:01:26) 0.045u 0.004s 0:00.06 66.6%	0+0k 0+3152io 0pf+0w
+:ENERGY convergence:  0 0 .0001552950000000
+:CHARGE convergence:  0 0.0001 .0170100
+
+    cycle 12 	(Sat Oct 12 19:01:26 +0330 2019) 	(189/88 to go)
+
+>   lapw0  -p	(19:01:26) starting parallel lapw0 at Sat Oct 12 19:01:26 +0330 2019
+-------- .machine0 : processors
+running lapw0 in single mode
+1.172u 0.009s 0:01.18 99.1%	0+0k 0+1240io 0pf+0w
+>   lapw1  -up -p     	(19:01:27) starting parallel lapw1 at Sat Oct 12 19:01:27 +0330 2019
+->  starting parallel LAPW1 jobs at Sat Oct 12 19:01:27 +0330 2019
+running LAPW1 in parallel mode (using .machines)
+8 number_of_parallel_jobs
+     localhost(15) 6.814u 0.233s 0:08.41 83.7%	0+0k 0+13864io 0pf+0w
+     localhost(15) 7.546u 0.254s 0:08.95 87.0%	0+0k 0+13448io 0pf+0w
+     localhost(15) 7.321u 0.265s 0:08.49 89.2%	0+0k 0+13520io 0pf+0w
+     localhost(15) 7.358u 0.242s 0:08.48 89.5%	0+0k 0+13424io 0pf+0w
+     localhost(15) 7.533u 0.254s 0:08.82 88.2%	0+0k 0+13536io 0pf+0w
+     localhost(15) 7.683u 0.308s 0:08.66 92.1%	0+0k 0+13504io 0pf+0w
+     localhost(15) 7.193u 0.307s 0:08.74 85.6%	0+0k 0+13584io 0pf+0w
+     localhost(15) 7.242u 0.294s 0:08.34 90.2%	0+0k 0+13592io 0pf+0w
+   Summary of lapw1para:
+   localhost	 k=120	 user=58.69	 wallclock=68.89
+59.145u 2.322s 0:11.23 547.2%	0+0k 0+109640io 0pf+0w
+>   lapw1  -dn -p     	(19:01:39) starting parallel lapw1 at Sat Oct 12 19:01:39 +0330 2019
+->  starting parallel LAPW1 jobs at Sat Oct 12 19:01:39 +0330 2019
+running LAPW1 in parallel mode (using .machines.help)
+8 number_of_parallel_jobs
+     localhost(15) 6.696u 0.272s 0:07.50 92.8%	0+0k 0+13688io 0pf+0w
+     localhost(15) 6.991u 0.222s 0:08.32 86.6%	0+0k 0+13304io 0pf+0w
+     localhost(15) 7.259u 0.230s 0:08.31 90.0%	0+0k 0+13336io 0pf+0w
+     localhost(15) 7.228u 0.270s 0:08.53 87.8%	0+0k 0+13288io 0pf+0w
+     localhost(15) 6.918u 0.243s 0:08.63 82.8%	0+0k 0+13384io 0pf+0w
+     localhost(15) 7.060u 0.299s 0:08.24 89.1%	0+0k 0+13352io 0pf+0w
+     localhost(15) 6.658u 0.209s 0:08.58 79.8%	0+0k 0+13464io 0pf+0w
+     localhost(15) 7.105u 0.192s 0:08.22 88.6%	0+0k 0+13520io 0pf+0w
+   Summary of lapw1para:
+   localhost	 k=120	 user=55.915	 wallclock=66.33
+56.331u 2.114s 0:10.52 555.5%	0+0k 0+108504io 0pf+0w
+>   lapw2 -up -p       	(19:01:49) running LAPW2 in parallel mode
+      localhost 0.889u 0.044s 0:00.95 96.8% 0+0k 0+712io 0pf+0w
+      localhost 0.967u 0.043s 0:01.03 97.0% 0+0k 0+592io 0pf+0w
+      localhost 0.997u 0.041s 0:01.08 95.3% 0+0k 0+608io 0pf+0w
+      localhost 1.105u 0.028s 0:01.18 94.9% 0+0k 0+600io 0pf+0w
+      localhost 1.104u 0.024s 0:01.19 94.1% 0+0k 0+600io 0pf+0w
+      localhost 0.869u 0.032s 0:00.98 90.8% 0+0k 0+600io 0pf+0w
+      localhost 0.883u 0.028s 0:01.07 84.1% 0+0k 0+600io 0pf+0w
+      localhost 0.840u 0.024s 0:00.96 89.5% 0+0k 0+592io 0pf+0w
+   Summary of lapw2para:
+   localhost	 user=7.654	 wallclock=8.44
+8.008u 0.356s 0:03.06 272.8%	0+0k 0+8440io 0pf+0w
+>   lapw2 -dn -p       	(19:01:52) running LAPW2 in parallel mode
+      localhost 0.658u 0.040s 0:00.72 95.8% 0+0k 0+704io 0pf+0w
+      localhost 0.715u 0.020s 0:00.76 96.0% 0+0k 0+592io 0pf+0w
+      localhost 0.830u 0.016s 0:00.89 94.3% 0+0k 0+592io 0pf+0w
+      localhost 0.916u 0.052s 0:01.02 94.1% 0+0k 0+592io 0pf+0w
+      localhost 0.820u 0.044s 0:00.91 94.5% 0+0k 0+592io 0pf+0w
+      localhost 0.749u 0.052s 0:00.89 88.7% 0+0k 0+592io 0pf+0w
+      localhost 0.807u 0.041s 0:00.92 91.3% 0+0k 0+592io 0pf+0w
+      localhost 0.640u 0.033s 0:00.73 91.7% 0+0k 0+592io 0pf+0w
+   Summary of lapw2para:
+   localhost	 user=6.135	 wallclock=6.84
+6.458u 0.381s 0:02.85 239.6%	0+0k 0+8400io 0pf+0w
+>   lcore -up 	(19:01:55) 0.006u 0.003s 0:00.00 0.0%	0+0k 0+432io 0pf+0w
+>   lcore -dn 	(19:01:55) 0.004u 0.004s 0:00.00 0.0%	0+0k 0+432io 0pf+0w
+>   mixer  	(19:01:55) 0.040u 0.008s 0:00.06 66.6%	0+0k 0+3152io 0pf+0w
+:ENERGY convergence:  0 0 .0000578650000000
+:CHARGE convergence:  0 0.0001 .0075804
+
+    cycle 13 	(Sat Oct 12 19:01:56 +0330 2019) 	(188/87 to go)
+
+>   lapw0  -p	(19:01:56) starting parallel lapw0 at Sat Oct 12 19:01:56 +0330 2019
+-------- .machine0 : processors
+running lapw0 in single mode
+1.158u 0.021s 0:01.17 100.0%	0+0k 0+1232io 0pf+0w
+>   lapw1  -up -p     	(19:01:57) starting parallel lapw1 at Sat Oct 12 19:01:57 +0330 2019
+->  starting parallel LAPW1 jobs at Sat Oct 12 19:01:57 +0330 2019
+running LAPW1 in parallel mode (using .machines)
+8 number_of_parallel_jobs
+     localhost(15) 7.021u 0.225s 0:08.38 86.3%	0+0k 0+13856io 0pf+0w
+     localhost(15) 7.375u 0.264s 0:08.30 91.9%	0+0k 0+13464io 0pf+0w
+     localhost(15) 7.352u 0.246s 0:08.83 85.9%	0+0k 0+13528io 0pf+0w
+     localhost(15) 7.552u 0.161s 0:08.76 88.0%	0+0k 0+13424io 0pf+0w
+     localhost(15) 7.472u 0.206s 0:08.98 85.4%	0+0k 0+13544io 0pf+0w
+     localhost(15) 7.826u 0.257s 0:08.82 91.4%	0+0k 0+13504io 0pf+0w
+     localhost(15) 7.278u 0.253s 0:08.65 86.9%	0+0k 0+13592io 0pf+0w
+     localhost(15) 7.417u 0.229s 0:08.34 91.4%	0+0k 0+13592io 0pf+0w
+   Summary of lapw1para:
+   localhost	 k=120	 user=59.293	 wallclock=69.06
+59.691u 1.942s 0:11.22 549.2%	0+0k 0+109672io 0pf+0w
+>   lapw1  -dn -p     	(19:02:08) starting parallel lapw1 at Sat Oct 12 19:02:08 +0330 2019
+->  starting parallel LAPW1 jobs at Sat Oct 12 19:02:08 +0330 2019
+running LAPW1 in parallel mode (using .machines.help)
+8 number_of_parallel_jobs
+     localhost(15) 6.938u 0.175s 0:08.11 87.5%	0+0k 0+13712io 0pf+0w
+     localhost(15) 7.411u 0.227s 0:08.53 89.4%	0+0k 0+13312io 0pf+0w
+     localhost(15) 7.634u 0.270s 0:08.78 89.9%	0+0k 0+13344io 0pf+0w
+     localhost(15) 7.312u 0.227s 0:08.75 86.0%	0+0k 0+13280io 0pf+0w
+     localhost(15) 7.386u 0.261s 0:08.66 88.2%	0+0k 0+13376io 0pf+0w
+     localhost(15) 7.387u 0.187s 0:08.57 88.2%	0+0k 0+13360io 0pf+0w
+     localhost(15) 7.442u 0.280s 0:08.59 89.8%	0+0k 0+13464io 0pf+0w
+     localhost(15) 6.991u 0.232s 0:08.37 86.2%	0+0k 0+13520io 0pf+0w
+   Summary of lapw1para:
+   localhost	 k=120	 user=58.501	 wallclock=68.36
+58.932u 2.045s 0:11.17 545.8%	0+0k 0+108528io 0pf+0w
+>   lapw2 -up -p       	(19:02:19) running LAPW2 in parallel mode
+      localhost 0.892u 0.032s 0:01.00 92.0% 0+0k 0+712io 0pf+0w
+      localhost 0.979u 0.023s 0:01.08 91.6% 0+0k 0+592io 0pf+0w
+      localhost 0.931u 0.021s 0:00.98 96.9% 0+0k 0+592io 0pf+0w
+      localhost 1.161u 0.031s 0:01.23 96.7% 0+0k 0+592io 0pf+0w
+      localhost 0.976u 0.024s 0:01.13 87.6% 0+0k 0+592io 0pf+0w
+      localhost 1.068u 0.032s 0:01.18 92.3% 0+0k 0+592io 0pf+0w
+      localhost 0.924u 0.043s 0:01.06 90.5% 0+0k 0+592io 0pf+0w
+      localhost 0.927u 0.020s 0:00.99 94.9% 0+0k 0+592io 0pf+0w
+   Summary of lapw2para:
+   localhost	 user=7.858	 wallclock=8.65
+8.205u 0.310s 0:03.06 278.1%	0+0k 0+8424io 0pf+0w
+>   lapw2 -dn -p       	(19:02:22) running LAPW2 in parallel mode
+      localhost 0.750u 0.016s 0:00.79 96.2% 0+0k 0+704io 0pf+0w
+      localhost 0.783u 0.032s 0:00.82 98.7% 0+0k 0+592io 0pf+0w
+      localhost 0.951u 0.040s 0:01.03 96.1% 0+0k 0+592io 0pf+0w
+      localhost 0.984u 0.064s 0:01.09 95.4% 0+0k 0+592io 0pf+0w
+      localhost 0.920u 0.039s 0:00.99 95.9% 0+0k 0+592io 0pf+0w
+      localhost 0.839u 0.056s 0:00.93 94.6% 0+0k 0+592io 0pf+0w
+      localhost 0.796u 0.020s 0:00.91 89.0% 0+0k 0+592io 0pf+0w
+      localhost 0.797u 0.043s 0:00.93 89.2% 0+0k 0+592io 0pf+0w
+   Summary of lapw2para:
+   localhost	 user=6.82	 wallclock=7.49
+7.180u 0.385s 0:03.03 249.5%	0+0k 0+8400io 0pf+0w
+>   lcore -up 	(19:02:25) 0.004u 0.004s 0:00.00 0.0%	0+0k 0+432io 0pf+0w
+>   lcore -dn 	(19:02:26) 0.009u 0.000s 0:00.00 0.0%	0+0k 0+432io 0pf+0w
+>   mixer  	(19:02:26) 0.045u 0.004s 0:00.07 57.1%	0+0k 0+3152io 0pf+0w
+:ENERGY convergence:  0 0 .0000167450000000
+:CHARGE convergence:  0 0.0001 .0061320
+
+    cycle 14 	(Sat Oct 12 19:02:26 +0330 2019) 	(187/86 to go)
+
+>   lapw0  -p	(19:02:26) starting parallel lapw0 at Sat Oct 12 19:02:26 +0330 2019
+-------- .machine0 : processors
+running lapw0 in single mode
+1.171u 0.020s 0:01.19 100.0%	0+0k 0+1248io 0pf+0w
+>   lapw1  -up -p     	(19:02:27) starting parallel lapw1 at Sat Oct 12 19:02:27 +0330 2019
+->  starting parallel LAPW1 jobs at Sat Oct 12 19:02:27 +0330 2019
+running LAPW1 in parallel mode (using .machines)
+8 number_of_parallel_jobs
+     localhost(15) 6.329u 0.214s 0:08.12 80.4%	0+0k 0+13840io 0pf+0w
+     localhost(15) 7.142u 0.259s 0:08.36 88.3%	0+0k 0+13456io 0pf+0w
+     localhost(15) 7.581u 0.215s 0:08.57 90.8%	0+0k 0+13512io 0pf+0w
+     localhost(15) 7.533u 0.196s 0:08.77 88.0%	0+0k 0+13440io 0pf+0w
+     localhost(15) 7.228u 0.198s 0:08.78 84.3%	0+0k 0+13536io 0pf+0w
+     localhost(15) 7.307u 0.286s 0:08.48 89.3%	0+0k 0+13512io 0pf+0w
+     localhost(15) 7.385u 0.277s 0:08.43 90.7%	0+0k 0+13592io 0pf+0w
+     localhost(15) 7.174u 0.236s 0:08.25 89.6%	0+0k 0+13592io 0pf+0w
+   Summary of lapw1para:
+   localhost	 k=120	 user=57.679	 wallclock=67.76
+58.111u 2.076s 0:10.55 570.4%	0+0k 0+109648io 0pf+0w
+>   lapw1  -dn -p     	(19:02:38) starting parallel lapw1 at Sat Oct 12 19:02:38 +0330 2019
+->  starting parallel LAPW1 jobs at Sat Oct 12 19:02:38 +0330 2019
+running LAPW1 in parallel mode (using .machines.help)
+8 number_of_parallel_jobs
+     localhost(15) 6.873u 0.239s 0:09.13 77.7%	0+0k 0+13704io 0pf+0w
+     localhost(15) 7.137u 0.241s 0:08.02 91.8%	0+0k 0+13312io 0pf+0w
+     localhost(15) 7.403u 0.234s 0:09.02 84.5%	0+0k 0+13352io 0pf+0w
+     localhost(15) 8.062u 0.219s 0:09.00 91.8%	0+0k 0+13264io 0pf+0w
+     localhost(15) 7.696u 0.242s 0:08.94 88.7%	0+0k 0+13376io 0pf+0w
+     localhost(15) 7.277u 0.270s 0:08.95 84.2%	0+0k 0+13360io 0pf+0w
+     localhost(15) 7.470u 0.251s 0:08.58 89.9%	0+0k 0+13464io 0pf+0w
+     localhost(15) 7.496u 0.254s 0:08.55 90.5%	0+0k 0+13544io 0pf+0w
+   Summary of lapw1para:
+   localhost	 k=120	 user=59.414	 wallclock=70.19
+59.821u 2.159s 0:10.85 571.1%	0+0k 0+108536io 0pf+0w
+>   lapw2 -up -p       	(19:02:49) running LAPW2 in parallel mode
+      localhost 0.970u 0.024s 0:01.08 91.6% 0+0k 0+704io 0pf+0w
+      localhost 0.929u 0.013s 0:00.95 97.8% 0+0k 0+592io 0pf+0w
+      localhost 1.022u 0.047s 0:01.11 95.4% 0+0k 0+592io 0pf+0w
+      localhost 0.976u 0.032s 0:01.05 95.2% 0+0k 0+592io 0pf+0w
+      localhost 1.066u 0.027s 0:01.19 90.7% 0+0k 0+592io 0pf+0w
+      localhost 0.985u 0.055s 0:01.11 92.7% 0+0k 0+592io 0pf+0w
+      localhost 0.962u 0.027s 0:01.06 92.4% 0+0k 0+592io 0pf+0w
+      localhost 0.880u 0.020s 0:01.02 88.2% 0+0k 0+592io 0pf+0w
+   Summary of lapw2para:
+   localhost	 user=7.79	 wallclock=8.57
+8.103u 0.315s 0:03.12 269.5%	0+0k 0+8392io 0pf+0w
+>   lapw2 -dn -p       	(19:02:52) running LAPW2 in parallel mode
+      localhost 0.762u 0.028s 0:00.85 91.7% 0+0k 0+704io 0pf+0w
+      localhost 0.706u 0.020s 0:00.74 97.2% 0+0k 0+592io 0pf+0w
+      localhost 0.792u 0.012s 0:00.88 90.9% 0+0k 0+592io 0pf+0w
+      localhost 0.890u 0.040s 0:00.97 95.8% 0+0k 0+592io 0pf+0w
+      localhost 0.898u 0.032s 0:00.96 95.8% 0+0k 0+592io 0pf+0w
+      localhost 0.754u 0.032s 0:00.83 93.9% 0+0k 0+592io 0pf+0w
+      localhost 0.825u 0.027s 0:00.93 90.3% 0+0k 0+592io 0pf+0w
+      localhost 0.750u 0.035s 0:00.83 93.9% 0+0k 0+592io 0pf+0w
+   Summary of lapw2para:
+   localhost	 user=6.377	 wallclock=6.99
+6.707u 0.320s 0:02.97 236.3%	0+0k 0+8376io 0pf+0w
+>   lcore -up 	(19:02:55) 0.006u 0.003s 0:00.00 0.0%	0+0k 0+432io 0pf+0w
+>   lcore -dn 	(19:02:55) 0.006u 0.003s 0:00.00 0.0%	0+0k 0+432io 0pf+0w
+>   mixer  	(19:02:55) 0.047u 0.000s 0:00.06 66.6%	0+0k 0+3152io 0pf+0w
+:ENERGY convergence:  0 0 .0000092750000000
+:CHARGE convergence:  0 0.0001 .0004179
+
+    cycle 15 	(Sat Oct 12 19:02:55 +0330 2019) 	(186/85 to go)
+
+>   lapw0  -p	(19:02:55) starting parallel lapw0 at Sat Oct 12 19:02:55 +0330 2019
+-------- .machine0 : processors
+running lapw0 in single mode
+1.182u 0.013s 0:01.19 100.0%	0+0k 0+1240io 0pf+0w
+>   lapw1  -up -p     	(19:02:56) starting parallel lapw1 at Sat Oct 12 19:02:56 +0330 2019
+->  starting parallel LAPW1 jobs at Sat Oct 12 19:02:56 +0330 2019
+running LAPW1 in parallel mode (using .machines)
+8 number_of_parallel_jobs
+     localhost(15) 6.887u 0.245s 0:07.63 93.3%	0+0k 0+13848io 0pf+0w
+     localhost(15) 7.229u 0.254s 0:08.01 93.2%	0+0k 0+13448io 0pf+0w
+     localhost(15) 7.214u 0.261s 0:08.40 88.9%	0+0k 0+13512io 0pf+0w
+     localhost(15) 7.465u 0.202s 0:08.72 87.8%	0+0k 0+13432io 0pf+0w
+     localhost(15) 7.345u 0.233s 0:08.36 90.5%	0+0k 0+13520io 0pf+0w
+     localhost(15) 7.154u 0.266s 0:08.36 88.6%	0+0k 0+13504io 0pf+0w
+     localhost(15) 7.158u 0.242s 0:08.49 87.0%	0+0k 0+13584io 0pf+0w
+     localhost(15) 6.607u 0.243s 0:08.47 80.7%	0+0k 0+13600io 0pf+0w
+   Summary of lapw1para:
+   localhost	 k=120	 user=57.059	 wallclock=66.44
+57.443u 2.059s 0:10.71 555.4%	0+0k 0+109632io 0pf+0w
+>   lapw1  -dn -p     	(19:03:07) starting parallel lapw1 at Sat Oct 12 19:03:07 +0330 2019
+->  starting parallel LAPW1 jobs at Sat Oct 12 19:03:07 +0330 2019
+running LAPW1 in parallel mode (using .machines.help)
+8 number_of_parallel_jobs
+     localhost(15) 6.703u 0.207s 0:08.19 84.2%	0+0k 0+13680io 0pf+0w
+     localhost(15) 7.243u 0.212s 0:08.62 86.4%	0+0k 0+13304io 0pf+0w
+     localhost(15) 7.231u 0.265s 0:08.37 89.4%	0+0k 0+13344io 0pf+0w
+     localhost(15) 7.452u 0.231s 0:08.91 86.1%	0+0k 0+13264io 0pf+0w
+     localhost(15) 7.283u 0.278s 0:08.83 85.5%	0+0k 0+13376io 0pf+0w
+     localhost(15) 7.042u 0.206s 0:08.82 82.0%	0+0k 0+13352io 0pf+0w
+     localhost(15) 7.078u 0.230s 0:08.32 87.7%	0+0k 0+13456io 0pf+0w
+     localhost(15) 6.697u 0.266s 0:08.44 82.3%	0+0k 0+13528io 0pf+0w
+   Summary of lapw1para:
+   localhost	 k=120	 user=56.729	 wallclock=68.5
+57.167u 2.071s 0:11.23 527.4%	0+0k 0+108464io 0pf+0w
+>   lapw2 -up -p       	(19:03:18) running LAPW2 in parallel mode
+      localhost 0.915u 0.031s 0:00.97 96.9% 0+0k 0+704io 0pf+0w
+      localhost 0.916u 0.052s 0:01.06 90.5% 0+0k 0+592io 0pf+0w
+      localhost 1.075u 0.032s 0:01.15 95.6% 0+0k 0+592io 0pf+0w
+      localhost 1.065u 0.028s 0:01.14 94.7% 0+0k 0+592io 0pf+0w
+      localhost 1.040u 0.051s 0:01.12 97.3% 0+0k 0+592io 0pf+0w
+      localhost 1.019u 0.036s 0:01.14 91.2% 0+0k 0+592io 0pf+0w
+      localhost 0.973u 0.017s 0:01.15 85.2% 0+0k 0+592io 0pf+0w
+      localhost 0.865u 0.035s 0:01.02 87.2% 0+0k 0+592io 0pf+0w
+   Summary of lapw2para:
+   localhost	 user=7.868	 wallclock=8.75
+8.222u 0.444s 0:03.10 279.3%	0+0k 0+8392io 0pf+0w
+>   lapw2 -dn -p       	(19:03:21) running LAPW2 in parallel mode
+      localhost 0.786u 0.036s 0:00.84 96.4% 0+0k 0+704io 0pf+0w
+      localhost 0.698u 0.008s 0:00.71 97.1% 0+0k 0+600io 0pf+0w
+      localhost 0.900u 0.040s 0:00.95 98.9% 0+0k 0+592io 0pf+0w
+      localhost 0.869u 0.023s 0:00.96 91.6% 0+0k 0+592io 0pf+0w
+      localhost 0.868u 0.044s 0:00.96 93.7% 0+0k 0+600io 0pf+0w
+      localhost 0.833u 0.028s 0:00.95 89.4% 0+0k 0+600io 0pf+0w
+      localhost 0.793u 0.052s 0:00.90 93.3% 0+0k 0+600io 0pf+0w
+      localhost 0.706u 0.028s 0:00.80 90.0% 0+0k 0+592io 0pf+0w
+   Summary of lapw2para:
+   localhost	 user=6.453	 wallclock=7.07
+6.813u 0.345s 0:02.92 244.8%	0+0k 0+8416io 0pf+0w
+>   lcore -up 	(19:03:24) 0.009u 0.000s 0:00.01 0.0%	0+0k 0+432io 0pf+0w
+>   lcore -dn 	(19:03:24) 0.006u 0.003s 0:00.00 0.0%	0+0k 0+432io 0pf+0w
+>   mixer  	(19:03:24) 0.045u 0.004s 0:00.07 57.1%	0+0k 0+3152io 0pf+0w
+:ENERGY convergence:  0 0 .0000019300000000
+:CHARGE convergence:  0 0.0001 .0002480
+
+    cycle 16 	(Sat Oct 12 19:03:25 +0330 2019) 	(185/84 to go)
+
+>   lapw0  -p	(19:03:25) starting parallel lapw0 at Sat Oct 12 19:03:25 +0330 2019
+-------- .machine0 : processors
+running lapw0 in single mode
+1.182u 0.011s 0:01.19 100.0%	0+0k 0+1240io 0pf+0w
+>   lapw1  -up -p     	(19:03:26) starting parallel lapw1 at Sat Oct 12 19:03:26 +0330 2019
+->  starting parallel LAPW1 jobs at Sat Oct 12 19:03:26 +0330 2019
+running LAPW1 in parallel mode (using .machines)
+8 number_of_parallel_jobs
+     localhost(15) 6.414u 0.175s 0:07.30 90.1%	0+0k 0+13848io 0pf+0w
+     localhost(15) 7.372u 0.232s 0:08.57 88.6%	0+0k 0+13440io 0pf+0w
+     localhost(15) 7.260u 0.266s 0:08.64 87.0%	0+0k 0+13536io 0pf+0w
+     localhost(15) 7.426u 0.218s 0:08.75 87.2%	0+0k 0+13432io 0pf+0w
+     localhost(15) 7.559u 0.238s 0:08.61 90.3%	0+0k 0+13520io 0pf+0w
+     localhost(15) 7.550u 0.249s 0:08.62 90.3%	0+0k 0+13512io 0pf+0w
+     localhost(15) 7.229u 0.262s 0:08.45 88.5%	0+0k 0+13568io 0pf+0w
+     localhost(15) 7.326u 0.200s 0:08.31 90.4%	0+0k 0+13608io 0pf+0w
+   Summary of lapw1para:
+   localhost	 k=120	 user=58.136	 wallclock=67.25
+58.547u 2.029s 0:10.50 576.7%	0+0k 0+109640io 0pf+0w
+>   lapw1  -dn -p     	(19:03:36) starting parallel lapw1 at Sat Oct 12 19:03:36 +0330 2019
+->  starting parallel LAPW1 jobs at Sat Oct 12 19:03:37 +0330 2019
+running LAPW1 in parallel mode (using .machines.help)
+8 number_of_parallel_jobs
+     localhost(15) 6.868u 0.239s 0:08.84 80.2%	0+0k 0+13680io 0pf+0w
+     localhost(15) 7.227u 0.222s 0:08.53 87.2%	0+0k 0+13312io 0pf+0w
+     localhost(15) 7.230u 0.238s 0:08.33 89.5%	0+0k 0+13352io 0pf+0w
+     localhost(15) 7.390u 0.261s 0:08.60 88.9%	0+0k 0+13272io 0pf+0w
+     localhost(15) 7.289u 0.276s 0:08.57 88.0%	0+0k 0+13376io 0pf+0w
+     localhost(15) 7.258u 0.222s 0:08.49 87.9%	0+0k 0+13344io 0pf+0w
+     localhost(15) 6.713u 0.253s 0:08.71 79.9%	0+0k 0+13448io 0pf+0w
+     localhost(15) 7.016u 0.227s 0:08.32 86.8%	0+0k 0+13520io 0pf+0w
+   Summary of lapw1para:
+   localhost	 k=120	 user=56.991	 wallclock=68.39
+57.421u 2.112s 0:11.26 528.6%	0+0k 0+108480io 0pf+0w
+>   lapw2 -up -p       	(19:03:48) running LAPW2 in parallel mode
+      localhost 0.946u 0.016s 0:00.99 95.9% 0+0k 0+704io 0pf+0w
+      localhost 0.945u 0.019s 0:01.03 92.2% 0+0k 0+592io 0pf+0w
+      localhost 1.036u 0.032s 0:01.09 97.2% 0+0k 0+592io 0pf+0w
+      localhost 1.039u 0.020s 0:01.11 94.5% 0+0k 0+592io 0pf+0w
+      localhost 1.054u 0.028s 0:01.14 93.8% 0+0k 0+592io 0pf+0w
+      localhost 1.041u 0.028s 0:01.16 91.3% 0+0k 0+592io 0pf+0w
+      localhost 0.970u 0.048s 0:01.08 93.5% 0+0k 0+592io 0pf+0w
+      localhost 0.941u 0.036s 0:01.05 92.3% 0+0k 0+592io 0pf+0w
+   Summary of lapw2para:
+   localhost	 user=7.972	 wallclock=8.65
+8.326u 0.336s 0:03.17 272.8%	0+0k 0+8392io 0pf+0w
+>   lapw2 -dn -p       	(19:03:51) running LAPW2 in parallel mode
+      localhost 0.816u 0.016s 0:00.86 95.3% 0+0k 0+704io 0pf+0w
+      localhost 0.831u 0.023s 0:00.87 97.7% 0+0k 0+592io 0pf+0w
+      localhost 0.867u 0.028s 0:00.98 89.7% 0+0k 0+592io 0pf+0w
+      localhost 0.926u 0.036s 0:00.99 95.9% 0+0k 0+592io 0pf+0w
+      localhost 0.874u 0.047s 0:01.00 91.0% 0+0k 0+592io 0pf+0w
+      localhost 0.939u 0.036s 0:01.07 89.7% 0+0k 0+600io 0pf+0w
+      localhost 0.867u 0.051s 0:01.01 90.0% 0+0k 0+592io 0pf+0w
+      localhost 0.701u 0.036s 0:00.82 89.0% 0+0k 0+592io 0pf+0w
+   Summary of lapw2para:
+   localhost	 user=6.821	 wallclock=7.6
+7.158u 0.467s 0:02.95 257.9%	0+0k 0+8384io 0pf+0w
+>   lcore -up 	(19:03:54) 0.004u 0.004s 0:00.00 0.0%	0+0k 0+432io 0pf+0w
+>   lcore -dn 	(19:03:54) 0.010u 0.000s 0:00.01 100.0%	0+0k 0+432io 0pf+0w
+>   mixer  	(19:03:54) 0.042u 0.005s 0:00.06 66.6%	0+0k 0+3152io 0pf+0w
+:ENERGY convergence:  0 0 .0000004700000000
+:CHARGE convergence:  0 0.0001 .0001866
+
+    cycle 17 	(Sat Oct 12 19:03:54 +0330 2019) 	(184/83 to go)
+
+>   lapw0  -p	(19:03:54) starting parallel lapw0 at Sat Oct 12 19:03:54 +0330 2019
+-------- .machine0 : processors
+running lapw0 in single mode
+1.172u 0.015s 0:01.18 100.0%	0+0k 0+1232io 0pf+0w
+>   lapw1  -up -p     	(19:03:55) starting parallel lapw1 at Sat Oct 12 19:03:55 +0330 2019
+->  starting parallel LAPW1 jobs at Sat Oct 12 19:03:55 +0330 2019
+running LAPW1 in parallel mode (using .machines)
+8 number_of_parallel_jobs
+     localhost(15) 6.612u 0.194s 0:08.02 84.7%	0+0k 0+13840io 0pf+0w
+     localhost(15) 7.600u 0.238s 0:08.25 94.9%	0+0k 0+13432io 0pf+0w
+     localhost(15) 8.052u 0.230s 0:08.81 93.9%	0+0k 0+13528io 0pf+0w
+     localhost(15) 7.769u 0.203s 0:08.95 88.9%	0+0k 0+13448io 0pf+0w
+     localhost(15) 7.673u 0.226s 0:08.75 90.1%	0+0k 0+13528io 0pf+0w
+     localhost(15) 7.499u 0.260s 0:08.49 91.2%	0+0k 0+13520io 0pf+0w
+     localhost(15) 7.435u 0.289s 0:08.51 90.5%	0+0k 0+13584io 0pf+0w
+     localhost(15) 6.987u 0.299s 0:08.51 85.4%	0+0k 0+13600io 0pf+0w
+   Summary of lapw1para:
+   localhost	 k=120	 user=59.627	 wallclock=68.29
+60.063u 2.145s 0:10.74 579.1%	0+0k 0+109656io 0pf+0w
+>   lapw1  -dn -p     	(19:04:06) starting parallel lapw1 at Sat Oct 12 19:04:06 +0330 2019
+->  starting parallel LAPW1 jobs at Sat Oct 12 19:04:06 +0330 2019
+running LAPW1 in parallel mode (using .machines.help)
+8 number_of_parallel_jobs
+     localhost(15) 6.683u 0.249s 0:07.96 86.9%	0+0k 0+13688io 0pf+0w
+     localhost(15) 7.237u 0.224s 0:08.85 84.1%	0+0k 0+13312io 0pf+0w
+     localhost(15) 7.245u 0.294s 0:09.27 81.2%	0+0k 0+13352io 0pf+0w
+     localhost(15) 7.548u 0.279s 0:09.06 86.2%	0+0k 0+13280io 0pf+0w
+     localhost(15) 7.343u 0.254s 0:08.75 86.7%	0+0k 0+13376io 0pf+0w
+     localhost(15) 7.523u 0.254s 0:08.81 88.1%	0+0k 0+13344io 0pf+0w
+     localhost(15) 7.093u 0.275s 0:08.88 82.8%	0+0k 0+13448io 0pf+0w
+     localhost(15) 6.995u 0.301s 0:08.38 86.9%	0+0k 0+13512io 0pf+0w
+   Summary of lapw1para:
+   localhost	 k=120	 user=57.667	 wallclock=69.96
+58.105u 2.335s 0:10.82 558.5%	0+0k 0+108472io 0pf+0w
+>   lapw2 -up -p       	(19:04:17) running LAPW2 in parallel mode
+      localhost 0.888u 0.024s 0:00.93 96.7% 0+0k 0+704io 0pf+0w
+      localhost 0.920u 0.016s 0:00.94 98.9% 0+0k 0+592io 0pf+0w
+      localhost 1.026u 0.024s 0:01.07 97.1% 0+0k 0+592io 0pf+0w
+      localhost 1.055u 0.016s 0:01.12 94.6% 0+0k 0+592io 0pf+0w
+      localhost 0.976u 0.037s 0:01.07 93.4% 0+0k 0+592io 0pf+0w
+      localhost 0.988u 0.053s 0:01.10 93.6% 0+0k 0+592io 0pf+0w
+      localhost 0.921u 0.019s 0:01.06 87.7% 0+0k 0+592io 0pf+0w
+      localhost 0.888u 0.036s 0:01.01 90.0% 0+0k 0+592io 0pf+0w
+   Summary of lapw2para:
+   localhost	 user=7.662	 wallclock=8.3
+7.936u 0.275s 0:03.04 269.7%	0+0k 0+8416io 0pf+0w
+>   lapw2 -dn -p       	(19:04:20) running LAPW2 in parallel mode
+      localhost 0.699u 0.020s 0:00.74 95.9% 0+0k 0+704io 0pf+0w
+      localhost 0.730u 0.020s 0:00.77 97.4% 0+0k 0+592io 0pf+0w
+      localhost 0.852u 0.016s 0:00.91 94.5% 0+0k 0+592io 0pf+0w
+      localhost 0.819u 0.031s 0:00.88 95.4% 0+0k 0+592io 0pf+0w
+      localhost 0.774u 0.052s 0:00.87 94.2% 0+0k 0+592io 0pf+0w
+      localhost 0.710u 0.044s 0:00.82 91.4% 0+0k 0+592io 0pf+0w
+      localhost 0.677u 0.019s 0:00.78 87.1% 0+0k 0+592io 0pf+0w
+      localhost 0.718u 0.036s 0:00.80 92.5% 0+0k 0+592io 0pf+0w
+   Summary of lapw2para:
+   localhost	 user=5.979	 wallclock=6.57
+6.290u 0.339s 0:02.85 232.2%	0+0k 0+8384io 0pf+0w
+>   lcore -up 	(19:04:23) 0.006u 0.003s 0:00.00 0.0%	0+0k 0+432io 0pf+0w
+>   lcore -dn 	(19:04:23) 0.009u 0.000s 0:00.00 0.0%	0+0k 0+432io 0pf+0w
+>   mixer  	(19:04:23) 0.038u 0.011s 0:00.06 66.6%	0+0k 0+3152io 0pf+0w
+:ENERGY convergence:  0 0 .0000023450000000
+:CHARGE convergence:  0 0.0001 .0000564
+
+    cycle 18 	(Sat Oct 12 19:04:23 +0330 2019) 	(183/82 to go)
+
+>   lapw0  -p	(19:04:23) starting parallel lapw0 at Sat Oct 12 19:04:23 +0330 2019
+-------- .machine0 : processors
+running lapw0 in single mode
+1.157u 0.024s 0:01.18 99.1%	0+0k 0+1240io 0pf+0w
+>   lapw1  -up -p     	(19:04:25) starting parallel lapw1 at Sat Oct 12 19:04:25 +0330 2019
+->  starting parallel LAPW1 jobs at Sat Oct 12 19:04:25 +0330 2019
+running LAPW1 in parallel mode (using .machines)
+8 number_of_parallel_jobs
+     localhost(15) 6.603u 0.179s 0:07.20 94.0%	0+0k 0+13832io 0pf+0w
+     localhost(15) 6.859u 0.202s 0:07.82 90.1%	0+0k 0+13440io 0pf+0w
+     localhost(15) 6.883u 0.226s 0:07.53 94.2%	0+0k 0+13528io 0pf+0w
+     localhost(15) 7.240u 0.209s 0:08.05 92.4%	0+0k 0+13440io 0pf+0w
+     localhost(15) 6.785u 0.231s 0:08.05 87.0%	0+0k 0+13528io 0pf+0w
+     localhost(15) 7.111u 0.187s 0:07.90 92.2%	0+0k 0+13496io 0pf+0w
+     localhost(15) 6.608u 0.288s 0:08.07 85.2%	0+0k 0+13584io 0pf+0w
+     localhost(15) 6.575u 0.232s 0:07.65 88.8%	0+0k 0+13584io 0pf+0w
+   Summary of lapw1para:
+   localhost	 k=120	 user=54.664	 wallclock=62.27
+55.093u 1.967s 0:09.99 571.0%	0+0k 0+109608io 0pf+0w
+>   lapw1  -dn -p     	(19:04:35) starting parallel lapw1 at Sat Oct 12 19:04:35 +0330 2019
+->  starting parallel LAPW1 jobs at Sat Oct 12 19:04:35 +0330 2019
+running LAPW1 in parallel mode (using .machines.help)
+8 number_of_parallel_jobs
+     localhost(15) 6.740u 0.177s 0:08.62 80.1%	0+0k 0+13688io 0pf+0w
+     localhost(15) 6.966u 0.251s 0:08.15 88.4%	0+0k 0+13304io 0pf+0w
+     localhost(15) 7.210u 0.245s 0:08.37 89.0%	0+0k 0+13352io 0pf+0w
+     localhost(15) 7.192u 0.204s 0:08.64 85.5%	0+0k 0+13272io 0pf+0w
+     localhost(15) 7.297u 0.224s 0:08.48 88.5%	0+0k 0+13376io 0pf+0w
+     localhost(15) 7.144u 0.284s 0:08.12 91.3%	0+0k 0+13360io 0pf+0w
+     localhost(15) 6.943u 0.275s 0:08.42 85.6%	0+0k 0+13464io 0pf+0w
+     localhost(15) 6.974u 0.226s 0:08.14 88.3%	0+0k 0+13528io 0pf+0w
+   Summary of lapw1para:
+   localhost	 k=120	 user=56.466	 wallclock=66.94
+56.863u 2.039s 0:11.13 529.1%	0+0k 0+108504io 0pf+0w
+>   lapw2 -up -p       	(19:04:46) running LAPW2 in parallel mode
+      localhost 0.858u 0.020s 0:00.92 94.5% 0+0k 0+704io 0pf+0w
+      localhost 1.026u 0.029s 0:01.07 97.1% 0+0k 0+592io 0pf+0w
+      localhost 1.028u 0.023s 0:01.14 91.2% 0+0k 0+592io 0pf+0w
+      localhost 1.050u 0.028s 0:01.11 96.3% 0+0k 0+592io 0pf+0w
+      localhost 1.082u 0.024s 0:01.15 95.6% 0+0k 0+592io 0pf+0w
+      localhost 0.869u 0.048s 0:00.97 92.7% 0+0k 0+592io 0pf+0w
+      localhost 0.963u 0.057s 0:01.11 90.9% 0+0k 0+592io 0pf+0w
+      localhost 0.795u 0.027s 0:00.92 88.0% 0+0k 0+592io 0pf+0w
+   Summary of lapw2para:
+   localhost	 user=7.671	 wallclock=8.39
+7.973u 0.357s 0:03.04 273.6%	0+0k 0+8408io 0pf+0w
+>   lapw2 -dn -p       	(19:04:49) running LAPW2 in parallel mode
+      localhost 0.703u 0.040s 0:00.78 94.8% 0+0k 0+704io 0pf+0w
+      localhost 0.805u 0.020s 0:00.85 96.4% 0+0k 0+592io 0pf+0w
+      localhost 0.885u 0.033s 0:00.94 96.8% 0+0k 0+592io 0pf+0w
+      localhost 0.821u 0.036s 0:00.90 94.4% 0+0k 0+592io 0pf+0w
+      localhost 0.882u 0.028s 0:00.95 94.7% 0+0k 0+592io 0pf+0w
+      localhost 0.824u 0.036s 0:00.92 92.3% 0+0k 0+592io 0pf+0w
+      localhost 0.700u 0.031s 0:00.77 94.8% 0+0k 0+592io 0pf+0w
+      localhost 0.662u 0.024s 0:00.77 88.3% 0+0k 0+592io 0pf+0w
+   Summary of lapw2para:
+   localhost	 user=6.282	 wallclock=6.88
+6.617u 0.352s 0:02.86 243.3%	0+0k 0+8376io 0pf+0w
+>   lcore -up 	(19:04:52) 0.006u 0.003s 0:00.00 0.0%	0+0k 0+432io 0pf+0w
+>   lcore -dn 	(19:04:52) 0.009u 0.000s 0:00.00 0.0%	0+0k 0+432io 0pf+0w
+>   mixer  	(19:04:52) 0.048u 0.000s 0:00.06 66.6%	0+0k 0+3152io 0pf+0w
+:ENERGY convergence:  0 0 .0000011100000000
+:CHARGE convergence:  0 0.0001 .0001263
+
+    cycle 19 	(Sat Oct 12 19:04:52 +0330 2019) 	(182/81 to go)
+
+>   lapw0  -p	(19:04:52) starting parallel lapw0 at Sat Oct 12 19:04:52 +0330 2019
+-------- .machine0 : processors
+running lapw0 in single mode
+1.161u 0.015s 0:01.17 100.0%	0+0k 0+1232io 0pf+0w
+>   lapw1  -up -p     	(19:04:53) starting parallel lapw1 at Sat Oct 12 19:04:53 +0330 2019
+->  starting parallel LAPW1 jobs at Sat Oct 12 19:04:53 +0330 2019
+running LAPW1 in parallel mode (using .machines)
+8 number_of_parallel_jobs
+     localhost(15) 6.516u 0.206s 0:07.59 88.4%	0+0k 0+13832io 0pf+0w
+     localhost(15) 6.707u 0.250s 0:07.56 91.9%	0+0k 0+13432io 0pf+0w
+     localhost(15) 6.825u 0.219s 0:07.58 92.7%	0+0k 0+13528io 0pf+0w
+     localhost(15) 7.043u 0.181s 0:08.16 88.4%	0+0k 0+13432io 0pf+0w
+     localhost(15) 6.516u 0.238s 0:08.06 83.6%	0+0k 0+13520io 0pf+0w
+     localhost(15) 6.850u 0.212s 0:08.08 87.3%	0+0k 0+13504io 0pf+0w
+     localhost(15) 6.838u 0.232s 0:07.90 89.3%	0+0k 0+13576io 0pf+0w
+     localhost(15) 6.724u 0.236s 0:07.43 93.5%	0+0k 0+13584io 0pf+0w
+   Summary of lapw1para:
+   localhost	 k=120	 user=54.019	 wallclock=62.36
+54.430u 1.962s 0:09.86 571.9%	0+0k 0+109592io 0pf+0w
+>   lapw1  -dn -p     	(19:05:03) starting parallel lapw1 at Sat Oct 12 19:05:03 +0330 2019
+->  starting parallel LAPW1 jobs at Sat Oct 12 19:05:03 +0330 2019
+running LAPW1 in parallel mode (using .machines.help)
+8 number_of_parallel_jobs
+     localhost(15) 6.699u 0.237s 0:07.66 90.3%	0+0k 0+13688io 0pf+0w
+     localhost(15) 6.684u 0.260s 0:08.15 85.1%	0+0k 0+13296io 0pf+0w
+     localhost(15) 7.257u 0.247s 0:08.07 92.8%	0+0k 0+13336io 0pf+0w
+     localhost(15) 7.175u 0.188s 0:08.27 88.8%	0+0k 0+13264io 0pf+0w
+     localhost(15) 7.511u 0.212s 0:08.43 91.5%	0+0k 0+13376io 0pf+0w
+     localhost(15) 7.317u 0.231s 0:08.23 91.6%	0+0k 0+13360io 0pf+0w
+     localhost(15) 7.039u 0.263s 0:08.30 87.8%	0+0k 0+13456io 0pf+0w
+     localhost(15) 6.499u 0.281s 0:07.84 86.3%	0+0k 0+13520io 0pf+0w
+   Summary of lapw1para:
+   localhost	 k=120	 user=56.181	 wallclock=64.95
+56.614u 2.052s 0:10.20 575.0%	0+0k 0+108464io 0pf+0w
+>   lapw2 -up -p       	(19:05:13) running LAPW2 in parallel mode
+      localhost 0.825u 0.029s 0:00.89 94.3% 0+0k 0+712io 0pf+0w
+      localhost 0.950u 0.020s 0:00.99 97.9% 0+0k 0+592io 0pf+0w
+      localhost 0.914u 0.025s 0:00.98 94.8% 0+0k 0+592io 0pf+0w
+      localhost 0.892u 0.032s 0:01.03 89.3% 0+0k 0+592io 0pf+0w
+      localhost 1.003u 0.028s 0:01.07 95.3% 0+0k 0+592io 0pf+0w
+      localhost 0.949u 0.029s 0:01.03 93.2% 0+0k 0+592io 0pf+0w
+      localhost 0.909u 0.060s 0:01.03 93.2% 0+0k 0+592io 0pf+0w
+      localhost 0.789u 0.036s 0:00.91 89.0% 0+0k 0+592io 0pf+0w
+   Summary of lapw2para:
+   localhost	 user=7.231	 wallclock=7.93
+7.543u 0.337s 0:03.00 262.3%	0+0k 0+8392io 0pf+0w
+>   lapw2 -dn -p       	(19:05:16) running LAPW2 in parallel mode
+      localhost 0.739u 0.008s 0:00.78 93.5% 0+0k 0+704io 0pf+0w
+      localhost 0.763u 0.020s 0:00.81 96.2% 0+0k 0+592io 0pf+0w
+      localhost 0.791u 0.032s 0:00.84 97.6% 0+0k 0+592io 0pf+0w
+      localhost 0.810u 0.028s 0:00.87 95.4% 0+0k 0+592io 0pf+0w
+      localhost 0.769u 0.032s 0:00.83 95.1% 0+0k 0+592io 0pf+0w
+      localhost 0.749u 0.016s 0:00.83 90.3% 0+0k 0+592io 0pf+0w
+      localhost 0.769u 0.013s 0:00.87 88.5% 0+0k 0+592io 0pf+0w
+      localhost 0.730u 0.024s 0:00.82 91.4% 0+0k 0+592io 0pf+0w
+   Summary of lapw2para:
+   localhost	 user=6.12	 wallclock=6.65
+6.438u 0.309s 0:02.91 231.2%	0+0k 0+8400io 0pf+0w
+>   lcore -up 	(19:05:19) 0.004u 0.004s 0:00.00 0.0%	0+0k 0+432io 0pf+0w
+>   lcore -dn 	(19:05:19) 0.009u 0.000s 0:00.00 0.0%	0+0k 0+432io 0pf+0w
+>   mixer  	(19:05:20) 0.044u 0.004s 0:00.06 66.6%	0+0k 0+3152io 0pf+0w
+:ENERGY convergence:  0 0 .0000008750000000
+:CHARGE convergence:  0 0.0001 .0000770
+
+    cycle 20 	(Sat Oct 12 19:05:20 +0330 2019) 	(181/80 to go)
+
+>   lapw0  -p	(19:05:20) starting parallel lapw0 at Sat Oct 12 19:05:20 +0330 2019
+-------- .machine0 : processors
+running lapw0 in single mode
+1.162u 0.009s 0:01.17 99.1%	0+0k 0+1240io 0pf+0w
+>   lapw1  -up -p     	(19:05:21) starting parallel lapw1 at Sat Oct 12 19:05:21 +0330 2019
+->  starting parallel LAPW1 jobs at Sat Oct 12 19:05:21 +0330 2019
+running LAPW1 in parallel mode (using .machines)
+8 number_of_parallel_jobs
+     localhost(15) 6.606u 0.171s 0:06.91 97.9%	0+0k 0+13840io 0pf+0w
+     localhost(15) 7.140u 0.228s 0:08.02 91.7%	0+0k 0+13440io 0pf+0w
+     localhost(15) 7.250u 0.259s 0:08.40 89.2%	0+0k 0+13512io 0pf+0w
+     localhost(15) 7.246u 0.222s 0:08.03 92.9%	0+0k 0+13432io 0pf+0w
+     localhost(15) 7.189u 0.254s 0:08.13 91.3%	0+0k 0+13520io 0pf+0w
+     localhost(15) 7.017u 0.243s 0:08.24 87.9%	0+0k 0+13512io 0pf+0w
+     localhost(15) 6.676u 0.271s 0:07.79 89.0%	0+0k 0+13576io 0pf+0w
+     localhost(15) 6.704u 0.248s 0:07.89 87.9%	0+0k 0+13592io 0pf+0w
+   Summary of lapw1para:
+   localhost	 k=120	 user=55.828	 wallclock=63.41
+56.185u 2.045s 0:09.98 583.3%	0+0k 0+109600io 0pf+0w
+>   lapw1  -dn -p     	(19:05:31) starting parallel lapw1 at Sat Oct 12 19:05:31 +0330 2019
+->  starting parallel LAPW1 jobs at Sat Oct 12 19:05:31 +0330 2019
+running LAPW1 in parallel mode (using .machines.help)
+8 number_of_parallel_jobs
+     localhost(15) 6.509u 0.234s 0:07.10 94.7%	0+0k 0+13680io 0pf+0w
+     localhost(15) 7.029u 0.229s 0:08.33 86.9%	0+0k 0+13304io 0pf+0w
+     localhost(15) 7.116u 0.223s 0:08.18 89.6%	0+0k 0+13352io 0pf+0w
+     localhost(15) 7.213u 0.198s 0:07.94 93.1%	0+0k 0+13264io 0pf+0w
+     localhost(15) 6.929u 0.198s 0:07.62 93.3%	0+0k 0+13376io 0pf+0w
+     localhost(15) 6.920u 0.234s 0:08.16 87.6%	0+0k 0+13352io 0pf+0w
+     localhost(15) 7.094u 0.205s 0:07.91 92.1%	0+0k 0+13440io 0pf+0w
+     localhost(15) 6.728u 0.235s 0:07.78 89.3%	0+0k 0+13512io 0pf+0w
+   Summary of lapw1para:
+   localhost	 k=120	 user=55.538	 wallclock=63.02
+55.948u 1.927s 0:10.03 576.8%	0+0k 0+108456io 0pf+0w
+>   lapw2 -up -p       	(19:05:41) running LAPW2 in parallel mode
+      localhost 0.752u 0.036s 0:00.81 96.2% 0+0k 0+704io 0pf+0w
+      localhost 0.929u 0.033s 0:01.00 95.0% 0+0k 0+592io 0pf+0w
+      localhost 0.997u 0.057s 0:01.07 97.1% 0+0k 0+592io 0pf+0w
+      localhost 1.017u 0.035s 0:01.08 96.2% 0+0k 0+592io 0pf+0w
+      localhost 0.872u 0.024s 0:00.96 92.7% 0+0k 0+592io 0pf+0w
+      localhost 0.900u 0.040s 0:00.99 94.9% 0+0k 0+592io 0pf+0w
+      localhost 0.925u 0.048s 0:01.03 93.2% 0+0k 0+592io 0pf+0w
+      localhost 0.843u 0.043s 0:00.99 88.8% 0+0k 0+592io 0pf+0w
+   Summary of lapw2para:
+   localhost	 user=7.235	 wallclock=7.93
+7.588u 0.454s 0:03.10 259.0%	0+0k 0+8376io 0pf+0w
+>   lapw2 -dn -p       	(19:05:44) running LAPW2 in parallel mode
+      localhost 0.789u 0.013s 0:00.84 94.0% 0+0k 0+712io 0pf+0w
+      localhost 0.733u 0.047s 0:00.80 96.2% 0+0k 0+592io 0pf+0w
+      localhost 0.859u 0.021s 0:00.94 92.5% 0+0k 0+592io 0pf+0w
+      localhost 0.879u 0.044s 0:00.97 93.8% 0+0k 0+592io 0pf+0w
+      localhost 0.798u 0.035s 0:00.88 93.1% 0+0k 0+592io 0pf+0w
+      localhost 0.782u 0.036s 0:00.86 94.1% 0+0k 0+592io 0pf+0w
+      localhost 0.708u 0.012s 0:00.76 93.4% 0+0k 0+592io 0pf+0w
+      localhost 0.704u 0.023s 0:00.79 91.1% 0+0k 0+592io 0pf+0w
+   Summary of lapw2para:
+   localhost	 user=6.252	 wallclock=6.84
+6.588u 0.344s 0:02.86 241.9%	0+0k 0+8384io 0pf+0w
+>   lcore -up 	(19:05:47) 0.006u 0.003s 0:00.00 0.0%	0+0k 0+432io 0pf+0w
+>   lcore -dn 	(19:05:47) 0.009u 0.000s 0:00.00 0.0%	0+0k 0+432io 0pf+0w
+>   mixer  	(19:05:47) 0.044u 0.004s 0:00.06 66.6%	0+0k 0+3152io 0pf+0w
+:ENERGY convergence:  0 0 .0000000700000000
+:CHARGE convergence:  1 0.0001 -.0000079
+
+>   stop

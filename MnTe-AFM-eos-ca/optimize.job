@@ -1,0 +1,62 @@
+#!/bin/csh -f
+ #   Modify this script according to your needs: 
+ #      switches in run_lapw or runsp_lapw, 
+ #      spin-polarization (change run_lapw to runsp_lapw)
+ #      modify the   save_lapw    command
+  
+ if (-e MnTe-AFM-eos-ca.clmsum &&  ! -z MnTe-AFM-eos-ca.clmsum) then
+   x dstart -super -p
+ endif
+ if (-e MnTe-AFM-eos-ca.clmup &&  ! -z MnTe-AFM-eos-ca.clmup) then
+   x dstart -super -up  -p
+   x dstart -super -dn  -p
+ endif
+  
+foreach i ( \
+                             MnTe-AFM-eos-ca_coa___-5.00  \
+                             MnTe-AFM-eos-ca_coa___-3.00  \
+                             MnTe-AFM-eos-ca_coa___-1.00  \
+                             MnTe-AFM-eos-ca_coa____0.00  \
+                             MnTe-AFM-eos-ca_coa____2.00  \
+                             MnTe-AFM-eos-ca_coa____5.00  \
+ )
+  
+ rm MnTe-AFM-eos-ca.struct              # NFS-bug
+ cp  ${i}.struct MnTe-AFM-eos-ca.struct
+  
+ # Please uncomment and adapt any of the lines below according to your needs 
+ # if you have a previous optimize-run:
+ #    cp  ${i}_default.clmsum MnTe-AFM-eos-ca.clmsum
+ #    cp  ${i}_default.clmup MnTe-AFM-eos-ca.clmup
+ #    cp  ${i}_default.clmdn MnTe-AFM-eos-ca.clmdn
+ # if you want to start with dstart:
+ #    x dstart  -p 
+ #    x dstart -up  -p 
+ #    x dstart -dn  -p 
+ # recommended default method: use charge extrapolation
+ clmextrapol_lapw
+ if (-e MnTe-AFM-eos-ca.clmup &&  ! -z MnTe-AFM-eos-ca.clmup) then
+     clmextrapol_lapw -up
+     clmextrapol_lapw -dn
+ endif
+  
+ # modify the run_lapw command below
+ # (parallel, convergence, iter.diag, MSR1a minimization,...)  or
+ # comment the run_lapw line and activate spinpolarization
+  
+ #    runsp_lapw -ec 0.0001
+   
+ #    min -I -j "run_lapw -I -fc 1.0 -i 40 "
+   
+ runsp_lapw -p -i 200 -cc 0.0001  -in1new 5  # -p -it -cc 0.01 -fc 1 -min
+  
+     set stat = $status
+     if ($stat) then
+        echo "ERROR status in" $i
+        exit 1
+     endif
+ # Typically one would change below:  default --> pbe_1000k_rkm7
+ save_lapw -f ${i}_default
+ #    save_lapw  -f -d XXX ${i}
+ end
+    

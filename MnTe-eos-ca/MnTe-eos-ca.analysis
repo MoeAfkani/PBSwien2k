@@ -1,0 +1,8 @@
+in  7 files:
+/home/n1/WIEN2k/MnTe-eos-ca/MnTe-eos-ca_coa____0.00_default.scf::ENE  : ********** TOTAL ENERGY IN Ry =       -31822.01118080
+/home/n1/WIEN2k/MnTe-eos-ca/MnTe-eos-ca_coa____1.00_default.scf::ENE  : ********** TOTAL ENERGY IN Ry =       -31822.01114967
+/home/n1/WIEN2k/MnTe-eos-ca/MnTe-eos-ca_coa___-1.00_default.scf::ENE  : ********** TOTAL ENERGY IN Ry =       -31822.01110915
+/home/n1/WIEN2k/MnTe-eos-ca/MnTe-eos-ca_coa____2.00_default.scf::ENE  : ********** TOTAL ENERGY IN Ry =       -31822.01101459
+/home/n1/WIEN2k/MnTe-eos-ca/MnTe-eos-ca_coa___-2.00_default.scf::ENE  : ********** TOTAL ENERGY IN Ry =       -31822.01092534
+/home/n1/WIEN2k/MnTe-eos-ca/MnTe-eos-ca_coa____3.00_default.scf::ENE  : ********** TOTAL ENERGY IN Ry =       -31822.01079401
+/home/n1/WIEN2k/MnTe-eos-ca/MnTe-eos-ca_coa___-3.00_default.scf::ENE  : ********** TOTAL ENERGY IN Ry =       -31822.01061416

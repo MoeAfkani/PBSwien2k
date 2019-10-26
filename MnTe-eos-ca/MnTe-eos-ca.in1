@@ -1,0 +1,16 @@
+WFFIL  EF=.52241506480000000000   (WFFIL, WFPRI, ENFIL, SUPWF) 
+ 10     10   4   ELPA pxq hm (R-MT*K-MAX,MAX L IN WF,V-NMT,lib,gridshape,hm/lm)
+ .3224147458   5   0      global e-param with N other choices, napw 
+ 0    0.186     0.000 CONT 1 
+ 0   -5.104     0.001 STOP 1 
+ 1    0.264     0.000 CONT 1 
+ 1   -2.868     0.000 CONT 1 
+ 2    0.392     0.000 CONT 1 
+ .3224147458   6   0      global e-param with N other choices, napw 
+ 0    0.212     0.000 CONT 1 
+ 0   -0.338     0.000 CONT 1 
+ 1    0.267     0.000 CONT 1 
+ 1   -7.549     0.001 STOP 1 
+ 2    0.365     0.000 CONT 1 
+ 2   -2.214     0.000 CONT 1 
+K-VECTORS FROM UNIT:4  -11.9       1.5   153   emin / de (emax=Ef+de) / nband

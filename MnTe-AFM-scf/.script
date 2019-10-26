@@ -1,0 +1,5 @@
+s/vectorup/&_6/w .mist
+s/vectordn/&_6/w .mist
+s/irrepdn/&_6/w .mist
+s/outputirdn/&_6/w .mist
+

@@ -1,0 +1,39 @@
+
+
+
+
+:POS001: ATOM   -1 X,Y,Z = 0.00000 0.00000 0.00000  MULT= 2  ZZ= 25.000  Mn        
+
+       LMMAX  7
+       LM=   0 0  2 0  4 0  4 3  6 0  6 3  6 6
+
+:CHA001: TOTAL VALENCE CHARGE INSIDE SPHERE   1 =   1.0801    (RMT=  2.4200 )
+:PCS001: PARTIAL CHARGES SPHERE =  1 S,P,D,F,PZ,PXY, D-Z2,D-XY,X2Y2,D-XZ,YZ 
+:QTL001: 0.1429 0.3869 0.5494 0.0007 0.1287 0.2582 0.0000 0.1085 0.2221 0.2188 0.0000 0.0000
+        Q-s-low E-s-low   Q-p-low E-p-low   Q-d-low E-d-low   Q-f-low E-f-low
+:EPL001:  0.1234 -5.4300    0.3682 -3.1628    0.0025 -0.3410    0.0001 -0.5045
+        Q-s-hi  E-s-hi    Q-p-hi  E-p-hi    Q-d-hi  E-d-hi    Q-f-hi  E-f-hi 
+:EPH001:  0.0195  0.1738    0.0187  0.2662    0.5470  0.3172    0.0006  0.3003
+:VZZ001: EFG INSIDE SPHERE   1 =     0.153363      UP TO R =   2.42000
+
+
+
+
+:POS002: ATOM   -2 X,Y,Z = 0.33333 0.66667 0.75000  MULT= 2  ZZ= 52.000  Te        
+
+       LMMAX  7
+       LM=   0 0  2 0  3 3  4 0  5 3  6 0  6 6
+
+:CHA002: TOTAL VALENCE CHARGE INSIDE SPHERE   2 =   1.1878    (RMT=  2.4200 )
+:PCS002: PARTIAL CHARGES SPHERE =  2 S,P,D,F,PZ,PXY, D-Z2,D-XY,X2Y2,D-XZ,YZ 
+:QTL002: 0.0873 0.4862 0.6132 0.0010 0.1635 0.3227 0.0000 0.1223 0.2451 0.2458 0.0000 0.0000
+        Q-s-low E-s-low   Q-p-low E-p-low   Q-d-low E-d-low   Q-f-low E-f-low
+:EPL002:  0.0801 -0.3324    0.3675 -7.5502    0.6093 -2.2145    0.0000 10.0000
+        Q-s-hi  E-s-hi    Q-p-hi  E-p-hi    Q-d-hi  E-d-hi    Q-f-hi  E-f-hi 
+:EPH002:  0.0072  0.3488    0.1186  0.2483    0.0039  0.3120    0.0010  0.3184
+:VZZ002: EFG INSIDE SPHERE   2 =    -0.771791      UP TO R =   2.42000
+
+:CHA  : TOTAL VALENCE CHARGE INSIDE UNIT CELL =       5.052529
+
+:SUM  : SUM OF EIGENVALUES =         -11.483005393
+

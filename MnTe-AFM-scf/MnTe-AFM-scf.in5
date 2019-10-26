@@ -1,0 +1,9 @@
+1 1 1 2                     # x, y, z, divisor    of origin   
+1 0 0 1                     # x, y, z, divisor    of x-end
+0 0 1 2                     # x, y, z, divisor    of y-end
+3 2 3                       # number of shells
+100 100        # number of points in x and y dir, (ratio close to lenght ratio
+RHO                         #   RHO|DIFF|OVER; ADD|SUB or blank 
+ANG VAL NODEBUG             #   ANG|ATU; VAL|TOT; DEBUG|NODEBUG
+ORTHO                       # optional: ORHO|NONORTHO plotting directions 
+

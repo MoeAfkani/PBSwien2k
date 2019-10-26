@@ -1,0 +1,4629 @@
+starting parallel dstart at Wed Oct 16 11:54:17 +0330 2019
+-------- .machine0 : processors
+running dstart in single mode
+ C  T F
+DSTART ENDS
+0.884u 0.005s 0:00.88 100.0%	0+0k 0+1064io 0pf+0w
+starting parallel dstart at Wed Oct 16 11:54:18 +0330 2019
+-------- .machine0 : processors
+running dstart in single mode
+ C  T F
+DSTART ENDS
+0.915u 0.005s 0:00.91 100.0%	0+0k 0+1048io 0pf+0w
+starting parallel dstart at Wed Oct 16 11:54:19 +0330 2019
+-------- .machine0 : processors
+running dstart in single mode
+ C  T F
+DSTART ENDS
+0.914u 0.001s 0:00.91 100.0%	0+0k 0+1048io 0pf+0w
+starting parallel dstart at Wed Oct 16 11:54:20 +0330 2019
+-------- .machine0 : processors
+running dstart in single mode
+ C  T F
+DSTART ENDS
+0.886u 0.001s 0:00.88 100.0%	0+0k 0+1040io 0pf+0w
+0.012u 0.004s 0:00.01 100.0%	0+0k 0+1016io 0pf+0w
+clmextrapol_lapw has generated a new MnTe-AFM-eos.clmsum
+starting parallel dstart at Wed Oct 16 11:54:20 +0330 2019
+-------- .machine0 : processors
+running dstart in single mode
+ C  T F
+DSTART ENDS
+0.955u 0.004s 0:00.95 100.0%	0+0k 0+1040io 0pf+0w
+0.016u 0.000s 0:00.01 100.0%	0+0k 0+1016io 0pf+0w
+clmextrapol_lapw has generated a new MnTe-AFM-eos.clmup
+starting parallel dstart at Wed Oct 16 11:54:22 +0330 2019
+-------- .machine0 : processors
+running dstart in single mode
+ C  T F
+DSTART ENDS
+0.928u 0.000s 0:00.92 100.0%	0+0k 0+1040io 0pf+0w
+0.016u 0.000s 0:00.01 100.0%	0+0k 0+1016io 0pf+0w
+clmextrapol_lapw has generated a new MnTe-AFM-eos.clmdn
+ LAPW0 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+ CORE  END
+ CORE  END
+ MIXER END
+in cycle 2    ETEST: 0   CTEST: 0
+ LAPW0 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+ CORE  END
+ CORE  END
+ MIXER END
+in cycle 3    ETEST: 0   CTEST: 0
+ LAPW0 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+ CORE  END
+ CORE  END
+ MIXER END
+in cycle 4    ETEST: .0035449600000000   CTEST: .2568386
+ LAPW0 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+ CORE  END
+ CORE  END
+ MIXER END
+in cycle 5    ETEST: .0047448650000000   CTEST: .2297894
+ LAPW0 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+ CORE  END
+ CORE  END
+ MIXER END
+in cycle 6    ETEST: .0071135150000000   CTEST: .1793878
+ LAPW0 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+ CORE  END
+ CORE  END
+ MIXER END
+in cycle 7    ETEST: .0079121900000000   CTEST: .0703493
+ LAPW0 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+ CORE  END
+ CORE  END
+ MIXER END
+in cycle 8    ETEST: .0033404050000000   CTEST: .0316307
+ LAPW0 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+ CORE  END
+ CORE  END
+ MIXER END
+in cycle 9    ETEST: .0004664350000000   CTEST: .0143810
+ LAPW0 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+ CORE  END
+ CORE  END
+ MIXER END
+in cycle 10    ETEST: .0000379700000000   CTEST: .0045244
+ LAPW0 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+ CORE  END
+ CORE  END
+ MIXER END
+in cycle 11    ETEST: .0000140000000000   CTEST: .0007331
+ LAPW0 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+ CORE  END
+ CORE  END
+ MIXER END
+in cycle 12    ETEST: .0000178750000000   CTEST: .0004232
+ LAPW0 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+ CORE  END
+ CORE  END
+ MIXER END
+in cycle 13    ETEST: .0000047050000000   CTEST: .0009175
+ LAPW0 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+ CORE  END
+ CORE  END
+ MIXER END
+in cycle 14    ETEST: .0000015300000000   CTEST: .0000892
+ LAPW0 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+ CORE  END
+ CORE  END
+ MIXER END
+
+>   stop
+New version of save_lapw selected
+
+Starting save:
+   MnTe-AFM-eos.struct -> ./MnTe-AFM-eos_vol___-6.00_default.struct
+   MnTe-AFM-eos.clmsum -> ./MnTe-AFM-eos_vol___-6.00_default.clmsum
+   MnTe-AFM-eos.clmup -> ./MnTe-AFM-eos_vol___-6.00_default.clmup
+   MnTe-AFM-eos.clmdn -> ./MnTe-AFM-eos_vol___-6.00_default.clmdn
+   MnTe-AFM-eos.dmatup -> ./MnTe-AFM-eos_vol___-6.00_default.dmatup
+   MnTe-AFM-eos.dmatdn -> ./MnTe-AFM-eos_vol___-6.00_default.dmatdn
+   MnTe-AFM-eos.dmatud -> ./MnTe-AFM-eos_vol___-6.00_default.dmatud
+   MnTe-AFM-eos.eeceup -> ./MnTe-AFM-eos_vol___-6.00_default.eeceup
+   MnTe-AFM-eos.eecedn -> ./MnTe-AFM-eos_vol___-6.00_default.eecedn
+   MnTe-AFM-eos.vorbup -> ./MnTe-AFM-eos_vol___-6.00_default.vorbup
+   MnTe-AFM-eos.vorbdn -> ./MnTe-AFM-eos_vol___-6.00_default.vorbdn
+   MnTe-AFM-eos.vorbud -> ./MnTe-AFM-eos_vol___-6.00_default.vorbud
+   MnTe-AFM-eos.vrespsum -> ./MnTe-AFM-eos_vol___-6.00_default.vrespsum
+   MnTe-AFM-eos.vrespup -> ./MnTe-AFM-eos_vol___-6.00_default.vrespup
+   MnTe-AFM-eos.vrespdn -> ./MnTe-AFM-eos_vol___-6.00_default.vrespdn
+   MnTe-AFM-eos.kgen -> ./MnTe-AFM-eos_vol___-6.00_default.kgen
+   MnTe-AFM-eos.kgen_ibz -> ./MnTe-AFM-eos_vol___-6.00_default.kgen_ibz
+   MnTe-AFM-eos.kgen_ribz -> ./MnTe-AFM-eos_vol___-6.00_default.kgen_ribz
+   MnTe-AFM-eos.klist -> ./MnTe-AFM-eos_vol___-6.00_default.klist
+   MnTe-AFM-eos.klist_fbz -> ./MnTe-AFM-eos_vol___-6.00_default.klist_fbz
+   MnTe-AFM-eos.klist_ibz -> ./MnTe-AFM-eos_vol___-6.00_default.klist_ibz
+   MnTe-AFM-eos.klist_ibz_all -> ./MnTe-AFM-eos_vol___-6.00_default.klist_ibz_all
+   MnTe-AFM-eos.klist_rfbz -> ./MnTe-AFM-eos_vol___-6.00_default.klist_rfbz
+   MnTe-AFM-eos.klist_ribz -> ./MnTe-AFM-eos_vol___-6.00_default.klist_ribz
+   MnTe-AFM-eos.ksym -> ./MnTe-AFM-eos_vol___-6.00_default.ksym
+   MnTe-AFM-eos.outputkgenhf -> ./MnTe-AFM-eos_vol___-6.00_default.outputkgenhf
+   MnTe-AFM-eos.scf -> ./MnTe-AFM-eos_vol___-6.00_default.scf
+   MnTe-AFM-eos.scf2 -> ./MnTe-AFM-eos_vol___-6.00_default.scf2
+   MnTe-AFM-eos.scf2up -> ./MnTe-AFM-eos_vol___-6.00_default.scf2up
+   MnTe-AFM-eos.scf2dn -> ./MnTe-AFM-eos_vol___-6.00_default.scf2dn
+   MnTe-AFM-eos.in0 -> ./MnTe-AFM-eos_vol___-6.00_default.in0
+   MnTe-AFM-eos.in0abp -> ./MnTe-AFM-eos_vol___-6.00_default.in0abp
+   MnTe-AFM-eos.in0_st -> ./MnTe-AFM-eos_vol___-6.00_default.in0_st
+   MnTe-AFM-eos.in0_std -> ./MnTe-AFM-eos_vol___-6.00_default.in0_std
+   MnTe-AFM-eos.in1 -> ./MnTe-AFM-eos_vol___-6.00_default.in1
+   MnTe-AFM-eos.in1new -> ./MnTe-AFM-eos_vol___-6.00_default.in1new
+   MnTe-AFM-eos.in1_orig -> ./MnTe-AFM-eos_vol___-6.00_default.in1_orig
+   MnTe-AFM-eos.in1_st -> ./MnTe-AFM-eos_vol___-6.00_default.in1_st
+   MnTe-AFM-eos.in2 -> ./MnTe-AFM-eos_vol___-6.00_default.in2
+   MnTe-AFM-eos.in2_ls -> ./MnTe-AFM-eos_vol___-6.00_default.in2_ls
+   MnTe-AFM-eos.in2_st -> ./MnTe-AFM-eos_vol___-6.00_default.in2_st
+   MnTe-AFM-eos.in2_sy -> ./MnTe-AFM-eos_vol___-6.00_default.in2_sy
+   MnTe-AFM-eos.inc -> ./MnTe-AFM-eos_vol___-6.00_default.inc
+   MnTe-AFM-eos.inc_st -> ./MnTe-AFM-eos_vol___-6.00_default.inc_st
+   MnTe-AFM-eos.incup -> ./MnTe-AFM-eos_vol___-6.00_default.incup
+   MnTe-AFM-eos.inm -> ./MnTe-AFM-eos_vol___-6.00_default.inm
+   MnTe-AFM-eos.inm_restart_st -> ./MnTe-AFM-eos_vol___-6.00_default.inm_restart_st
+   MnTe-AFM-eos.inm_st -> ./MnTe-AFM-eos_vol___-6.00_default.inm_st
+   MnTe-AFM-eos.inq -> ./MnTe-AFM-eos_vol___-6.00_default.inq
+   MnTe-AFM-eos.inq_st -> ./MnTe-AFM-eos_vol___-6.00_default.inq_st
+   MnTe-AFM-eos.inso -> ./MnTe-AFM-eos_vol___-6.00_default.inso
+   MnTe-AFM-eos.inst -> ./MnTe-AFM-eos_vol___-6.00_default.inst
+   MnTe-AFM-eos.nmat_only -> ./MnTe-AFM-eos_vol___-6.00_default.nmat_only
+   MnTe-AFM-eos.vsp -> ./MnTe-AFM-eos_vol___-6.00_default.vsp
+   MnTe-AFM-eos.vspup -> ./MnTe-AFM-eos_vol___-6.00_default.vspup
+   MnTe-AFM-eos.vspdn -> ./MnTe-AFM-eos_vol___-6.00_default.vspdn
+   MnTe-AFM-eos.vns -> ./MnTe-AFM-eos_vol___-6.00_default.vns
+   MnTe-AFM-eos.vnsup -> ./MnTe-AFM-eos_vol___-6.00_default.vnsup
+   MnTe-AFM-eos.vnsdn -> ./MnTe-AFM-eos_vol___-6.00_default.vnsdn
+   MnTe-AFM-eos.r2v -> ./MnTe-AFM-eos_vol___-6.00_default.r2v
+   MnTe-AFM-eos.r2vdn -> ./MnTe-AFM-eos_vol___-6.00_default.r2vdn
+   MnTe-AFM-eos.r2v_nonloc -> ./MnTe-AFM-eos_vol___-6.00_default.r2v_nonloc
+   MnTe-AFM-eos.r2v_nonlocdn -> ./MnTe-AFM-eos_vol___-6.00_default.r2v_nonlocdn
+
+broyden files deleted, clm*, dmat*, vorb*, vresp*, eece*, vsp*, vns*, scf, struct and input files saved under ./MnTe-AFM-eos_vol___-6.00_default
+
+starting parallel dstart at Wed Oct 16 11:59:56 +0330 2019
+-------- .machine0 : processors
+running dstart in single mode
+ C  T F
+DSTART ENDS
+0.875u 0.008s 0:00.88 98.8%	0+0k 0+1048io 0pf+0w
+0.016u 0.000s 0:00.01 100.0%	0+0k 0+1016io 0pf+0w
+clmextrapol_lapw has generated a new MnTe-AFM-eos.clmsum
+starting parallel dstart at Wed Oct 16 11:59:57 +0330 2019
+-------- .machine0 : processors
+running dstart in single mode
+ C  T F
+DSTART ENDS
+0.926u 0.001s 0:00.92 100.0%	0+0k 0+1040io 0pf+0w
+0.016u 0.000s 0:00.01 100.0%	0+0k 0+1016io 0pf+0w
+clmextrapol_lapw has generated a new MnTe-AFM-eos.clmup
+starting parallel dstart at Wed Oct 16 11:59:58 +0330 2019
+-------- .machine0 : processors
+running dstart in single mode
+ C  T F
+DSTART ENDS
+0.922u 0.002s 0:00.92 100.0%	0+0k 0+1040io 0pf+0w
+0.016u 0.000s 0:00.01 100.0%	0+0k 0+1016io 0pf+0w
+clmextrapol_lapw has generated a new MnTe-AFM-eos.clmdn
+ LAPW0 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+ CORE  END
+ CORE  END
+ MIXER END
+in cycle 2    ETEST: 0   CTEST: 0
+ LAPW0 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+ CORE  END
+ CORE  END
+ MIXER END
+in cycle 3    ETEST: 0   CTEST: 0
+ LAPW0 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+ CORE  END
+ CORE  END
+ MIXER END
+in cycle 4    ETEST: .0028903850000000   CTEST: .0497630
+ LAPW0 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+ CORE  END
+ CORE  END
+ MIXER END
+in cycle 5    ETEST: .0020293500000000   CTEST: .0389348
+ LAPW0 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+ CORE  END
+ CORE  END
+ MIXER END
+in cycle 6    ETEST: .0358630450000000   CTEST: .1237157
+ LAPW0 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+ CORE  END
+ CORE  END
+ MIXER END
+in cycle 7    ETEST: .0184091900000000   CTEST: .1220201
+ LAPW0 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+ CORE  END
+ CORE  END
+ MIXER END
+in cycle 8    ETEST: .0000574250000000   CTEST: .1155193
+ LAPW0 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+ CORE  END
+ CORE  END
+ MIXER END
+in cycle 9    ETEST: .0000337600000000   CTEST: .1307792
+ LAPW0 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+ CORE  END
+ CORE  END
+ MIXER END
+in cycle 10    ETEST: .0000155350000000   CTEST: .1359873
+ LAPW0 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+ CORE  END
+ CORE  END
+ MIXER END
+in cycle 11    ETEST: .0000669200000000   CTEST: .1253106
+ LAPW0 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+ CORE  END
+ CORE  END
+ MIXER END
+in cycle 12    ETEST: .0000408400000000   CTEST: .1192439
+ LAPW0 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+ CORE  END
+ CORE  END
+ MIXER END
+in cycle 13    ETEST: .0000721800000000   CTEST: .0915907
+ LAPW0 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+ CORE  END
+ CORE  END
+ MIXER END
+in cycle 14    ETEST: .0000497550000000   CTEST: .0792181
+ LAPW0 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+ CORE  END
+ CORE  END
+ MIXER END
+in cycle 15    ETEST: .0000546200000000   CTEST: .0317199
+ LAPW0 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+ CORE  END
+ CORE  END
+ MIXER END
+in cycle 16    ETEST: .0000233100000000   CTEST: .0043172
+ LAPW0 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+ CORE  END
+ CORE  END
+ MIXER END
+in cycle 17    ETEST: .0000113750000000   CTEST: .0031383
+ LAPW0 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+ CORE  END
+ CORE  END
+ MIXER END
+in cycle 18    ETEST: .0000109100000000   CTEST: .0023519
+ LAPW0 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+ CORE  END
+ CORE  END
+ MIXER END
+in cycle 19    ETEST: .0000205050000000   CTEST: .0020967
+ LAPW0 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+ CORE  END
+ CORE  END
+ MIXER END
+in cycle 20    ETEST: .0000099050000000   CTEST: .0004906
+ LAPW0 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+ CORE  END
+ CORE  END
+ MIXER END
+in cycle 21    ETEST: .0000010150000000   CTEST: .0005129
+ LAPW0 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+ CORE  END
+ CORE  END
+ MIXER END
+in cycle 22    ETEST: .0000020800000000   CTEST: .0002195
+ LAPW0 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+ CORE  END
+ CORE  END
+ MIXER END
+in cycle 23    ETEST: .0000009750000000   CTEST: .0000636
+ LAPW0 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+ CORE  END
+ CORE  END
+ MIXER END
+
+>   stop
+New version of save_lapw selected
+
+Starting save:
+   MnTe-AFM-eos.struct -> ./MnTe-AFM-eos_vol___-3.00_default.struct
+   MnTe-AFM-eos.clmsum -> ./MnTe-AFM-eos_vol___-3.00_default.clmsum
+   MnTe-AFM-eos.clmup -> ./MnTe-AFM-eos_vol___-3.00_default.clmup
+   MnTe-AFM-eos.clmdn -> ./MnTe-AFM-eos_vol___-3.00_default.clmdn
+   MnTe-AFM-eos.dmatup -> ./MnTe-AFM-eos_vol___-3.00_default.dmatup
+   MnTe-AFM-eos.dmatdn -> ./MnTe-AFM-eos_vol___-3.00_default.dmatdn
+   MnTe-AFM-eos.dmatud -> ./MnTe-AFM-eos_vol___-3.00_default.dmatud
+   MnTe-AFM-eos.eeceup -> ./MnTe-AFM-eos_vol___-3.00_default.eeceup
+   MnTe-AFM-eos.eecedn -> ./MnTe-AFM-eos_vol___-3.00_default.eecedn
+   MnTe-AFM-eos.vorbup -> ./MnTe-AFM-eos_vol___-3.00_default.vorbup
+   MnTe-AFM-eos.vorbdn -> ./MnTe-AFM-eos_vol___-3.00_default.vorbdn
+   MnTe-AFM-eos.vorbud -> ./MnTe-AFM-eos_vol___-3.00_default.vorbud
+   MnTe-AFM-eos.vrespsum -> ./MnTe-AFM-eos_vol___-3.00_default.vrespsum
+   MnTe-AFM-eos.vrespup -> ./MnTe-AFM-eos_vol___-3.00_default.vrespup
+   MnTe-AFM-eos.vrespdn -> ./MnTe-AFM-eos_vol___-3.00_default.vrespdn
+   MnTe-AFM-eos.kgen -> ./MnTe-AFM-eos_vol___-3.00_default.kgen
+   MnTe-AFM-eos.kgen_ibz -> ./MnTe-AFM-eos_vol___-3.00_default.kgen_ibz
+   MnTe-AFM-eos.kgen_ribz -> ./MnTe-AFM-eos_vol___-3.00_default.kgen_ribz
+   MnTe-AFM-eos.klist -> ./MnTe-AFM-eos_vol___-3.00_default.klist
+   MnTe-AFM-eos.klist_fbz -> ./MnTe-AFM-eos_vol___-3.00_default.klist_fbz
+   MnTe-AFM-eos.klist_ibz -> ./MnTe-AFM-eos_vol___-3.00_default.klist_ibz
+   MnTe-AFM-eos.klist_ibz_all -> ./MnTe-AFM-eos_vol___-3.00_default.klist_ibz_all
+   MnTe-AFM-eos.klist_rfbz -> ./MnTe-AFM-eos_vol___-3.00_default.klist_rfbz
+   MnTe-AFM-eos.klist_ribz -> ./MnTe-AFM-eos_vol___-3.00_default.klist_ribz
+   MnTe-AFM-eos.ksym -> ./MnTe-AFM-eos_vol___-3.00_default.ksym
+   MnTe-AFM-eos.outputkgenhf -> ./MnTe-AFM-eos_vol___-3.00_default.outputkgenhf
+   MnTe-AFM-eos.scf -> ./MnTe-AFM-eos_vol___-3.00_default.scf
+   MnTe-AFM-eos.scf2 -> ./MnTe-AFM-eos_vol___-3.00_default.scf2
+   MnTe-AFM-eos.scf2up -> ./MnTe-AFM-eos_vol___-3.00_default.scf2up
+   MnTe-AFM-eos.scf2dn -> ./MnTe-AFM-eos_vol___-3.00_default.scf2dn
+   MnTe-AFM-eos.in0 -> ./MnTe-AFM-eos_vol___-3.00_default.in0
+   MnTe-AFM-eos.in0abp -> ./MnTe-AFM-eos_vol___-3.00_default.in0abp
+   MnTe-AFM-eos.in0_st -> ./MnTe-AFM-eos_vol___-3.00_default.in0_st
+   MnTe-AFM-eos.in0_std -> ./MnTe-AFM-eos_vol___-3.00_default.in0_std
+   MnTe-AFM-eos.in1 -> ./MnTe-AFM-eos_vol___-3.00_default.in1
+   MnTe-AFM-eos.in1new -> ./MnTe-AFM-eos_vol___-3.00_default.in1new
+   MnTe-AFM-eos.in1_orig -> ./MnTe-AFM-eos_vol___-3.00_default.in1_orig
+   MnTe-AFM-eos.in1_st -> ./MnTe-AFM-eos_vol___-3.00_default.in1_st
+   MnTe-AFM-eos.in2 -> ./MnTe-AFM-eos_vol___-3.00_default.in2
+   MnTe-AFM-eos.in2_ls -> ./MnTe-AFM-eos_vol___-3.00_default.in2_ls
+   MnTe-AFM-eos.in2_st -> ./MnTe-AFM-eos_vol___-3.00_default.in2_st
+   MnTe-AFM-eos.in2_sy -> ./MnTe-AFM-eos_vol___-3.00_default.in2_sy
+   MnTe-AFM-eos.inc -> ./MnTe-AFM-eos_vol___-3.00_default.inc
+   MnTe-AFM-eos.inc_st -> ./MnTe-AFM-eos_vol___-3.00_default.inc_st
+   MnTe-AFM-eos.incup -> ./MnTe-AFM-eos_vol___-3.00_default.incup
+   MnTe-AFM-eos.inm -> ./MnTe-AFM-eos_vol___-3.00_default.inm
+   MnTe-AFM-eos.inm_restart_st -> ./MnTe-AFM-eos_vol___-3.00_default.inm_restart_st
+   MnTe-AFM-eos.inm_st -> ./MnTe-AFM-eos_vol___-3.00_default.inm_st
+   MnTe-AFM-eos.inq -> ./MnTe-AFM-eos_vol___-3.00_default.inq
+   MnTe-AFM-eos.inq_st -> ./MnTe-AFM-eos_vol___-3.00_default.inq_st
+   MnTe-AFM-eos.inso -> ./MnTe-AFM-eos_vol___-3.00_default.inso
+   MnTe-AFM-eos.inst -> ./MnTe-AFM-eos_vol___-3.00_default.inst
+   MnTe-AFM-eos.nmat_only -> ./MnTe-AFM-eos_vol___-3.00_default.nmat_only
+   MnTe-AFM-eos.vsp -> ./MnTe-AFM-eos_vol___-3.00_default.vsp
+   MnTe-AFM-eos.vspup -> ./MnTe-AFM-eos_vol___-3.00_default.vspup
+   MnTe-AFM-eos.vspdn -> ./MnTe-AFM-eos_vol___-3.00_default.vspdn
+   MnTe-AFM-eos.vns -> ./MnTe-AFM-eos_vol___-3.00_default.vns
+   MnTe-AFM-eos.vnsup -> ./MnTe-AFM-eos_vol___-3.00_default.vnsup
+   MnTe-AFM-eos.vnsdn -> ./MnTe-AFM-eos_vol___-3.00_default.vnsdn
+   MnTe-AFM-eos.r2v -> ./MnTe-AFM-eos_vol___-3.00_default.r2v
+   MnTe-AFM-eos.r2vdn -> ./MnTe-AFM-eos_vol___-3.00_default.r2vdn
+   MnTe-AFM-eos.r2v_nonloc -> ./MnTe-AFM-eos_vol___-3.00_default.r2v_nonloc
+   MnTe-AFM-eos.r2v_nonlocdn -> ./MnTe-AFM-eos_vol___-3.00_default.r2v_nonlocdn
+
+broyden files deleted, clm*, dmat*, vorb*, vresp*, eece*, vsp*, vns*, scf, struct and input files saved under ./MnTe-AFM-eos_vol___-3.00_default
+
+starting parallel dstart at Wed Oct 16 12:10:00 +0330 2019
+-------- .machine0 : processors
+running dstart in single mode
+ C  T F
+DSTART ENDS
+0.882u 0.001s 0:00.88 100.0%	0+0k 0+1056io 0pf+0w
+0.016u 0.000s 0:00.01 100.0%	0+0k 0+1024io 0pf+0w
+clmextrapol_lapw has generated a new MnTe-AFM-eos.clmsum
+starting parallel dstart at Wed Oct 16 12:10:01 +0330 2019
+-------- .machine0 : processors
+running dstart in single mode
+ C  T F
+DSTART ENDS
+0.901u 0.007s 0:00.90 100.0%	0+0k 0+1048io 0pf+0w
+0.009u 0.006s 0:00.01 0.0%	0+0k 0+1024io 0pf+0w
+clmextrapol_lapw has generated a new MnTe-AFM-eos.clmup
+starting parallel dstart at Wed Oct 16 12:10:02 +0330 2019
+-------- .machine0 : processors
+running dstart in single mode
+ C  T F
+DSTART ENDS
+0.920u 0.008s 0:00.92 100.0%	0+0k 0+1048io 0pf+0w
+0.016u 0.000s 0:00.01 100.0%	0+0k 0+1024io 0pf+0w
+clmextrapol_lapw has generated a new MnTe-AFM-eos.clmdn
+ LAPW0 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+ CORE  END
+ CORE  END
+ MIXER END
+in cycle 2    ETEST: 0   CTEST: 0
+ LAPW0 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+ CORE  END
+ CORE  END
+ MIXER END
+in cycle 3    ETEST: 0   CTEST: 0
+ LAPW0 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+ CORE  END
+ CORE  END
+ MIXER END
+in cycle 4    ETEST: .0032793100000000   CTEST: .0484796
+ LAPW0 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+ CORE  END
+ CORE  END
+ MIXER END
+in cycle 5    ETEST: .0021598700000000   CTEST: .0382456
+ LAPW0 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+ CORE  END
+ CORE  END
+ MIXER END
+in cycle 6    ETEST: .0365188100000000   CTEST: .1255494
+ LAPW0 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+ CORE  END
+ CORE  END
+ MIXER END
+in cycle 7    ETEST: .0187240900000000   CTEST: .1170567
+ LAPW0 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+ CORE  END
+ CORE  END
+ MIXER END
+in cycle 8    ETEST: .0000960700000000   CTEST: .1084033
+ LAPW0 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+ CORE  END
+ CORE  END
+ MIXER END
+in cycle 9    ETEST: .0000242800000000   CTEST: .1299409
+ LAPW0 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+ CORE  END
+ CORE  END
+ MIXER END
+in cycle 10    ETEST: .0000184900000000   CTEST: .1414580
+ LAPW0 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+ CORE  END
+ CORE  END
+ MIXER END
+in cycle 11    ETEST: .0000589800000000   CTEST: .1324544
+ LAPW0 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+ CORE  END
+ CORE  END
+ MIXER END
+in cycle 12    ETEST: .0000661100000000   CTEST: .1201538
+ LAPW0 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+ CORE  END
+ CORE  END
+ MIXER END
+in cycle 13    ETEST: .0000409600000000   CTEST: .1090593
+ LAPW0 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+ CORE  END
+ CORE  END
+ MIXER END
+in cycle 14    ETEST: .0000272500000000   CTEST: .0994727
+ LAPW0 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+ CORE  END
+ CORE  END
+ MIXER END
+in cycle 15    ETEST: .0001098600000000   CTEST: .0591904
+ LAPW0 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+ CORE  END
+ CORE  END
+ MIXER END
+in cycle 16    ETEST: .0000510000000000   CTEST: .0140735
+ LAPW0 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+ CORE  END
+ CORE  END
+ MIXER END
+in cycle 17    ETEST: .0000223600000000   CTEST: .0035328
+ LAPW0 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+ CORE  END
+ CORE  END
+ MIXER END
+in cycle 18    ETEST: .0000130550000000   CTEST: .0020736
+ LAPW0 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+ CORE  END
+ CORE  END
+ MIXER END
+in cycle 19    ETEST: .0000163200000000   CTEST: .0010763
+ LAPW0 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+ CORE  END
+ CORE  END
+ MIXER END
+in cycle 20    ETEST: .0000093650000000   CTEST: .0007799
+ LAPW0 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+ CORE  END
+ CORE  END
+ MIXER END
+in cycle 21    ETEST: .0000157600000000   CTEST: .0003001
+ LAPW0 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+ CORE  END
+ CORE  END
+ MIXER END
+in cycle 22    ETEST: .0000089050000000   CTEST: .0001883
+ LAPW0 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+ CORE  END
+ CORE  END
+ MIXER END
+in cycle 23    ETEST: .0000015100000000   CTEST: .0000222
+ LAPW0 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+ CORE  END
+ CORE  END
+ MIXER END
+in cycle 24    ETEST: .0000002650000000   CTEST: .0000191
+ LAPW0 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+ CORE  END
+ CORE  END
+ MIXER END
+
+>   stop
+New version of save_lapw selected
+
+Starting save:
+   MnTe-AFM-eos.struct -> ./MnTe-AFM-eos_vol____0.00_default.struct
+   MnTe-AFM-eos.clmsum -> ./MnTe-AFM-eos_vol____0.00_default.clmsum
+   MnTe-AFM-eos.clmup -> ./MnTe-AFM-eos_vol____0.00_default.clmup
+   MnTe-AFM-eos.clmdn -> ./MnTe-AFM-eos_vol____0.00_default.clmdn
+   MnTe-AFM-eos.dmatup -> ./MnTe-AFM-eos_vol____0.00_default.dmatup
+   MnTe-AFM-eos.dmatdn -> ./MnTe-AFM-eos_vol____0.00_default.dmatdn
+   MnTe-AFM-eos.dmatud -> ./MnTe-AFM-eos_vol____0.00_default.dmatud
+   MnTe-AFM-eos.eeceup -> ./MnTe-AFM-eos_vol____0.00_default.eeceup
+   MnTe-AFM-eos.eecedn -> ./MnTe-AFM-eos_vol____0.00_default.eecedn
+   MnTe-AFM-eos.vorbup -> ./MnTe-AFM-eos_vol____0.00_default.vorbup
+   MnTe-AFM-eos.vorbdn -> ./MnTe-AFM-eos_vol____0.00_default.vorbdn
+   MnTe-AFM-eos.vorbud -> ./MnTe-AFM-eos_vol____0.00_default.vorbud
+   MnTe-AFM-eos.vrespsum -> ./MnTe-AFM-eos_vol____0.00_default.vrespsum
+   MnTe-AFM-eos.vrespup -> ./MnTe-AFM-eos_vol____0.00_default.vrespup
+   MnTe-AFM-eos.vrespdn -> ./MnTe-AFM-eos_vol____0.00_default.vrespdn
+   MnTe-AFM-eos.kgen -> ./MnTe-AFM-eos_vol____0.00_default.kgen
+   MnTe-AFM-eos.kgen_ibz -> ./MnTe-AFM-eos_vol____0.00_default.kgen_ibz
+   MnTe-AFM-eos.kgen_ribz -> ./MnTe-AFM-eos_vol____0.00_default.kgen_ribz
+   MnTe-AFM-eos.klist -> ./MnTe-AFM-eos_vol____0.00_default.klist
+   MnTe-AFM-eos.klist_fbz -> ./MnTe-AFM-eos_vol____0.00_default.klist_fbz
+   MnTe-AFM-eos.klist_ibz -> ./MnTe-AFM-eos_vol____0.00_default.klist_ibz
+   MnTe-AFM-eos.klist_ibz_all -> ./MnTe-AFM-eos_vol____0.00_default.klist_ibz_all
+   MnTe-AFM-eos.klist_rfbz -> ./MnTe-AFM-eos_vol____0.00_default.klist_rfbz
+   MnTe-AFM-eos.klist_ribz -> ./MnTe-AFM-eos_vol____0.00_default.klist_ribz
+   MnTe-AFM-eos.ksym -> ./MnTe-AFM-eos_vol____0.00_default.ksym
+   MnTe-AFM-eos.outputkgenhf -> ./MnTe-AFM-eos_vol____0.00_default.outputkgenhf
+   MnTe-AFM-eos.scf -> ./MnTe-AFM-eos_vol____0.00_default.scf
+   MnTe-AFM-eos.scf2 -> ./MnTe-AFM-eos_vol____0.00_default.scf2
+   MnTe-AFM-eos.scf2up -> ./MnTe-AFM-eos_vol____0.00_default.scf2up
+   MnTe-AFM-eos.scf2dn -> ./MnTe-AFM-eos_vol____0.00_default.scf2dn
+   MnTe-AFM-eos.in0 -> ./MnTe-AFM-eos_vol____0.00_default.in0
+   MnTe-AFM-eos.in0abp -> ./MnTe-AFM-eos_vol____0.00_default.in0abp
+   MnTe-AFM-eos.in0_st -> ./MnTe-AFM-eos_vol____0.00_default.in0_st
+   MnTe-AFM-eos.in0_std -> ./MnTe-AFM-eos_vol____0.00_default.in0_std
+   MnTe-AFM-eos.in1 -> ./MnTe-AFM-eos_vol____0.00_default.in1
+   MnTe-AFM-eos.in1new -> ./MnTe-AFM-eos_vol____0.00_default.in1new
+   MnTe-AFM-eos.in1_orig -> ./MnTe-AFM-eos_vol____0.00_default.in1_orig
+   MnTe-AFM-eos.in1_st -> ./MnTe-AFM-eos_vol____0.00_default.in1_st
+   MnTe-AFM-eos.in2 -> ./MnTe-AFM-eos_vol____0.00_default.in2
+   MnTe-AFM-eos.in2_ls -> ./MnTe-AFM-eos_vol____0.00_default.in2_ls
+   MnTe-AFM-eos.in2_st -> ./MnTe-AFM-eos_vol____0.00_default.in2_st
+   MnTe-AFM-eos.in2_sy -> ./MnTe-AFM-eos_vol____0.00_default.in2_sy
+   MnTe-AFM-eos.inc -> ./MnTe-AFM-eos_vol____0.00_default.inc
+   MnTe-AFM-eos.inc_st -> ./MnTe-AFM-eos_vol____0.00_default.inc_st
+   MnTe-AFM-eos.incup -> ./MnTe-AFM-eos_vol____0.00_default.incup
+   MnTe-AFM-eos.inm -> ./MnTe-AFM-eos_vol____0.00_default.inm
+   MnTe-AFM-eos.inm_restart_st -> ./MnTe-AFM-eos_vol____0.00_default.inm_restart_st
+   MnTe-AFM-eos.inm_st -> ./MnTe-AFM-eos_vol____0.00_default.inm_st
+   MnTe-AFM-eos.inq -> ./MnTe-AFM-eos_vol____0.00_default.inq
+   MnTe-AFM-eos.inq_st -> ./MnTe-AFM-eos_vol____0.00_default.inq_st
+   MnTe-AFM-eos.inso -> ./MnTe-AFM-eos_vol____0.00_default.inso
+   MnTe-AFM-eos.inst -> ./MnTe-AFM-eos_vol____0.00_default.inst
+   MnTe-AFM-eos.nmat_only -> ./MnTe-AFM-eos_vol____0.00_default.nmat_only
+   MnTe-AFM-eos.vsp -> ./MnTe-AFM-eos_vol____0.00_default.vsp
+   MnTe-AFM-eos.vspup -> ./MnTe-AFM-eos_vol____0.00_default.vspup
+   MnTe-AFM-eos.vspdn -> ./MnTe-AFM-eos_vol____0.00_default.vspdn
+   MnTe-AFM-eos.vns -> ./MnTe-AFM-eos_vol____0.00_default.vns
+   MnTe-AFM-eos.vnsup -> ./MnTe-AFM-eos_vol____0.00_default.vnsup
+   MnTe-AFM-eos.vnsdn -> ./MnTe-AFM-eos_vol____0.00_default.vnsdn
+   MnTe-AFM-eos.r2v -> ./MnTe-AFM-eos_vol____0.00_default.r2v
+   MnTe-AFM-eos.r2vdn -> ./MnTe-AFM-eos_vol____0.00_default.r2vdn
+   MnTe-AFM-eos.r2v_nonloc -> ./MnTe-AFM-eos_vol____0.00_default.r2v_nonloc
+   MnTe-AFM-eos.r2v_nonlocdn -> ./MnTe-AFM-eos_vol____0.00_default.r2v_nonlocdn
+
+broyden files deleted, clm*, dmat*, vorb*, vresp*, eece*, vsp*, vns*, scf, struct and input files saved under ./MnTe-AFM-eos_vol____0.00_default
+
+starting parallel dstart at Wed Oct 16 12:21:20 +0330 2019
+-------- .machine0 : processors
+running dstart in single mode
+ C  T F
+DSTART ENDS
+0.849u 0.006s 0:00.85 98.8%	0+0k 0+1072io 0pf+0w
+0.016u 0.000s 0:00.01 100.0%	0+0k 0+1032io 0pf+0w
+clmextrapol_lapw has generated a new MnTe-AFM-eos.clmsum
+starting parallel dstart at Wed Oct 16 12:21:21 +0330 2019
+-------- .machine0 : processors
+running dstart in single mode
+ C  T F
+DSTART ENDS
+0.907u 0.000s 0:00.90 100.0%	0+0k 0+1064io 0pf+0w
+0.017u 0.000s 0:00.01 100.0%	0+0k 0+1032io 0pf+0w
+clmextrapol_lapw has generated a new MnTe-AFM-eos.clmup
+starting parallel dstart at Wed Oct 16 12:21:22 +0330 2019
+-------- .machine0 : processors
+running dstart in single mode
+ C  T F
+DSTART ENDS
+0.902u 0.002s 0:00.90 100.0%	0+0k 0+1056io 0pf+0w
+0.016u 0.000s 0:00.01 100.0%	0+0k 0+1032io 0pf+0w
+clmextrapol_lapw has generated a new MnTe-AFM-eos.clmdn
+ LAPW0 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+ CORE  END
+ CORE  END
+ MIXER END
+in cycle 2    ETEST: 0   CTEST: 0
+ LAPW0 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+ CORE  END
+ CORE  END
+ MIXER END
+in cycle 3    ETEST: 0   CTEST: 0
+ LAPW0 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+ CORE  END
+ CORE  END
+ MIXER END
+in cycle 4    ETEST: .0036320350000000   CTEST: .0475577
+ LAPW0 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+ CORE  END
+ CORE  END
+ MIXER END
+in cycle 5    ETEST: .0022796550000000   CTEST: .0381543
+ LAPW0 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+ CORE  END
+ CORE  END
+ MIXER END
+in cycle 6    ETEST: .0373082700000000   CTEST: .1272307
+ LAPW0 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+ CORE  END
+ CORE  END
+ MIXER END
+in cycle 7    ETEST: .0191118550000000   CTEST: .1129446
+ LAPW0 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+ CORE  END
+ CORE  END
+ MIXER END
+in cycle 8    ETEST: .0001313350000000   CTEST: .1002464
+ LAPW0 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+ CORE  END
+ CORE  END
+ MIXER END
+in cycle 9    ETEST: .0000505250000000   CTEST: .1342184
+ LAPW0 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+ CORE  END
+ CORE  END
+ MIXER END
+in cycle 10    ETEST: .0001766050000000   CTEST: .1933783
+ LAPW0 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+ CORE  END
+ CORE  END
+ MIXER END
+in cycle 11    ETEST: .0000866450000000   CTEST: .2317535
+ LAPW0 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+ CORE  END
+ CORE  END
+ MIXER END
+in cycle 12    ETEST: .0000091850000000   CTEST: .2241307
+ LAPW0 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+ CORE  END
+ CORE  END
+ MIXER END
+in cycle 13    ETEST: .0000161700000000   CTEST: .2363933
+ LAPW0 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+ CORE  END
+ CORE  END
+ MIXER END
+in cycle 14    ETEST: .0000215200000000   CTEST: .2183985
+ LAPW0 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+ CORE  END
+ CORE  END
+ MIXER END
+in cycle 15    ETEST: .0002705650000000   CTEST: .1357880
+ LAPW0 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+ CORE  END
+ CORE  END
+ MIXER END
+in cycle 16    ETEST: .0001641600000000   CTEST: .0454898
+ LAPW0 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+ CORE  END
+ CORE  END
+ MIXER END
+in cycle 17    ETEST: .0000715850000000   CTEST: .0113938
+ LAPW0 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+ CORE  END
+ CORE  END
+ MIXER END
+in cycle 18    ETEST: .0000629400000000   CTEST: .0089414
+ LAPW0 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+ CORE  END
+ CORE  END
+ MIXER END
+in cycle 19    ETEST: .0000452250000000   CTEST: .0058566
+ LAPW0 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+ CORE  END
+ CORE  END
+ MIXER END
+in cycle 20    ETEST: .0000058700000000   CTEST: .0018182
+ LAPW0 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+ CORE  END
+ CORE  END
+ MIXER END
+in cycle 21    ETEST: .0000042450000000   CTEST: .0005856
+ LAPW0 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+ CORE  END
+ CORE  END
+ MIXER END
+in cycle 22    ETEST: .0000023800000000   CTEST: .0002817
+ LAPW0 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+ CORE  END
+ CORE  END
+ MIXER END
+in cycle 23    ETEST: .0000033600000000   CTEST: .0003012
+ LAPW0 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+ CORE  END
+ CORE  END
+ MIXER END
+
+>   stop
+New version of save_lapw selected
+
+Starting save:
+   MnTe-AFM-eos.struct -> ./MnTe-AFM-eos_vol____3.00_default.struct
+   MnTe-AFM-eos.clmsum -> ./MnTe-AFM-eos_vol____3.00_default.clmsum
+   MnTe-AFM-eos.clmup -> ./MnTe-AFM-eos_vol____3.00_default.clmup
+   MnTe-AFM-eos.clmdn -> ./MnTe-AFM-eos_vol____3.00_default.clmdn
+   MnTe-AFM-eos.dmatup -> ./MnTe-AFM-eos_vol____3.00_default.dmatup
+   MnTe-AFM-eos.dmatdn -> ./MnTe-AFM-eos_vol____3.00_default.dmatdn
+   MnTe-AFM-eos.dmatud -> ./MnTe-AFM-eos_vol____3.00_default.dmatud
+   MnTe-AFM-eos.eeceup -> ./MnTe-AFM-eos_vol____3.00_default.eeceup
+   MnTe-AFM-eos.eecedn -> ./MnTe-AFM-eos_vol____3.00_default.eecedn
+   MnTe-AFM-eos.vorbup -> ./MnTe-AFM-eos_vol____3.00_default.vorbup
+   MnTe-AFM-eos.vorbdn -> ./MnTe-AFM-eos_vol____3.00_default.vorbdn
+   MnTe-AFM-eos.vorbud -> ./MnTe-AFM-eos_vol____3.00_default.vorbud
+   MnTe-AFM-eos.vrespsum -> ./MnTe-AFM-eos_vol____3.00_default.vrespsum
+   MnTe-AFM-eos.vrespup -> ./MnTe-AFM-eos_vol____3.00_default.vrespup
+   MnTe-AFM-eos.vrespdn -> ./MnTe-AFM-eos_vol____3.00_default.vrespdn
+   MnTe-AFM-eos.kgen -> ./MnTe-AFM-eos_vol____3.00_default.kgen
+   MnTe-AFM-eos.kgen_ibz -> ./MnTe-AFM-eos_vol____3.00_default.kgen_ibz
+   MnTe-AFM-eos.kgen_ribz -> ./MnTe-AFM-eos_vol____3.00_default.kgen_ribz
+   MnTe-AFM-eos.klist -> ./MnTe-AFM-eos_vol____3.00_default.klist
+   MnTe-AFM-eos.klist_fbz -> ./MnTe-AFM-eos_vol____3.00_default.klist_fbz
+   MnTe-AFM-eos.klist_ibz -> ./MnTe-AFM-eos_vol____3.00_default.klist_ibz
+   MnTe-AFM-eos.klist_ibz_all -> ./MnTe-AFM-eos_vol____3.00_default.klist_ibz_all
+   MnTe-AFM-eos.klist_rfbz -> ./MnTe-AFM-eos_vol____3.00_default.klist_rfbz
+   MnTe-AFM-eos.klist_ribz -> ./MnTe-AFM-eos_vol____3.00_default.klist_ribz
+   MnTe-AFM-eos.ksym -> ./MnTe-AFM-eos_vol____3.00_default.ksym
+   MnTe-AFM-eos.outputkgenhf -> ./MnTe-AFM-eos_vol____3.00_default.outputkgenhf
+   MnTe-AFM-eos.scf -> ./MnTe-AFM-eos_vol____3.00_default.scf
+   MnTe-AFM-eos.scf2 -> ./MnTe-AFM-eos_vol____3.00_default.scf2
+   MnTe-AFM-eos.scf2up -> ./MnTe-AFM-eos_vol____3.00_default.scf2up
+   MnTe-AFM-eos.scf2dn -> ./MnTe-AFM-eos_vol____3.00_default.scf2dn
+   MnTe-AFM-eos.in0 -> ./MnTe-AFM-eos_vol____3.00_default.in0
+   MnTe-AFM-eos.in0abp -> ./MnTe-AFM-eos_vol____3.00_default.in0abp
+   MnTe-AFM-eos.in0_st -> ./MnTe-AFM-eos_vol____3.00_default.in0_st
+   MnTe-AFM-eos.in0_std -> ./MnTe-AFM-eos_vol____3.00_default.in0_std
+   MnTe-AFM-eos.in1 -> ./MnTe-AFM-eos_vol____3.00_default.in1
+   MnTe-AFM-eos.in1new -> ./MnTe-AFM-eos_vol____3.00_default.in1new
+   MnTe-AFM-eos.in1_orig -> ./MnTe-AFM-eos_vol____3.00_default.in1_orig
+   MnTe-AFM-eos.in1_st -> ./MnTe-AFM-eos_vol____3.00_default.in1_st
+   MnTe-AFM-eos.in2 -> ./MnTe-AFM-eos_vol____3.00_default.in2
+   MnTe-AFM-eos.in2_ls -> ./MnTe-AFM-eos_vol____3.00_default.in2_ls
+   MnTe-AFM-eos.in2_st -> ./MnTe-AFM-eos_vol____3.00_default.in2_st
+   MnTe-AFM-eos.in2_sy -> ./MnTe-AFM-eos_vol____3.00_default.in2_sy
+   MnTe-AFM-eos.inc -> ./MnTe-AFM-eos_vol____3.00_default.inc
+   MnTe-AFM-eos.inc_st -> ./MnTe-AFM-eos_vol____3.00_default.inc_st
+   MnTe-AFM-eos.incup -> ./MnTe-AFM-eos_vol____3.00_default.incup
+   MnTe-AFM-eos.inm -> ./MnTe-AFM-eos_vol____3.00_default.inm
+   MnTe-AFM-eos.inm_restart_st -> ./MnTe-AFM-eos_vol____3.00_default.inm_restart_st
+   MnTe-AFM-eos.inm_st -> ./MnTe-AFM-eos_vol____3.00_default.inm_st
+   MnTe-AFM-eos.inq -> ./MnTe-AFM-eos_vol____3.00_default.inq
+   MnTe-AFM-eos.inq_st -> ./MnTe-AFM-eos_vol____3.00_default.inq_st
+   MnTe-AFM-eos.inso -> ./MnTe-AFM-eos_vol____3.00_default.inso
+   MnTe-AFM-eos.inst -> ./MnTe-AFM-eos_vol____3.00_default.inst
+   MnTe-AFM-eos.nmat_only -> ./MnTe-AFM-eos_vol____3.00_default.nmat_only
+   MnTe-AFM-eos.vsp -> ./MnTe-AFM-eos_vol____3.00_default.vsp
+   MnTe-AFM-eos.vspup -> ./MnTe-AFM-eos_vol____3.00_default.vspup
+   MnTe-AFM-eos.vspdn -> ./MnTe-AFM-eos_vol____3.00_default.vspdn
+   MnTe-AFM-eos.vns -> ./MnTe-AFM-eos_vol____3.00_default.vns
+   MnTe-AFM-eos.vnsup -> ./MnTe-AFM-eos_vol____3.00_default.vnsup
+   MnTe-AFM-eos.vnsdn -> ./MnTe-AFM-eos_vol____3.00_default.vnsdn
+   MnTe-AFM-eos.r2v -> ./MnTe-AFM-eos_vol____3.00_default.r2v
+   MnTe-AFM-eos.r2vdn -> ./MnTe-AFM-eos_vol____3.00_default.r2vdn
+   MnTe-AFM-eos.r2v_nonloc -> ./MnTe-AFM-eos_vol____3.00_default.r2v_nonloc
+   MnTe-AFM-eos.r2v_nonlocdn -> ./MnTe-AFM-eos_vol____3.00_default.r2v_nonlocdn
+
+broyden files deleted, clm*, dmat*, vorb*, vresp*, eece*, vsp*, vns*, scf, struct and input files saved under ./MnTe-AFM-eos_vol____3.00_default
+
+starting parallel dstart at Wed Oct 16 12:32:50 +0330 2019
+-------- .machine0 : processors
+running dstart in single mode
+ C  T F
+DSTART ENDS
+0.848u 0.005s 0:00.85 98.8%	0+0k 0+1072io 0pf+0w
+0.013u 0.003s 0:00.01 100.0%	0+0k 0+1040io 0pf+0w
+clmextrapol_lapw has generated a new MnTe-AFM-eos.clmsum
+starting parallel dstart at Wed Oct 16 12:32:51 +0330 2019
+-------- .machine0 : processors
+running dstart in single mode
+ C  T F
+DSTART ENDS
+0.897u 0.007s 0:00.90 98.8%	0+0k 0+1064io 0pf+0w
+0.016u 0.000s 0:00.01 100.0%	0+0k 0+1040io 0pf+0w
+clmextrapol_lapw has generated a new MnTe-AFM-eos.clmup
+starting parallel dstart at Wed Oct 16 12:32:52 +0330 2019
+-------- .machine0 : processors
+running dstart in single mode
+ C  T F
+DSTART ENDS
+0.904u 0.002s 0:00.90 100.0%	0+0k 0+1064io 0pf+0w
+0.013u 0.003s 0:00.01 100.0%	0+0k 0+1040io 0pf+0w
+clmextrapol_lapw has generated a new MnTe-AFM-eos.clmdn
+ LAPW0 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+ CORE  END
+ CORE  END
+ MIXER END
+in cycle 2    ETEST: 0   CTEST: 0
+ LAPW0 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+ CORE  END
+ CORE  END
+ MIXER END
+in cycle 3    ETEST: 0   CTEST: 0
+ LAPW0 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+ CORE  END
+ CORE  END
+ MIXER END
+in cycle 4    ETEST: .0038908950000000   CTEST: .0465970
+ LAPW0 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+ CORE  END
+ CORE  END
+ MIXER END
+in cycle 5    ETEST: .0023588700000000   CTEST: .0380229
+ LAPW0 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+ CORE  END
+ CORE  END
+ MIXER END
+in cycle 6    ETEST: .0378472150000000   CTEST: .1283173
+ LAPW0 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+ CORE  END
+ CORE  END
+ MIXER END
+in cycle 7    ETEST: .0193711650000000   CTEST: .1081013
+ LAPW0 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+ CORE  END
+ CORE  END
+ MIXER END
+in cycle 8    ETEST: .0001378550000000   CTEST: .1001232
+ LAPW0 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+ CORE  END
+ CORE  END
+ MIXER END
+in cycle 9    ETEST: .0000283450000000   CTEST: .0992487
+ LAPW0 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+ CORE  END
+ CORE  END
+ MIXER END
+in cycle 10    ETEST: .0000634400000000   CTEST: .0658395
+ LAPW0 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+ CORE  END
+ CORE  END
+ MIXER END
+in cycle 11    ETEST: .0000549800000000   CTEST: .0406432
+ LAPW0 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+ CORE  END
+ CORE  END
+ MIXER END
+in cycle 12    ETEST: .0000096050000000   CTEST: .0290269
+ LAPW0 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+ CORE  END
+ CORE  END
+ MIXER END
+in cycle 13    ETEST: .0000022600000000   CTEST: .0066220
+ LAPW0 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+ CORE  END
+ CORE  END
+ MIXER END
+in cycle 14    ETEST: .0000021950000000   CTEST: .0075990
+ LAPW0 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+ CORE  END
+ CORE  END
+ MIXER END
+in cycle 15    ETEST: .0000041150000000   CTEST: .0007856
+ LAPW0 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+ CORE  END
+ CORE  END
+ MIXER END
+in cycle 16    ETEST: .0000017500000000   CTEST: .0004403
+ LAPW0 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+ CORE  END
+ CORE  END
+ MIXER END
+in cycle 17    ETEST: .0000046150000000   CTEST: .0002035
+ LAPW0 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+ LAPW1 END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+LAPW2 - FERMI; weights written
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ LAPW2 END
+ SUMPARA END
+ CORE  END
+ CORE  END
+ MIXER END
+
+>   stop
+New version of save_lapw selected
+
+Starting save:
+   MnTe-AFM-eos.struct -> ./MnTe-AFM-eos_vol____6.00_default.struct
+   MnTe-AFM-eos.clmsum -> ./MnTe-AFM-eos_vol____6.00_default.clmsum
+   MnTe-AFM-eos.clmup -> ./MnTe-AFM-eos_vol____6.00_default.clmup
+   MnTe-AFM-eos.clmdn -> ./MnTe-AFM-eos_vol____6.00_default.clmdn
+   MnTe-AFM-eos.dmatup -> ./MnTe-AFM-eos_vol____6.00_default.dmatup
+   MnTe-AFM-eos.dmatdn -> ./MnTe-AFM-eos_vol____6.00_default.dmatdn
+   MnTe-AFM-eos.dmatud -> ./MnTe-AFM-eos_vol____6.00_default.dmatud
+   MnTe-AFM-eos.eeceup -> ./MnTe-AFM-eos_vol____6.00_default.eeceup
+   MnTe-AFM-eos.eecedn -> ./MnTe-AFM-eos_vol____6.00_default.eecedn
+   MnTe-AFM-eos.vorbup -> ./MnTe-AFM-eos_vol____6.00_default.vorbup
+   MnTe-AFM-eos.vorbdn -> ./MnTe-AFM-eos_vol____6.00_default.vorbdn
+   MnTe-AFM-eos.vorbud -> ./MnTe-AFM-eos_vol____6.00_default.vorbud
+   MnTe-AFM-eos.vrespsum -> ./MnTe-AFM-eos_vol____6.00_default.vrespsum
+   MnTe-AFM-eos.vrespup -> ./MnTe-AFM-eos_vol____6.00_default.vrespup
+   MnTe-AFM-eos.vrespdn -> ./MnTe-AFM-eos_vol____6.00_default.vrespdn
+   MnTe-AFM-eos.kgen -> ./MnTe-AFM-eos_vol____6.00_default.kgen
+   MnTe-AFM-eos.kgen_ibz -> ./MnTe-AFM-eos_vol____6.00_default.kgen_ibz
+   MnTe-AFM-eos.kgen_ribz -> ./MnTe-AFM-eos_vol____6.00_default.kgen_ribz
+   MnTe-AFM-eos.klist -> ./MnTe-AFM-eos_vol____6.00_default.klist
+   MnTe-AFM-eos.klist_fbz -> ./MnTe-AFM-eos_vol____6.00_default.klist_fbz
+   MnTe-AFM-eos.klist_ibz -> ./MnTe-AFM-eos_vol____6.00_default.klist_ibz
+   MnTe-AFM-eos.klist_ibz_all -> ./MnTe-AFM-eos_vol____6.00_default.klist_ibz_all
+   MnTe-AFM-eos.klist_rfbz -> ./MnTe-AFM-eos_vol____6.00_default.klist_rfbz
+   MnTe-AFM-eos.klist_ribz -> ./MnTe-AFM-eos_vol____6.00_default.klist_ribz
+   MnTe-AFM-eos.ksym -> ./MnTe-AFM-eos_vol____6.00_default.ksym
+   MnTe-AFM-eos.outputkgenhf -> ./MnTe-AFM-eos_vol____6.00_default.outputkgenhf
+   MnTe-AFM-eos.scf -> ./MnTe-AFM-eos_vol____6.00_default.scf
+   MnTe-AFM-eos.scf2 -> ./MnTe-AFM-eos_vol____6.00_default.scf2
+   MnTe-AFM-eos.scf2up -> ./MnTe-AFM-eos_vol____6.00_default.scf2up
+   MnTe-AFM-eos.scf2dn -> ./MnTe-AFM-eos_vol____6.00_default.scf2dn
+   MnTe-AFM-eos.in0 -> ./MnTe-AFM-eos_vol____6.00_default.in0
+   MnTe-AFM-eos.in0abp -> ./MnTe-AFM-eos_vol____6.00_default.in0abp
+   MnTe-AFM-eos.in0_st -> ./MnTe-AFM-eos_vol____6.00_default.in0_st
+   MnTe-AFM-eos.in0_std -> ./MnTe-AFM-eos_vol____6.00_default.in0_std
+   MnTe-AFM-eos.in1 -> ./MnTe-AFM-eos_vol____6.00_default.in1
+   MnTe-AFM-eos.in1new -> ./MnTe-AFM-eos_vol____6.00_default.in1new
+   MnTe-AFM-eos.in1_orig -> ./MnTe-AFM-eos_vol____6.00_default.in1_orig
+   MnTe-AFM-eos.in1_st -> ./MnTe-AFM-eos_vol____6.00_default.in1_st
+   MnTe-AFM-eos.in2 -> ./MnTe-AFM-eos_vol____6.00_default.in2
+   MnTe-AFM-eos.in2_ls -> ./MnTe-AFM-eos_vol____6.00_default.in2_ls
+   MnTe-AFM-eos.in2_st -> ./MnTe-AFM-eos_vol____6.00_default.in2_st
+   MnTe-AFM-eos.in2_sy -> ./MnTe-AFM-eos_vol____6.00_default.in2_sy
+   MnTe-AFM-eos.inc -> ./MnTe-AFM-eos_vol____6.00_default.inc
+   MnTe-AFM-eos.inc_st -> ./MnTe-AFM-eos_vol____6.00_default.inc_st
+   MnTe-AFM-eos.incup -> ./MnTe-AFM-eos_vol____6.00_default.incup
+   MnTe-AFM-eos.inm -> ./MnTe-AFM-eos_vol____6.00_default.inm
+   MnTe-AFM-eos.inm_restart_st -> ./MnTe-AFM-eos_vol____6.00_default.inm_restart_st
+   MnTe-AFM-eos.inm_st -> ./MnTe-AFM-eos_vol____6.00_default.inm_st
+   MnTe-AFM-eos.inq -> ./MnTe-AFM-eos_vol____6.00_default.inq
+   MnTe-AFM-eos.inq_st -> ./MnTe-AFM-eos_vol____6.00_default.inq_st
+   MnTe-AFM-eos.inso -> ./MnTe-AFM-eos_vol____6.00_default.inso
+   MnTe-AFM-eos.inst -> ./MnTe-AFM-eos_vol____6.00_default.inst
+   MnTe-AFM-eos.nmat_only -> ./MnTe-AFM-eos_vol____6.00_default.nmat_only
+   MnTe-AFM-eos.vsp -> ./MnTe-AFM-eos_vol____6.00_default.vsp
+   MnTe-AFM-eos.vspup -> ./MnTe-AFM-eos_vol____6.00_default.vspup
+   MnTe-AFM-eos.vspdn -> ./MnTe-AFM-eos_vol____6.00_default.vspdn
+   MnTe-AFM-eos.vns -> ./MnTe-AFM-eos_vol____6.00_default.vns
+   MnTe-AFM-eos.vnsup -> ./MnTe-AFM-eos_vol____6.00_default.vnsup
+   MnTe-AFM-eos.vnsdn -> ./MnTe-AFM-eos_vol____6.00_default.vnsdn
+   MnTe-AFM-eos.r2v -> ./MnTe-AFM-eos_vol____6.00_default.r2v
+   MnTe-AFM-eos.r2vdn -> ./MnTe-AFM-eos_vol____6.00_default.r2vdn
+   MnTe-AFM-eos.r2v_nonloc -> ./MnTe-AFM-eos_vol____6.00_default.r2v_nonloc
+   MnTe-AFM-eos.r2v_nonlocdn -> ./MnTe-AFM-eos_vol____6.00_default.r2v_nonlocdn
+
+broyden files deleted, clm*, dmat*, vorb*, vresp*, eece*, vsp*, vns*, scf, struct and input files saved under ./MnTe-AFM-eos_vol____6.00_default
+

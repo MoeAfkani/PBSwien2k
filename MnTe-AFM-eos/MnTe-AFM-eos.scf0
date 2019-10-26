@@ -1,0 +1,103 @@
+ Flat Integration
+ New Mode for Coulomb Integral
+ Consistent 3/8+Simpson combinations
+ Extension of core to zero
+ LDM version in phi
+ Fifth-order quadrature in outwin
+
+
+            ---------
+:ITE101:101. ITERATION
+            ---------
+
+:NATO :    3 INDEPENDENT AND    4 TOTAL ATOMS IN UNITCELL
+       SUBSTANCE: Title                                                       
+
+       LATTICE                      = H   
+:POT  : POTENTIAL OPTION EX_PBE EC_PBE VX_PBE VC_PBE
+:LAT  : LATTICE CONSTANTS=  8.04318  8.04318 12.62151
+:VOL  : UNIT CELL VOLUME =     707.12658
+       MODE OF CALCULATION IS       = RELA
+       SPINPOLARIZED CALCULATION
+:IFFT  : FFT-parameters:   64   64   96 Factor: 2.00
+       ATOMNUMBER=  1 Mnfloor    VCOUL-ZERO =  0.34811E+00
+:EFG001:                        EFG         =    -0.26249   *10**21  V / m**2
+                               V20  TOT/SRF=    -0.22732     0.00568
+                               V22  TOT/SRF=     0.00000     0.00000
+                               V22M TOT/SRF=     0.00000     0.00000
+                               V21  TOT/SRF=     0.00000     0.00000
+                               V21M TOT/SRF=     0.00000     0.00000
+
+              0.13125    0.00000    0.00000        0.13125    0.00000    0.00000
+              0.00000    0.13125    0.00000        0.00000    0.13125    0.00000
+              0.00000    0.00000   -0.26249        0.00000    0.00000   -0.26249
+
+         MAIN DIRECTIONS OF THE EFG   1.0000  0.0000  0.0000
+                                      0.0000  1.0000  0.0000
+                                      0.0000  0.0000  1.0000
+:ANG001:  ANGLE WITH OLD X-AXIS =         0.0
+
+:ETA001:                         ASYMM. ETA =     0.00000
+
+
+       ATOMNUMBER=  2 Te         VCOUL-ZERO =  0.24903E+00
+:EFG002:                        EFG         =    -5.63019   *10**21  V / m**2
+                               V20  TOT/SRF=    -4.87589    -0.00976
+                               V22  TOT/SRF=     0.00000     0.00000
+                               V22M TOT/SRF=     0.00000     0.00000
+                               V21  TOT/SRF=     0.00000     0.00000
+                               V21M TOT/SRF=     0.00000     0.00000
+
+              2.81509    0.00000    0.00000        2.81509    0.00000    0.00000
+              0.00000    2.81509    0.00000        0.00000    2.81509    0.00000
+              0.00000    0.00000   -5.63019        0.00000    0.00000   -5.63019
+
+         MAIN DIRECTIONS OF THE EFG   1.0000  0.0000  0.0000
+                                      0.0000  1.0000  0.0000
+                                      0.0000  0.0000  1.0000
+:ANG002:  ANGLE WITH OLD X-AXIS =         0.0
+
+:ETA002:                         ASYMM. ETA =     0.00000
+
+
+       ATOMNUMBER=  3 Mnmid      VCOUL-ZERO =  0.34810E+00
+:EFG003:                        EFG         =    -0.26236   *10**21  V / m**2
+                               V20  TOT/SRF=    -0.22721     0.00568
+                               V22  TOT/SRF=     0.00000     0.00000
+                               V22M TOT/SRF=     0.00000     0.00000
+                               V21  TOT/SRF=     0.00000     0.00000
+                               V21M TOT/SRF=     0.00000     0.00000
+
+              0.13118    0.00000    0.00000        0.13118    0.00000    0.00000
+              0.00000    0.13118    0.00000        0.00000    0.13118    0.00000
+              0.00000    0.00000   -0.26236        0.00000    0.00000   -0.26236
+
+         MAIN DIRECTIONS OF THE EFG   1.0000  0.0000  0.0000
+                                      0.0000  1.0000  0.0000
+                                      0.0000  0.0000  1.0000
+:ANG003:  ANGLE WITH OLD X-AXIS =         0.0
+
+:ETA003:                         ASYMM. ETA =     0.00000
+
+
+     HELLMANN-FEYNMAN-FORCE IN mRy/a.u. = |F|  Fx       Fy             Fz
+:FHF001:   1.ATOM      0.000000000000      0.000000000000      0.000000000000      0.000000000000
+
+     HELLMANN-FEYNMAN-FORCE IN mRy/a.u. = |F|  Fx       Fy             Fz
+:FHF002:   2.ATOM      0.670042902981      0.000000000000      0.000000000000     -0.670042902981
+
+     HELLMANN-FEYNMAN-FORCE IN mRy/a.u. = |F|  Fx       Fy             Fz
+:FHF003:   3.ATOM      0.000000000000      0.000000000000      0.000000000000      0.000000000000
+
+:FIT001: LUSE= 13 SIGMA OF V-XC FIT FOR ATOM  1  0.7584183E-02
+:FIT001: LUSE= 13 SIGMA OF V-XC FIT FOR ATOM  1  0.2849569E-01
+:FIT002: LUSE= 13 SIGMA OF V-XC FIT FOR ATOM  2  0.1721337E-03
+:FIT002: LUSE= 13 SIGMA OF V-XC FIT FOR ATOM  2  0.1721767E-03
+:FIT003: LUSE= 13 SIGMA OF V-XC FIT FOR ATOM  3  0.2851046E-01
+:FIT003: LUSE= 13 SIGMA OF V-XC FIT FOR ATOM  3  0.7586999E-02
+:DEN  : DENSITY INTEGRAL  =        -12603.76067433   (Ry)
+       ELS_POTENTIAL_AT Z=0 and Z=0.5:  -0.00250  -0.00250
+       ELS_POTENTIAL_AT Y=0 and Y=0.5:   0.00000   0.00000
+:VZERO:v0,v0c,v0x  -0.65027  -0.00250  -0.64777 v5,v5c,v5x  -0.60059  -0.00250  -0.59809
+:VZERY:v0,v0c,v0x  -0.67152   0.00000  -0.67152 v5,v5c,v5x  -0.67152   0.00000  -0.67152
+:VZERX:v0,v0c,v0x  -1.12764  -0.39264  -0.73500 v5,v5c,v5x  -0.28229   0.37661  -0.65890

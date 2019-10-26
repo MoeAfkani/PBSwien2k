@@ -1,0 +1,5 @@
+5, 'MnTe-AFM-scf.irrepdn',      'unknown','formatted',0
+6, 'MnTe-AFM-scf.outputirdn',    'unknown','formatted',0
+9, './MnTe-AFM-scf.vectorup',      'unknown',    'unformatted',9000
+10,'./MnTe-AFM-scf.vectordn',      'old',    'unformatted',9000
+20,'MnTe-AFM-scf.struct',          'old',    'formatted',0

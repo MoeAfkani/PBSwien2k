@@ -1,0 +1,72 @@
+ Flat Integration
+ New Mode for Coulomb Integral
+ Consistent 3/8+Simpson combinations
+ Extension of core to zero
+ LDM version in phi
+ Fifth-order quadrature in outwin
+
+
+            ---------
+:ITE142:142. ITERATION
+            ---------
+
+:NATO :    2 INDEPENDENT AND    4 TOTAL ATOMS IN UNITCELL
+       SUBSTANCE: Title                                                       
+
+       LATTICE                      = H   
+:POT  : POTENTIAL OPTION EX_PBE EC_PBE VX_PBE VC_PBE
+:LAT  : LATTICE CONSTANTS=  8.14535  8.14535 11.42668
+:VOL  : UNIT CELL VOLUME =     656.55403
+       MODE OF CALCULATION IS       = RELA
+       SPINPOLARIZED CALCULATION
+:IFFT  : FFT-parameters:   64   64   90 Factor: 2.00
+       ATOMNUMBER=  1 Mn         VCOUL-ZERO =  0.39214E+00
+:EFG001:                        EFG         =    -3.16600   *10**21  V / m**2
+                               V20  TOT/SRF=    -2.74183    -0.02997
+                               V22  TOT/SRF=     0.00000     0.00000
+                               V22M TOT/SRF=     0.00000     0.00000
+                               V21  TOT/SRF=     0.00000     0.00000
+                               V21M TOT/SRF=     0.00000     0.00000
+
+              1.58300    0.00000    0.00000        1.58300    0.00000    0.00000
+              0.00000    1.58300    0.00000        0.00000    1.58300    0.00000
+              0.00000    0.00000   -3.16600        0.00000    0.00000   -3.16600
+
+         MAIN DIRECTIONS OF THE EFG   1.0000  0.0000  0.0000
+                                      0.0000  1.0000  0.0000
+                                      0.0000  0.0000  1.0000
+:ANG001:  ANGLE WITH OLD X-AXIS =         0.0
+
+:ETA001:                         ASYMM. ETA =     0.00000
+
+
+       ATOMNUMBER=  2 Te         VCOUL-ZERO =  0.25620E+00
+:EFG002:                        EFG         =    -8.83730   *10**21  V / m**2
+                               V20  TOT/SRF=    -7.65333    -0.01792
+                               V22  TOT/SRF=     0.00000     0.00000
+                               V22M TOT/SRF=     0.00000     0.00000
+                               V21  TOT/SRF=     0.00000     0.00000
+                               V21M TOT/SRF=     0.00000     0.00000
+
+              4.41865    0.00000    0.00000        4.41865    0.00000    0.00000
+              0.00000    4.41865    0.00000        0.00000    4.41865    0.00000
+              0.00000    0.00000   -8.83730        0.00000    0.00000   -8.83730
+
+         MAIN DIRECTIONS OF THE EFG   1.0000  0.0000  0.0000
+                                      0.0000  1.0000  0.0000
+                                      0.0000  0.0000  1.0000
+:ANG002:  ANGLE WITH OLD X-AXIS =         0.0
+
+:ETA002:                         ASYMM. ETA =     0.00000
+
+
+:FIT001: LUSE= 13 SIGMA OF V-XC FIT FOR ATOM  1  0.6679636E-02
+:FIT001: LUSE= 13 SIGMA OF V-XC FIT FOR ATOM  1  0.1977245E-01
+:FIT002: LUSE= 13 SIGMA OF V-XC FIT FOR ATOM  2  0.2632352E-03
+:FIT002: LUSE= 13 SIGMA OF V-XC FIT FOR ATOM  2  0.4394806E-04
+:DEN  : DENSITY INTEGRAL  =        -12611.60677350   (Ry)
+       ELS_POTENTIAL_AT Z=0 and Z=0.5:   0.03598   0.03598
+       ELS_POTENTIAL_AT Y=0 and Y=0.5:   0.00000   0.00000
+:VZERO:v0,v0c,v0x  -0.65340   0.03598  -0.68939 v5,v5c,v5x  -0.65340   0.03598  -0.68939
+:VZERY:v0,v0c,v0x  -0.71088   0.00000  -0.71088 v5,v5c,v5x  -0.71088   0.00000  -0.71088
+:VZERX:v0,v0c,v0x  -1.24046  -0.42441  -0.81605 v5,v5c,v5x  -0.23302   0.40089  -0.63391
