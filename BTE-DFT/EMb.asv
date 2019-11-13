@@ -1,0 +1,11 @@
+function m = EMb(~,ky,kz,E,MaxE)
+h=6.626e-34;           %Js
+me=9.1e-31;            %kg
+e=1.602e-19;           %C
+
+if isempty(MaxE)
+    MaxE=0.5; %ev
+end
+
+end
+
