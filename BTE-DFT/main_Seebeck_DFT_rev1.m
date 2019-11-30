@@ -94,19 +94,26 @@ grid on
 
 toc
 
+%%
+z= EMg(gc,Ec,[]);
 
-GV=gv(2:50)
-EV=Ev(2:50)
+EkMatrix=readEk('Mn7CrTe/Mn7Cr1Te-scf.energydn_1');
 
-GC=gc(2:50)
-EC=Ec(2:50)
-
-mmv= (( (((GV).^2)./EV)*(h^3/4/pi)^2/(8)  ).^(1/3)) /me
-mmc= (( (((GC).^2)./EC)*(h^3/4/pi)^2/(8)  ).^(1/3)) /me
-%
-
-mean(mmc)
-mean(mmv)
-
-
-z= EMg(GV,EV,[])
+FER=0.6635707483;
+Ek=[];
+rowNum = 1;
+while rowNum<length(EkMatrix)
+    if  isnan (EkMatrix(rowNum, 4))
+        for inLine=rowNum:rowNum+EkMatrix(rowNum,6)
+            tempE=[];
+            if abs(EkMatrix(inLine,2)-FER ) < 0.5
+                tempE=[tempE,EkMatrix(inLine,2)-FER];
+                disp(tempE);
+            end
+        end
+        rowNum=rowNum+EkMatrix(rowNum,6)+1;
+    end
+    Ek=[Ek;EkMatrix(rowNum, 1:3) , tempE];
+end
+        
+        
