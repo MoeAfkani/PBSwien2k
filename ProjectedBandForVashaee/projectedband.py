@@ -6,15 +6,16 @@ import matplotlib.pyplot as plt
 #from matplotlib.offsetbox import AnchoredText
 #import matplotlib.ticker as ticker
 #import pandas as pd
+'''
 import matplotlib as mpl
 #from matplotlib.lines import Line2D
 
 myfont = {'family': 'Times New Roman',
         'size': 12,
 }
-#plt.rcParams["font.family"] = "serif"
-#mpl.rc('text', usetex=True)
-
+plt.rcParams["font.family"] = "serif"
+mpl.rc('text', usetex=True)
+'''
 Ene = []
 k=[]
 dos=[[],[],[],[],[],[]]
@@ -53,7 +54,7 @@ for l1,l2 in zip(dosfile1,dosfile2):
 # reduce e range
 
 for e in Ene:
-    if e==[] or abs(sum(e)/len(e)) >8 : Ene.remove(e)
+    if e==[] or abs(sum(e)/len(e)) >4 : Ene.remove(e)
 
 Ene = [e for e in Ene if len(e)!=0]
 Ene = [e for e in Ene if abs(sum(e)/len(e))<8]
@@ -61,7 +62,7 @@ Ene = [e for e in Ene if abs(sum(e)/len(e))<8]
 
 
 for e in dosE:
-    if abs(e)> 8:
+    if abs(e)> 4:
         inx = dosE.index(e)
         for d in dos: d.pop(inx)
         dosE.pop(inx)
@@ -71,16 +72,44 @@ def color(e):
     inx = dosE.index(min(dosE, key=lambda x:abs(x-e)))
     try:
         tempTot = dos[1][inx] + dos[2][inx] + dos[5][inx]
-        Sper = dos[1][inx]/tempTot
-        Pper = dos[2][inx]/tempTot
-        Dper = dos[5][inx]/tempTot
-        col = [((Pper+2)/4,(Dper+2)/4,(Sper+2)/4)]
+        S = dos[1][inx]/tempTot
+        P = dos[2][inx]/tempTot
+        D = dos[5][inx]/tempTot
+        a=0.25
+        b=25
+        col = [((a*S+a*P+b*D)/30 , (b*S+a*P+a*D)/30 , (a*S+b*P+a*D)/30)]
     except ZeroDivisionError: col= [(0,0,0)]
     return col
 
+
+k_points=[0,0.45317,0.71481,1.23809,1.51784,1.97101,2.23265,2.75593]
+
+fig, (band) = plt.subplots(1,1,figsize=(7,7), sharey='all',
+                        gridspec_kw={'hspace': 0, 'wspace': 0})
+
+band.set_xlim([min(k) , max(k)])
+band.set_xlim([-4,4])
+plt.setp((band), 
+         xticks=k_points,
+         xticklabels=['G', 'M', 'K' , 'G', 'A', 'L', 'H' ,'A'])
+
 for band in Ene:
     for e in range(len(band)):
-        plt.scatter(k[e],band[e],s=20 , color=color(band[e]) ,alpha=.9)
+        plt.scatter(k[e],band[e],s=15 , color=color(band[e]) ,alpha=1)
+
+
+
+
+for i in k_points[:-1]:  
+    plt.axvline(x=i,c='black',lw=1)
+plt.axhline(y=0,c='black',ls='--')
+
+
+
+
+plt.title("MnTe Up")
+#plt.ylabel('$E-E_F$ (eV)',fontsize=16)
+plt.ylabel('E-E_F (eV)',fontsize=16)
 plt.show()
 
 
