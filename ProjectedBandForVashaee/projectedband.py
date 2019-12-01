@@ -1,6 +1,5 @@
 ################################################################################
-pathToDos = "/home/moonak/Documents/ProjectedBandForVashaee/graphene.dos1ev"
-fermi=-0.1676706872  #fermi energy of bulk
+fermi=0 #fermi energy of bulk
 
 ################################################################################
 import matplotlib.pyplot as plt
@@ -18,14 +17,16 @@ myfont = {'family': 'Times New Roman',
 
 Ene = []
 k=[]
-dos=[[],[],[]]
+dos=[[],[],[],[],[],[]]
 dosE=[]
-bandfile= open("graphene.spaghetti_ene")
+bandfile= open("MnTe-scf.spaghettiup_ene")
 for line in bandfile:
     if line[0]=="#" or 'bandindex:' in line :
         Ene.append([])
         continue
-    temp=[float(x) for x in line.split()]
+    try:
+        temp=[float(x) for x in line.split()]
+    except ValueError: continue
     try:
         Ene[-1].append(temp[-1])
     except: None
@@ -34,21 +35,29 @@ for line in bandfile:
             k.append(temp[-2])
     except: None
     
-dosfile= open("graphene.dos1ev")
-for line in dosfile:
-    if line[0]=="#":
+dosfile1= open("MnTe-scf-dos.dos1evup")
+dosfile2= open("MnTe-scf-dos.dos2evup")
+for l1,l2 in zip(dosfile1,dosfile2):
+    if l1[0]=="#" or l2[0]=="#":
         continue
-    temp=[float(x) for x in line.split()]
+    temp1=[float(x) for x in l1.split()]
+    temp2=[float(x) for x in l2.split()]
     try:
-        dosE.append(temp[0])
+        dosE.append(temp1[0])
         for i in range(len(dos)):
-            dos[i].append(temp[2+i])
+            dos[i].append(temp1[2+i]+temp2[2+i])
     except: None
 
+
+    
 # reduce e range
 
 for e in Ene:
-    if abs(sum(e)/len(e)) > 8:Ene.remove(e)
+    if e==[] or abs(sum(e)/len(e)) >8 : Ene.remove(e)
+
+Ene = [e for e in Ene if len(e)!=0]
+Ene = [e for e in Ene if abs(sum(e)/len(e))<8]
+
 
 
 for e in dosE:
@@ -61,15 +70,17 @@ for e in dosE:
 def color(e):
     inx = dosE.index(min(dosE, key=lambda x:abs(x-e)))
     try:
-        Sper = dos[1][inx]/dos[0][inx]
-        Pper = dos[2][inx]/dos[0][inx]
-        col = [(Pper,1,0)]
+        tempTot = dos[1][inx] + dos[2][inx] + dos[5][inx]
+        Sper = dos[1][inx]/tempTot
+        Pper = dos[2][inx]/tempTot
+        Dper = dos[5][inx]/tempTot
+        col = [((Pper+2)/4,(Dper+2)/4,(Sper+2)/4)]
     except ZeroDivisionError: col= [(0,0,0)]
     return col
 
 for band in Ene:
     for e in range(len(band)):
-        plt.scatter(k[e],band[e], color=color(band[e]) ,marker=3)
+        plt.scatter(k[e],band[e],s=20 , color=color(band[e]) ,alpha=.9)
 plt.show()
 
 
